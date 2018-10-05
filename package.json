@@ -13,6 +13,7 @@
   },
   "homepage": "https://github.com/samuelgoto/cars",
   "dependencies": {
-    "jMatFile": "github:fluffynukeit/jMatFile"
+    "jMatFile": "github:fluffynukeit/jMatFile",
+    "jbinary": "^2.1.3"
   }
 }
