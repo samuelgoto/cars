@@ -1,51 +1,189 @@
 {
   "images": [
-    "00089.jpg", 
-    "00274.jpg", 
-    "00600.jpg", 
-    "00602.jpg", 
-    "00681.jpg", 
-    "00772.jpg", 
-    "00899.jpg", 
-    "00918.jpg", 
-    "00956.jpg", 
-    "01048.jpg", 
-    "01123.jpg", 
-    "01298.jpg", 
-    "01643.jpg", 
-    "02185.jpg", 
-    "02412.jpg", 
-    "02441.jpg", 
-    "02688.jpg", 
-    "02958.jpg", 
-    "02974.jpg", 
-    "03025.jpg", 
-    "03157.jpg", 
-    "03344.jpg", 
-    "03367.jpg", 
-    "03412.jpg", 
-    "03543.jpg", 
-    "03887.jpg", 
-    "03952.jpg", 
-    "04195.jpg", 
-    "04237.jpg", 
-    "04581.jpg", 
-    "04696.jpg", 
-    "04733.jpg", 
-    "04802.jpg", 
-    "05007.jpg", 
-    "05122.jpg", 
-    "05162.jpg", 
-    "05212.jpg", 
-    "05705.jpg", 
-    "05965.jpg", 
-    "05986.jpg", 
-    "06151.jpg", 
-    "06677.jpg", 
-    "06741.jpg", 
-    "06830.jpg", 
-    "06914.jpg", 
-    "06954.jpg"
+    {
+      "url": "00089.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00274.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00600.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00602.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00681.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00772.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00899.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00918.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00956.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01048.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01123.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01298.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01643.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02185.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02412.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02441.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02688.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02958.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02974.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03025.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03157.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03344.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03367.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03412.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03543.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03887.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03952.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04195.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04237.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04581.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04696.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04733.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04802.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05007.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05122.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05162.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05212.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05705.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05965.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05986.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06151.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06677.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06741.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06830.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06914.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06954.jpg", 
+      "@type": "Image"
+    }
   ], 
   "@context": "https://code.sgo.to/datasets", 
   "@id": "20", 

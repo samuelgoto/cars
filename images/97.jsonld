@@ -1,51 +1,189 @@
 {
   "images": [
-    "00550.jpg", 
-    "00606.jpg", 
-    "00616.jpg", 
-    "01434.jpg", 
-    "01619.jpg", 
-    "01676.jpg", 
-    "02066.jpg", 
-    "02429.jpg", 
-    "02532.jpg", 
-    "02612.jpg", 
-    "02692.jpg", 
-    "02710.jpg", 
-    "02831.jpg", 
-    "02838.jpg", 
-    "02869.jpg", 
-    "02917.jpg", 
-    "03058.jpg", 
-    "03084.jpg", 
-    "03264.jpg", 
-    "03270.jpg", 
-    "03272.jpg", 
-    "03671.jpg", 
-    "03674.jpg", 
-    "03786.jpg", 
-    "03827.jpg", 
-    "04297.jpg", 
-    "04331.jpg", 
-    "04528.jpg", 
-    "04701.jpg", 
-    "04902.jpg", 
-    "04953.jpg", 
-    "05061.jpg", 
-    "05084.jpg", 
-    "05509.jpg", 
-    "05896.jpg", 
-    "06083.jpg", 
-    "06216.jpg", 
-    "06306.jpg", 
-    "06327.jpg", 
-    "06350.jpg", 
-    "06694.jpg", 
-    "07091.jpg", 
-    "07482.jpg", 
-    "07523.jpg", 
-    "07576.jpg", 
-    "07768.jpg"
+    {
+      "url": "00550.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00606.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00616.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01434.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01619.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01676.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02066.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02429.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02532.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02612.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02692.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02710.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02831.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02838.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02869.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02917.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03058.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03084.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03264.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03270.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03272.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03671.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03674.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03786.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03827.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04297.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04331.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04528.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04701.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04902.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04953.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05061.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05084.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05509.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05896.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06083.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06216.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06306.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06327.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06350.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06694.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07091.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07482.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07523.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07576.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07768.jpg", 
+      "@type": "Image"
+    }
   ], 
   "@context": "https://code.sgo.to/datasets", 
   "@id": "98", 

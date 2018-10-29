@@ -1,45 +1,165 @@
 {
   "images": [
-    "00181.jpg", 
-    "00779.jpg", 
-    "00812.jpg", 
-    "00967.jpg", 
-    "02060.jpg", 
-    "02121.jpg", 
-    "02205.jpg", 
-    "02296.jpg", 
-    "02299.jpg", 
-    "02347.jpg", 
-    "02486.jpg", 
-    "02503.jpg", 
-    "02854.jpg", 
-    "03426.jpg", 
-    "03604.jpg", 
-    "03724.jpg", 
-    "03763.jpg", 
-    "03800.jpg", 
-    "03896.jpg", 
-    "03961.jpg", 
-    "04249.jpg", 
-    "04707.jpg", 
-    "05168.jpg", 
-    "05317.jpg", 
-    "05439.jpg", 
-    "05595.jpg", 
-    "05832.jpg", 
-    "05942.jpg", 
-    "05991.jpg", 
-    "06050.jpg", 
-    "06066.jpg", 
-    "06321.jpg", 
-    "06459.jpg", 
-    "06765.jpg", 
-    "07085.jpg", 
-    "07138.jpg", 
-    "07587.jpg", 
-    "07676.jpg", 
-    "07784.jpg", 
-    "07907.jpg"
+    {
+      "url": "00181.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00779.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00812.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00967.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02060.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02121.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02205.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02296.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02299.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02347.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02486.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02503.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02854.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03426.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03604.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03724.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03763.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03800.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03896.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03961.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04249.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04707.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05168.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05317.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05439.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05595.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05832.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05942.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05991.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06050.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06066.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06321.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06459.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06765.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07085.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07138.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07587.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07676.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07784.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07907.jpg", 
+      "@type": "Image"
+    }
   ], 
   "@context": "https://code.sgo.to/datasets", 
   "@id": "68", 

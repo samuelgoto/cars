@@ -1,52 +1,193 @@
 {
   "images": [
-    "00123.jpg", 
-    "00555.jpg", 
-    "00901.jpg", 
-    "01119.jpg", 
-    "01301.jpg", 
-    "01349.jpg", 
-    "01406.jpg", 
-    "01446.jpg", 
-    "01455.jpg", 
-    "01744.jpg", 
-    "01840.jpg", 
-    "01989.jpg", 
-    "02159.jpg", 
-    "02487.jpg", 
-    "02497.jpg", 
-    "02701.jpg", 
-    "02745.jpg", 
-    "02875.jpg", 
-    "02907.jpg", 
-    "03409.jpg", 
-    "03515.jpg", 
-    "03591.jpg", 
-    "03743.jpg", 
-    "03805.jpg", 
-    "04081.jpg", 
-    "04217.jpg", 
-    "04365.jpg", 
-    "04378.jpg", 
-    "04433.jpg", 
-    "04540.jpg", 
-    "04751.jpg", 
-    "04813.jpg", 
-    "04901.jpg", 
-    "04926.jpg", 
-    "05153.jpg", 
-    "05233.jpg", 
-    "05311.jpg", 
-    "05950.jpg", 
-    "06021.jpg", 
-    "06238.jpg", 
-    "06275.jpg", 
-    "06379.jpg", 
-    "06417.jpg", 
-    "06439.jpg", 
-    "06617.jpg", 
-    "06900.jpg", 
-    "07114.jpg"
+    {
+      "url": "00123.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00555.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00901.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01119.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01301.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01349.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01406.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01446.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01455.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01744.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01840.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01989.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02159.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02487.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02497.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02701.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02745.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02875.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02907.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03409.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03515.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03591.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03743.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03805.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04081.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04217.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04365.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04378.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04433.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04540.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04751.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04813.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04901.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04926.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05153.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05233.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05311.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05950.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06021.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06238.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06275.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06379.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06417.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06439.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06617.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06900.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07114.jpg", 
+      "@type": "Image"
+    }
   ], 
   "@context": "https://code.sgo.to/datasets", 
   "@id": "144", 

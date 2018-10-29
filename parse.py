@@ -33,7 +33,7 @@ for i in dataset.keys():
             "@context": "https://code.sgo.to/datasets",
             "@id": str(i),
             "name": str(name),
-            "images": dataset[i]
+            "images": map(lambda url: {"@type": "Image", "url": url}, dataset[i])
         }
         # json[] = 
         # f.write(name + "\n")
