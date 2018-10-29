@@ -1,179 +1,189 @@
 {
-  "images": [
-    {
-      "url": "00345.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00832.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01083.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01131.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01175.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01383.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01458.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01686.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01790.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02093.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02444.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02628.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02805.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02830.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02846.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03519.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03870.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04083.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04140.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04164.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04278.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04585.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04699.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04928.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05092.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05115.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05223.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05369.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05390.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05465.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05609.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05732.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05753.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06133.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06283.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06293.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06402.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06463.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06464.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06746.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06967.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07462.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07732.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "113", 
-  "name": "Ford F-150 Regular Cab 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00345.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00832.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01083.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01131.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01175.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01383.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01458.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01686.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01790.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02093.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02444.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02628.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02805.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02830.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02846.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03519.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03870.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04083.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04140.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04164.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04278.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04585.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04699.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04928.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05092.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05115.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05223.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05369.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05390.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05465.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05609.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05732.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05753.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06133.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06283.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06293.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06402.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06463.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06464.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06746.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06967.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07462.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07732.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "113", 
+    "@type": "Class", 
+    "name": "Ford F-150 Regular Cab 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Ford%20F-150%20Regular%20Cab%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00345.jpg"
+  }
 }

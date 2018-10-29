@@ -1,179 +1,189 @@
 {
-  "images": [
-    {
-      "url": "00031.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00035.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00535.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01243.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01396.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01474.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01529.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01602.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01711.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01797.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02090.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02408.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02425.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02513.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02960.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03093.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03546.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03567.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03770.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04320.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04415.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04421.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04515.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04735.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04961.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05139.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05276.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05365.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05599.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05661.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05687.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06042.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06069.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06171.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06370.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06895.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06975.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07164.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07580.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07720.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07810.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07991.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08052.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "154", 
-  "name": "Land Rover Range Rover SUV 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00031.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00035.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00535.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01243.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01396.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01474.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01529.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01602.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01711.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01797.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02090.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02408.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02425.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02513.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02960.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03093.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03546.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03567.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03770.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04320.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04415.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04421.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04515.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04735.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04961.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05139.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05276.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05365.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05599.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05661.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05687.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06042.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06069.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06171.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06370.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06895.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06975.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07164.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07580.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07720.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07810.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07991.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08052.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "154", 
+    "@type": "Class", 
+    "name": "Land Rover Range Rover SUV 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Land%20Rover%20Range%20Rover%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00031.jpg"
+  }
 }

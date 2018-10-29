@@ -1,183 +1,193 @@
 {
-  "images": [
-    {
-      "url": "00072.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00284.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00321.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01188.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01242.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01288.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01295.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01339.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01547.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02291.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02601.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02729.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03036.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03039.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03228.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03601.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03776.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03797.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03869.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03897.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03920.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04102.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04615.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04700.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04889.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05103.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05227.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05550.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05731.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05799.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05847.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06461.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06651.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06948.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07057.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07244.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07248.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07332.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07430.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07465.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07615.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07762.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07924.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08050.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "94", 
-  "name": "Dodge Durango SUV 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00072.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00284.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00321.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01188.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01242.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01288.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01295.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01339.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01547.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02291.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02601.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02729.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03036.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03039.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03228.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03601.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03776.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03797.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03869.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03897.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03920.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04102.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04615.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04700.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04889.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05103.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05227.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05550.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05731.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05799.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05847.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06461.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06651.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06948.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07057.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07244.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07248.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07332.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07430.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07465.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07615.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07762.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07924.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08050.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "94", 
+    "@type": "Class", 
+    "name": "Dodge Durango SUV 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Dodge%20Durango%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00072.jpg"
+  }
 }

@@ -1,183 +1,193 @@
 {
-  "images": [
-    {
-      "url": "00064.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00148.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00259.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00431.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00465.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00553.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00869.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01120.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01139.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01158.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01225.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01550.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01566.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01590.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01930.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02423.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02437.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02621.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03531.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03621.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03623.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03823.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04555.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04726.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04880.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04912.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05117.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05175.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05270.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05285.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05387.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05838.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06016.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06434.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06496.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06730.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06866.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07280.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07358.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07393.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07987.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08036.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08104.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08136.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "187", 
-  "name": "Toyota Camry Sedan 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00064.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00148.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00259.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00431.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00465.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00553.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00869.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01120.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01139.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01158.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01225.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01550.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01566.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01590.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01930.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02423.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02437.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02621.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03531.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03621.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03623.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03823.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04555.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04726.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04880.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04912.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05117.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05175.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05270.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05285.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05387.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05838.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06016.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06434.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06496.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06730.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06866.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07280.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07358.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07393.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07987.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08036.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08104.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08136.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "187", 
+    "@type": "Class", 
+    "name": "Toyota Camry Sedan 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Toyota%20Camry%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00064.jpg"
+  }
 }

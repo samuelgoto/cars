@@ -1,183 +1,193 @@
 {
-  "images": [
-    {
-      "url": "00086.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00344.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00347.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00610.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00621.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00706.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00718.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01173.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01305.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02072.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02174.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02192.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02218.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02940.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02950.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03580.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03586.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04044.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04106.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04226.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04981.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05022.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05104.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05297.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05744.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05776.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05994.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06101.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06177.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06185.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06311.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06452.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06621.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06725.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06851.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06855.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06933.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07227.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07504.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07711.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07753.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07873.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07986.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08060.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "145", 
-  "name": "Jeep Patriot SUV 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00086.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00344.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00347.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00610.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00621.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00706.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00718.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01173.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01305.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02072.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02174.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02192.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02218.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02940.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02950.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03580.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03586.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04044.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04106.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04226.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04981.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05022.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05104.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05297.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05744.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05776.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05994.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06101.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06177.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06185.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06311.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06452.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06621.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06725.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06851.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06855.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06933.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07227.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07504.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07711.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07753.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07873.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07986.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08060.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "145", 
+    "@type": "Class", 
+    "name": "Jeep Patriot SUV 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Jeep%20Patriot%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00086.jpg"
+  }
 }

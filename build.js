@@ -1,15 +1,15 @@
 const fs = require("fs");
 
 let dataset = {
- "@context": "https://code.sgo.to/datasets",
- "@type": "Dataset",
+ "@context": "https://code.sgo.to/feeds",
+ "@type": "Feed",
  "name": "The Stanford car dataset ported to JSON-LD",
- "classes": [
+ "items": [
  ]
 };
 
 for (let i = 0; i < 196; i++) {
- dataset.classes.push(`images/${i}.jsonld`);
+ dataset.items.push(`images/${i}.jsonld`);
 }
 
 fs.writeFileSync("index.jsonld", 

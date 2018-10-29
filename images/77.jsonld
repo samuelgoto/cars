@@ -1,159 +1,169 @@
 {
-  "images": [
-    {
-      "url": "00821.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00837.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00877.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01063.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01152.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01559.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01795.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01796.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01816.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01888.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01925.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01939.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01946.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01965.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02536.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02538.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02637.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02855.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03448.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03450.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04150.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04194.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04260.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04270.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05074.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05488.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05764.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05911.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06025.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06231.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06346.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06534.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07070.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07074.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07104.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07123.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07326.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08140.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "78", 
-  "name": "Chrysler Town and Country Minivan 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00821.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00837.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00877.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01063.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01152.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01559.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01795.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01796.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01816.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01888.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01925.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01939.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01946.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01965.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02536.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02538.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02637.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02855.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03448.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03450.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04150.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04194.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04260.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04270.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05074.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05488.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05764.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05911.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06025.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06231.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06346.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06534.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07070.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07074.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07104.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07123.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07326.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08140.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "78", 
+    "@type": "Class", 
+    "name": "Chrysler Town and Country Minivan 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Chrysler%20Town%20and%20Country%20Minivan%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00821.jpg"
+  }
 }

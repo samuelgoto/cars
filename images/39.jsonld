@@ -1,163 +1,173 @@
 {
-  "images": [
-    {
-      "url": "00141.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00168.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00263.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00398.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00513.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00910.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00987.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01284.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01352.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01522.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01610.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01650.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01871.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02000.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02260.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02534.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02823.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03070.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03273.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03603.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03760.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04746.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04830.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04887.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05029.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05341.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05454.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05648.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05695.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05865.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05875.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06128.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06583.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06768.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06860.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07109.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07154.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08015.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08124.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "40", 
-  "name": "Bentley Arnage Sedan 2009"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00141.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00168.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00263.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00398.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00513.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00910.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00987.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01284.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01352.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01522.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01610.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01650.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01871.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02000.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02260.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02534.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02823.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03070.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03273.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03603.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03760.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04746.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04830.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04887.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05029.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05341.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05454.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05648.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05695.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05865.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05875.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06128.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06583.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06768.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06860.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07109.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07154.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08015.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08124.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "40", 
+    "@type": "Class", 
+    "name": "Bentley Arnage Sedan 2009"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Bentley%20Arnage%20Sedan%202009%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00141.jpg"
+  }
 }

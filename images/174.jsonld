@@ -1,131 +1,141 @@
 {
-  "images": [
-    {
-      "url": "00093.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00655.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00900.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01658.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01763.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01776.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02028.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02322.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02435.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02604.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03720.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04174.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04384.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04488.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04787.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05441.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05494.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05613.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05623.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05789.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05904.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06207.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06523.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06580.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06622.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06710.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06998.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07042.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07513.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07827.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07975.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "175", 
-  "name": "Rolls-Royce Phantom Drophead Coupe Convertible 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00093.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00655.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00900.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01658.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01763.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01776.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02028.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02322.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02435.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02604.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03720.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04174.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04384.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04488.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04787.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05441.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05494.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05613.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05623.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05789.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05904.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06207.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06523.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06580.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06622.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06710.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06998.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07042.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07513.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07827.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07975.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "175", 
+    "@type": "Class", 
+    "name": "Rolls-Royce Phantom Drophead Coupe Convertible 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Rolls-Royce%20Phantom%20Drophead%20Coupe%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00093.jpg"
+  }
 }

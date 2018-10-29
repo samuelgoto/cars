@@ -1,143 +1,153 @@
 {
-  "images": [
-    {
-      "url": "00238.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00399.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00438.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01023.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01059.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01512.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01714.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01839.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01841.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01868.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01890.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02144.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02258.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02324.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02835.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03038.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03360.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03740.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03821.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04023.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04089.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05090.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05330.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05514.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05710.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05720.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05839.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06107.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06265.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06734.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06949.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07501.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07574.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07880.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "26", 
-  "name": "BMW ActiveHybrid 5 Sedan 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00238.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00399.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00438.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01023.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01059.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01512.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01714.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01839.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01841.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01868.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01890.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02144.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02258.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02324.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02835.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03038.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03360.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03740.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03821.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04023.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04089.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05090.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05330.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05514.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05710.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05720.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05839.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06107.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06265.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06734.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06949.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07501.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07574.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07880.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "26", 
+    "@type": "Class", 
+    "name": "BMW ActiveHybrid 5 Sedan 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=BMW%20ActiveHybrid%205%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00238.jpg"
+  }
 }

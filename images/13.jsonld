@@ -1,179 +1,189 @@
 {
-  "images": [
-    {
-      "url": "00001.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00017.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00411.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00467.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00888.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01085.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01210.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01232.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01403.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01880.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02007.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02474.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02598.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02766.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02896.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02948.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03055.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03289.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03547.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03590.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03750.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03804.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03818.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03838.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04014.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04428.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04537.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04595.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04671.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04753.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05116.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05265.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05266.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05857.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06227.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06586.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06600.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06845.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06857.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07377.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07423.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07586.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07765.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "14", 
-  "name": "Audi TTS Coupe 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00001.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00017.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00411.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00467.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00888.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01085.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01210.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01232.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01403.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01880.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02007.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02474.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02598.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02766.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02896.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02948.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03055.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03289.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03547.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03590.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03750.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03804.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03818.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03838.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04014.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04428.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04537.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04595.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04671.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04753.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05116.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05265.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05266.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05857.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06227.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06586.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06600.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06845.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06857.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07377.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07423.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07586.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07765.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "14", 
+    "@type": "Class", 
+    "name": "Audi TTS Coupe 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Audi%20TTS%20Coupe%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00001.jpg"
+  }
 }

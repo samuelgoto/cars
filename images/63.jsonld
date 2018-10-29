@@ -1,127 +1,137 @@
 {
-  "images": [
-    {
-      "url": "00435.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01147.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01222.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01679.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02242.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02316.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02317.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02439.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02592.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02609.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02658.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02862.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03651.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03777.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03988.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04058.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04111.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04189.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05614.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05739.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06087.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06125.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06579.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06643.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07139.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07152.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07235.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07237.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07498.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08049.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "64", 
-  "name": "Chevrolet Express Cargo Van 2007"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00435.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01147.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01222.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01679.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02242.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02316.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02317.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02439.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02592.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02609.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02658.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02862.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03651.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03777.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03988.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04058.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04111.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04189.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05614.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05739.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06087.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06125.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06579.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06643.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07139.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07152.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07235.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07237.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07498.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08049.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "64", 
+    "@type": "Class", 
+    "name": "Chevrolet Express Cargo Van 2007"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Express%20Cargo%20Van%202007%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00435.jpg"
+  }
 }

@@ -1,171 +1,181 @@
 {
-  "images": [
-    {
-      "url": "00275.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00507.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00563.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00735.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01286.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01333.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01373.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01504.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01631.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01659.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01748.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01885.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02434.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02470.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02535.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02895.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03052.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03147.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03629.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03883.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03980.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04131.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04165.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04198.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04460.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04503.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04599.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04604.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05037.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05220.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05501.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05773.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05858.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06043.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06059.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06063.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06210.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07007.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07723.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07881.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08084.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "130", 
-  "name": "Hyundai Veloster Hatchback 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00275.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00507.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00563.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00735.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01286.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01333.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01373.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01504.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01631.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01659.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01748.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01885.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02434.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02470.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02535.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02895.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03052.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03147.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03629.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03883.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03980.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04131.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04165.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04198.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04460.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04503.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04599.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04604.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05037.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05220.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05501.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05773.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05858.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06043.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06059.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06063.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06210.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07007.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07723.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07881.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08084.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "130", 
+    "@type": "Class", 
+    "name": "Hyundai Veloster Hatchback 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Hyundai%20Veloster%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00275.jpg"
+  }
 }

@@ -1,187 +1,197 @@
 {
-  "images": [
-    {
-      "url": "00121.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00480.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00514.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00518.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00644.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01117.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01388.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01410.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01482.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01927.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02275.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02485.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02490.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02508.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02712.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02759.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02985.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03108.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03232.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03378.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03389.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03552.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04034.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04199.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04692.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05229.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05250.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05433.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05602.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05612.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06152.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06189.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06385.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06419.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06495.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06629.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06761.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06963.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07222.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07224.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07394.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07475.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07677.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07686.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07937.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "109", 
-  "name": "Ford Expedition EL SUV 2009"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00121.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00480.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00514.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00518.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00644.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01117.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01388.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01410.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01482.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01927.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02275.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02485.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02490.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02508.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02712.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02759.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02985.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03108.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03232.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03378.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03389.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03552.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04034.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04199.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04692.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05229.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05250.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05433.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05602.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05612.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06152.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06189.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06385.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06419.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06495.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06629.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06761.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06963.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07222.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07224.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07394.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07475.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07677.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07686.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07937.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "109", 
+    "@type": "Class", 
+    "name": "Ford Expedition EL SUV 2009"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Ford%20Expedition%20EL%20SUV%202009%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00121.jpg"
+  }
 }

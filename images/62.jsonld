@@ -1,183 +1,193 @@
 {
-  "images": [
-    {
-      "url": "00209.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00346.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00387.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00601.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00725.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00820.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00829.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00995.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01190.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01654.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01827.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02022.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02619.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02782.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02882.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02905.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03035.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03304.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03351.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03640.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03666.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03811.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04097.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04321.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04326.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04370.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04506.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04723.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04738.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04768.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05141.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05216.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05328.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05630.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05759.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05844.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05945.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05993.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07077.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07302.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07514.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07614.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08074.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08075.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "63", 
-  "name": "Chevrolet Sonic Sedan 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00209.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00346.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00387.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00601.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00725.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00820.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00829.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00995.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01190.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01654.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01827.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02022.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02619.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02782.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02882.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02905.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03035.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03304.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03351.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03640.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03666.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03811.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04097.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04321.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04326.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04370.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04506.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04723.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04738.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04768.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05141.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05216.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05328.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05630.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05759.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05844.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05945.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05993.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07077.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07302.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07514.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07614.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08074.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08075.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "63", 
+    "@type": "Class", 
+    "name": "Chevrolet Sonic Sedan 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Sonic%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00209.jpg"
+  }
 }

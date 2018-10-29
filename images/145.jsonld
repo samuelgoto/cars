@@ -1,179 +1,189 @@
 {
-  "images": [
-    {
-      "url": "00382.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00839.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00935.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01154.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01462.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01563.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01592.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01621.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01667.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01936.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02021.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02043.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02094.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02390.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02462.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02571.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02652.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02819.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03089.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03528.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04220.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04273.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04327.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04336.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04354.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04404.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04422.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04656.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05098.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05189.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05551.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05606.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05736.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06195.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06429.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06659.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06797.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06908.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07274.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07294.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07391.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07667.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07719.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "146", 
-  "name": "Jeep Wrangler SUV 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00382.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00839.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00935.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01154.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01462.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01563.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01592.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01621.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01667.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01936.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02021.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02043.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02094.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02390.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02462.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02571.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02652.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02819.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03089.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03528.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04220.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04273.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04327.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04336.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04354.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04404.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04422.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04656.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05098.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05189.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05551.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05606.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05736.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06195.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06429.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06659.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06797.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06908.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07274.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07294.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07391.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07667.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07719.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "146", 
+    "@type": "Class", 
+    "name": "Jeep Wrangler SUV 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Jeep%20Wrangler%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00382.jpg"
+  }
 }

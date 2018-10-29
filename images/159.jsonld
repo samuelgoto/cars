@@ -1,183 +1,193 @@
 {
-  "images": [
-    {
-      "url": "00187.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00390.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00605.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00809.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00818.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00848.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01248.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01287.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01436.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01634.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01756.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02073.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02201.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02321.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02526.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02636.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02964.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03128.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03258.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03297.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03452.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04016.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04287.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04362.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04403.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04411.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04451.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04990.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05021.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05097.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05462.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05480.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05797.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06007.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06009.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06038.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06380.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07024.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07141.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07335.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07476.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07877.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07882.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08115.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "160", 
-  "name": "McLaren MP4-12C Coupe 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00187.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00390.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00605.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00809.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00818.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00848.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01248.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01287.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01436.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01634.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01756.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02073.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02201.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02321.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02526.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02636.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02964.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03128.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03258.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03297.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03452.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04016.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04287.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04362.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04403.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04411.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04451.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04990.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05021.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05097.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05462.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05480.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05797.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06007.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06009.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06038.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06380.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07024.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07141.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07335.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07476.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07877.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07882.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08115.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "160", 
+    "@type": "Class", 
+    "name": "McLaren MP4-12C Coupe 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=McLaren%20MP4-12C%20Coupe%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00187.jpg"
+  }
 }

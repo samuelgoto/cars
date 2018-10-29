@@ -1,187 +1,197 @@
 {
-  "images": [
-    {
-      "url": "00018.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00161.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00312.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00419.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00429.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00728.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00905.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00925.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01042.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01087.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01169.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01341.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01391.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01542.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01785.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02207.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02783.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02876.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03216.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03343.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03652.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03934.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04032.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04080.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04221.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04259.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04718.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05008.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05235.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05378.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05724.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05781.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06033.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06178.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06273.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06525.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06535.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07166.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07481.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07622.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07756.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07802.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07809.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07824.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08035.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "73", 
-  "name": "Chevrolet Malibu Sedan 2007"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00018.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00161.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00312.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00419.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00429.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00728.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00905.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00925.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01042.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01087.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01169.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01341.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01391.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01542.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01785.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02207.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02783.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02876.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03216.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03343.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03652.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03934.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04032.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04080.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04221.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04259.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04718.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05008.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05235.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05378.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05724.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05781.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06033.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06178.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06273.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06525.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06535.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07166.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07481.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07622.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07756.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07802.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07809.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07824.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08035.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "73", 
+    "@type": "Class", 
+    "name": "Chevrolet Malibu Sedan 2007"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Malibu%20Sedan%202007%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00018.jpg"
+  }
 }

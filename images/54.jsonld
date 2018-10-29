@@ -1,167 +1,177 @@
 {
-  "images": [
-    {
-      "url": "00265.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00348.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00415.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00738.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00751.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00872.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00922.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00963.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01086.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01108.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01116.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01411.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01573.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01710.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01847.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03211.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03749.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03908.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04954.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04979.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05208.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05249.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05436.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05499.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05557.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05740.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05932.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06166.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06386.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06589.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06902.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06923.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06941.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07431.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07570.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07575.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07749.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07925.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08097.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08125.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "55", 
-  "name": "Chevrolet Corvette Convertible 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00265.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00348.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00415.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00738.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00751.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00872.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00922.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00963.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01086.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01108.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01116.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01411.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01573.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01710.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01847.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03211.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03749.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03908.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04954.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04979.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05208.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05249.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05436.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05499.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05557.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05740.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05932.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06166.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06386.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06589.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06902.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06923.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06941.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07431.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07570.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07575.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07749.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07925.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08097.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08125.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "55", 
+    "@type": "Class", 
+    "name": "Chevrolet Corvette Convertible 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Corvette%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00265.jpg"
+  }
 }

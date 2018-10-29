@@ -1,183 +1,193 @@
 {
-  "images": [
-    {
-      "url": "00186.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00335.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00381.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00570.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00662.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01536.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02031.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02271.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02482.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02926.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02962.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03074.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03097.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03247.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03319.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03364.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03481.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03509.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03796.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03843.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03863.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04184.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04481.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04563.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04748.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05106.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05242.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05381.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05526.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05891.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06153.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06246.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06263.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06363.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06407.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06578.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06601.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06720.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06875.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06939.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07303.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07316.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07708.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07744.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "125", 
-  "name": "HUMMER H2 SUT Crew Cab 2009"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00186.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00335.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00381.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00570.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00662.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01536.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02031.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02271.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02482.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02926.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02962.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03074.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03097.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03247.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03319.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03364.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03481.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03509.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03796.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03843.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03863.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04184.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04481.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04563.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04748.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05106.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05242.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05381.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05526.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05891.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06153.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06246.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06263.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06363.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06407.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06578.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06601.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06720.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06875.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06939.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07303.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07316.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07708.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07744.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "125", 
+    "@type": "Class", 
+    "name": "HUMMER H2 SUT Crew Cab 2009"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=HUMMER%20H2%20SUT%20Crew%20Cab%202009%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00186.jpg"
+  }
 }

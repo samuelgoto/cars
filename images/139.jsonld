@@ -1,175 +1,185 @@
 {
-  "images": [
-    {
-      "url": "00145.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00290.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00472.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00649.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00687.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00688.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01204.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01363.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01692.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01734.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01850.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01955.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02397.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02617.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02730.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02943.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03256.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03277.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03542.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03583.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03645.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03773.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04491.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04683.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04807.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04932.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05019.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05198.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05615.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05727.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05755.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05827.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05898.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06474.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06686.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07078.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07324.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07330.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07348.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07486.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07760.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08006.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "140", 
-  "name": "Hyundai Azera Sedan 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00145.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00290.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00472.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00649.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00687.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00688.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01204.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01363.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01692.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01734.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01850.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01955.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02397.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02617.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02730.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02943.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03256.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03277.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03542.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03583.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03645.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03773.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04491.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04683.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04807.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04932.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05019.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05198.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05615.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05727.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05755.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05827.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05898.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06474.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06686.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07078.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07324.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07330.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07348.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07486.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07760.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08006.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "140", 
+    "@type": "Class", 
+    "name": "Hyundai Azera Sedan 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Hyundai%20Azera%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00145.jpg"
+  }
 }

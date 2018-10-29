@@ -1,8 +1,8 @@
 {
-  "@context": "https://code.sgo.to/datasets",
-  "@type": "Dataset",
+  "@context": "https://code.sgo.to/feeds",
+  "@type": "Feed",
   "name": "The Stanford car dataset ported to JSON-LD",
-  "classes": [
+  "items": [
     "images/0.jsonld",
     "images/1.jsonld",
     "images/2.jsonld",

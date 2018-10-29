@@ -1,187 +1,197 @@
 {
-  "images": [
-    {
-      "url": "00158.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00428.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00461.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00544.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00736.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01334.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01347.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01607.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02208.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02236.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02727.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02802.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02922.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03002.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03076.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03153.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03257.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03310.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03357.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03527.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03564.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04082.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04231.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04276.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04577.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04963.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05001.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05089.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05180.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05247.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05440.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05563.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05622.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05629.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06240.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06371.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06397.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06769.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06958.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07630.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07650.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07743.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07799.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07935.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07984.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "179", 
-  "name": "Spyker C8 Convertible 2009"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00158.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00428.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00461.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00544.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00736.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01334.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01347.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01607.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02208.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02236.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02727.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02802.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02922.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03002.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03076.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03153.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03257.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03310.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03357.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03527.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03564.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04082.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04231.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04276.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04577.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04963.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05001.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05089.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05180.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05247.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05440.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05563.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05622.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05629.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06240.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06371.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06397.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06769.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06958.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07630.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07650.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07743.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07799.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07935.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07984.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "179", 
+    "@type": "Class", 
+    "name": "Spyker C8 Convertible 2009"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Spyker%20C8%20Convertible%202009%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00158.jpg"
+  }
 }

@@ -1,175 +1,185 @@
 {
-  "images": [
-    {
-      "url": "00034.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00079.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00105.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00113.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00185.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00377.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00464.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00625.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00895.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00986.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01257.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01368.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01412.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01669.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02080.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02148.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02239.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02555.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02965.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03260.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03598.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03688.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03917.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04114.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04850.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05137.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05248.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05812.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06192.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06194.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06403.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06487.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06812.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06922.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06951.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07015.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07179.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07189.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07201.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07208.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07250.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07434.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "133", 
-  "name": "Hyundai Veracruz SUV 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00034.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00079.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00105.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00113.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00185.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00377.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00464.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00625.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00895.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00986.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01257.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01368.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01412.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01669.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02080.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02148.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02239.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02555.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02965.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03260.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03598.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03688.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03917.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04114.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04850.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05137.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05248.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05812.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06192.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06194.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06403.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06487.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06812.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06922.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06951.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07015.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07179.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07189.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07201.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07208.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07250.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07434.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "133", 
+    "@type": "Class", 
+    "name": "Hyundai Veracruz SUV 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Hyundai%20Veracruz%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00034.jpg"
+  }
 }

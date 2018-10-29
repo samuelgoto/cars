@@ -1,175 +1,185 @@
 {
-  "images": [
-    {
-      "url": "00392.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00697.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00920.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01264.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02124.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02240.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02274.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02913.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03051.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03102.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03165.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03238.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03241.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03243.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03467.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03512.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03607.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03795.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04349.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04482.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04511.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05057.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05125.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05307.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05324.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05405.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05979.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06099.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06145.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06302.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06422.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06614.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07050.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07191.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07214.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07364.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07445.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07463.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07661.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07706.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07752.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07916.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "4", 
-  "name": "Acura TL Type-S 2008"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00392.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00697.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00920.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01264.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02124.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02240.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02274.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02913.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03051.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03102.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03165.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03238.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03241.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03243.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03467.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03512.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03607.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03795.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04349.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04482.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04511.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05057.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05125.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05307.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05324.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05405.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05979.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06099.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06145.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06302.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06422.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06614.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07050.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07191.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07214.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07364.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07445.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07463.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07661.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07706.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07752.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07916.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "4", 
+    "@type": "Class", 
+    "name": "Acura TL Type-S 2008"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Acura%20TL%20Type-S%202008%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00392.jpg"
+  }
 }

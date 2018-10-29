@@ -1,187 +1,197 @@
 {
-  "images": [
-    {
-      "url": "00558.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00574.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00768.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00814.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01047.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01161.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01638.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02023.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02639.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02648.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02662.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03172.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03234.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03315.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03453.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03459.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03468.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03625.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03679.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03992.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03999.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04103.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04468.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04489.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04525.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04572.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04967.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05456.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05489.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05493.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05593.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05665.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06220.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06245.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06511.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06695.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06762.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06790.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06901.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06976.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07283.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07522.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07965.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07973.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07979.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "82", 
-  "name": "Daewoo Nubira Wagon 2002"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00558.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00574.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00768.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00814.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01047.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01161.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01638.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02023.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02639.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02648.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02662.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03172.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03234.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03315.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03453.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03459.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03468.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03625.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03679.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03992.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03999.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04103.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04468.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04489.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04525.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04572.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04967.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05456.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05489.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05493.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05593.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05665.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06220.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06245.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06511.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06695.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06762.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06790.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06901.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06976.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07283.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07522.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07965.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07973.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07979.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "82", 
+    "@type": "Class", 
+    "name": "Daewoo Nubira Wagon 2002"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Daewoo%20Nubira%20Wagon%202002%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00558.jpg"
+  }
 }

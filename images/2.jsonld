@@ -1,179 +1,189 @@
 {
-  "images": [
-    {
-      "url": "00002.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00740.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01214.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01705.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01716.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01750.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01870.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02364.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02491.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02589.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02663.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02832.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03030.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03152.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03169.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03772.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03871.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03881.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04588.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04816.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05052.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05281.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05333.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05347.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05434.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05545.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05748.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05918.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05967.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06328.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06406.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06516.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06751.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06784.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06816.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06974.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07121.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07175.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07346.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07392.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07663.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08005.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08133.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "3", 
-  "name": "Acura TL Sedan 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00002.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00740.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01214.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01705.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01716.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01750.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01870.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02364.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02491.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02589.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02663.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02832.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03030.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03152.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03169.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03772.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03871.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03881.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04588.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04816.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05052.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05281.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05333.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05347.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05434.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05545.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05748.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05918.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05967.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06328.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06406.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06516.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06751.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06784.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06816.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06974.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07121.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07175.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07346.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07392.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07663.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08005.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08133.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "3", 
+    "@type": "Class", 
+    "name": "Acura TL Sedan 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Acura%20TL%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00002.jpg"
+  }
 }

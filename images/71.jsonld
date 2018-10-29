@@ -1,187 +1,197 @@
 {
-  "images": [
-    {
-      "url": "00212.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00215.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00540.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00564.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01274.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01599.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01605.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01963.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02091.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02459.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02683.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02726.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02865.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02884.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02927.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02939.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03028.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03130.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03231.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03465.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03904.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03946.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04009.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04285.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04368.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04539.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04685.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04891.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04936.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04943.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05000.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05788.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05882.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05949.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06139.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06438.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06612.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06747.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06772.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06810.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06880.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07036.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07205.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07541.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07548.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "72", 
-  "name": "Chevrolet Monte Carlo Coupe 2007"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00212.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00215.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00540.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00564.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01274.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01599.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01605.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01963.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02091.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02459.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02683.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02726.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02865.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02884.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02927.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02939.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03028.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03130.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03231.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03465.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03904.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03946.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04009.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04285.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04368.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04539.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04685.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04891.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04936.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04943.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05000.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05788.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05882.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05949.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06139.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06438.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06612.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06747.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06772.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06810.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06880.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07036.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07205.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07541.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07548.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "72", 
+    "@type": "Class", 
+    "name": "Chevrolet Monte Carlo Coupe 2007"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Monte%20Carlo%20Coupe%202007%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00212.jpg"
+  }
 }

@@ -1,143 +1,153 @@
 {
-  "images": [
-    {
-      "url": "00272.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00677.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01014.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01525.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01660.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01886.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01889.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02216.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02731.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02828.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03159.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03182.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03196.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03293.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03635.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03707.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03741.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04055.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04256.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04261.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04329.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04402.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04664.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04752.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04770.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05051.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05239.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05427.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05782.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06014.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06289.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06986.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07243.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07909.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "100", 
-  "name": "FIAT 500 Convertible 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00272.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00677.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01014.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01525.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01660.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01886.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01889.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02216.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02731.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02828.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03159.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03182.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03196.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03293.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03635.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03707.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03741.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04055.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04256.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04261.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04329.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04402.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04664.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04752.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04770.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05051.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05239.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05427.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05782.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06014.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06289.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06986.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07243.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07909.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "100", 
+    "@type": "Class", 
+    "name": "FIAT 500 Convertible 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=FIAT%20500%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00272.jpg"
+  }
 }

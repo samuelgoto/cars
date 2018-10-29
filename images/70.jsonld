@@ -1,147 +1,157 @@
 {
-  "images": [
-    {
-      "url": "00100.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00114.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00144.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00577.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00854.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01114.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01256.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01544.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01712.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01745.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01949.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02268.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02564.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02672.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03158.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03377.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03482.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03699.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03964.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04624.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05020.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05032.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05334.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05472.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06108.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06357.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06563.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06647.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06692.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06856.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06876.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06971.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07047.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07097.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08037.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "71", 
-  "name": "Chevrolet Express Van 2007"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00100.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00114.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00144.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00577.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00854.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01114.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01256.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01544.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01712.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01745.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01949.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02268.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02564.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02672.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03158.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03377.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03482.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03699.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03964.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04624.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05020.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05032.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05334.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05472.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06108.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06357.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06563.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06647.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06692.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06856.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06876.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06971.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07047.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07097.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08037.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "71", 
+    "@type": "Class", 
+    "name": "Chevrolet Express Van 2007"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Express%20Van%202007%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00100.jpg"
+  }
 }

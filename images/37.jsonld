@@ -1,171 +1,181 @@
 {
-  "images": [
-    {
-      "url": "00037.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00044.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00337.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00657.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00675.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00716.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01593.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01757.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01909.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01994.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02127.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02343.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02686.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02788.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02936.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03071.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03115.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03347.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03620.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03942.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04487.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04729.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04782.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04927.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04972.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04975.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05069.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05072.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05094.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05163.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05258.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05337.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05852.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05861.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05868.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06051.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06411.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07027.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07709.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07812.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07901.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "38", 
-  "name": "BMW Z4 Convertible 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00037.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00044.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00337.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00657.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00675.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00716.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01593.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01757.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01909.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01994.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02127.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02343.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02686.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02788.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02936.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03071.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03115.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03347.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03620.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03942.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04487.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04729.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04782.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04927.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04972.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04975.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05069.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05072.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05094.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05163.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05258.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05337.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05852.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05861.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05868.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06051.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06411.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07027.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07709.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07812.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07901.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "38", 
+    "@type": "Class", 
+    "name": "BMW Z4 Convertible 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=BMW%20Z4%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00037.jpg"
+  }
 }

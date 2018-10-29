@@ -1,171 +1,181 @@
 {
-  "images": [
-    {
-      "url": "00330.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00391.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00804.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01442.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02153.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02753.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03024.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03204.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03218.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03286.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03405.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03521.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03574.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03609.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03637.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03778.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03910.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03938.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04219.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04603.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04873.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05399.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05503.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05677.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05845.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06250.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06472.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06654.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06668.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06717.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06740.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06820.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06831.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07055.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07125.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07722.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07741.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07857.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07884.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08061.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08114.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "166", 
-  "name": "Mercedes-Benz Sprinter Van 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00330.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00391.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00804.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01442.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02153.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02753.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03024.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03204.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03218.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03286.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03405.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03521.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03574.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03609.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03637.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03778.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03910.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03938.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04219.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04603.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04873.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05399.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05503.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05677.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05845.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06250.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06472.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06654.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06668.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06717.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06740.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06820.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06831.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07055.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07125.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07722.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07741.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07857.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07884.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08061.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08114.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "166", 
+    "@type": "Class", 
+    "name": "Mercedes-Benz Sprinter Van 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Mercedes-Benz%20Sprinter%20Van%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00330.jpg"
+  }
 }

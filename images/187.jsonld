@@ -1,183 +1,193 @@
 {
-  "images": [
-    {
-      "url": "00075.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00203.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00845.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00906.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01240.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01337.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01390.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01531.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01618.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01696.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01913.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02250.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02284.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02650.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02687.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02847.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02957.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03113.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03510.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03585.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03628.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04012.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04344.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04416.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04432.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05127.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05322.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05361.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05410.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05553.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05643.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05777.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05956.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06416.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06658.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06674.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07006.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07259.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07375.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07410.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07725.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07917.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08046.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08139.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "188", 
-  "name": "Toyota Corolla Sedan 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00075.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00203.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00845.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00906.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01240.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01337.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01390.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01531.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01618.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01696.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01913.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02250.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02284.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02650.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02687.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02847.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02957.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03113.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03510.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03585.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03628.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04012.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04344.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04416.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04432.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05127.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05322.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05361.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05410.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05553.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05643.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05777.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05956.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06416.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06658.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06674.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07006.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07259.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07375.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07410.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07725.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07917.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08046.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08139.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "188", 
+    "@type": "Class", 
+    "name": "Toyota Corolla Sedan 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Toyota%20Corolla%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00075.jpg"
+  }
 }

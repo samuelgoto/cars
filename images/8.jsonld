@@ -1,171 +1,181 @@
 {
-  "images": [
-    {
-      "url": "00340.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00503.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00634.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00635.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01276.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01361.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01680.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01768.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02058.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02194.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02378.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02577.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02645.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02771.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03009.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03064.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03239.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03454.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03659.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03662.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03732.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03828.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04308.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04494.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04509.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04510.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04724.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04725.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04750.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05306.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05382.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05694.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05909.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06375.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06381.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06539.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06683.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06896.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06921.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07471.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07704.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "9", 
-  "name": "Aston Martin V8 Vantage Coupe 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00340.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00503.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00634.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00635.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01276.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01361.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01680.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01768.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02058.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02194.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02378.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02577.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02645.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02771.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03009.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03064.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03239.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03454.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03659.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03662.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03732.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03828.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04308.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04494.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04509.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04510.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04724.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04725.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04750.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05306.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05382.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05694.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05909.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06375.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06381.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06539.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06683.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06896.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06921.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07471.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07704.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "9", 
+    "@type": "Class", 
+    "name": "Aston Martin V8 Vantage Coupe 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Aston%20Martin%20V8%20Vantage%20Coupe%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00340.jpg"
+  }
 }

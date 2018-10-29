@@ -1,179 +1,189 @@
 {
-  "images": [
-    {
-      "url": "00070.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00125.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00358.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00490.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00566.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00664.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01115.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01127.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01275.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01493.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01520.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01624.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01821.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02154.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02367.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02465.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02550.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02787.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03254.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03402.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03496.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03568.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03722.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03953.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04129.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04500.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04806.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04810.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05255.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05344.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05395.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05650.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05889.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06458.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06486.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06879.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06891.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07146.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07173.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07577.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07669.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07751.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07841.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "29", 
-  "name": "BMW 3 Series Sedan 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00070.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00125.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00358.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00490.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00566.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00664.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01115.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01127.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01275.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01493.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01520.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01624.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01821.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02154.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02367.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02465.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02550.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02787.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03254.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03402.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03496.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03568.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03722.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03953.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04129.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04500.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04806.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04810.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05255.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05344.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05395.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05650.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05889.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06458.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06486.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06879.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06891.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07146.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07173.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07577.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07669.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07751.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07841.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "29", 
+    "@type": "Class", 
+    "name": "BMW 3 Series Sedan 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=BMW%203%20Series%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00070.jpg"
+  }
 }

@@ -1,187 +1,197 @@
 {
-  "images": [
-    {
-      "url": "00249.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00521.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00636.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00756.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00853.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01090.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01183.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01189.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01499.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01585.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01717.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01995.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02117.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02337.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02387.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02446.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02475.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02489.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02613.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02676.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02806.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03492.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03626.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03775.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03868.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03983.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04295.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04441.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04791.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04826.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04962.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05096.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05264.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05632.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05876.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06318.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06341.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06641.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07203.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07571.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07658.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07736.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07865.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08121.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08132.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "153", 
-  "name": "Lamborghini Diablo Coupe 2001"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00249.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00521.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00636.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00756.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00853.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01090.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01183.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01189.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01499.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01585.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01717.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01995.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02117.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02337.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02387.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02446.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02475.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02489.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02613.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02676.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02806.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03492.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03626.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03775.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03868.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03983.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04295.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04441.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04791.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04826.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04962.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05096.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05264.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05632.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05876.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06318.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06341.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06641.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07203.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07571.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07658.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07736.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07865.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08121.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08132.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "153", 
+    "@type": "Class", 
+    "name": "Lamborghini Diablo Coupe 2001"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Lamborghini%20Diablo%20Coupe%202001%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00249.jpg"
+  }
 }

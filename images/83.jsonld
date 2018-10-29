@@ -1,175 +1,185 @@
 {
-  "images": [
-    {
-      "url": "00232.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00459.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00500.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00624.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00663.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01229.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01262.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01418.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01704.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01799.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01943.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01969.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02545.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02579.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02585.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02611.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02668.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02751.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03268.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03280.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03415.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03565.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03650.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03712.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03858.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04045.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04069.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04831.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05531.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05536.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05554.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05598.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06097.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06468.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06506.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06868.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06881.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07371.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07381.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07453.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07645.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07737.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "84", 
-  "name": "Dodge Caliber Wagon 2007"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00232.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00459.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00500.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00624.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00663.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01229.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01262.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01418.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01704.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01799.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01943.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01969.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02545.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02579.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02585.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02611.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02668.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02751.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03268.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03280.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03415.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03565.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03650.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03712.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03858.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04045.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04069.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04831.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05531.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05536.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05554.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05598.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06097.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06468.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06506.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06868.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06881.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07371.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07381.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07453.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07645.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07737.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "84", 
+    "@type": "Class", 
+    "name": "Dodge Caliber Wagon 2007"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Dodge%20Caliber%20Wagon%202007%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00232.jpg"
+  }
 }

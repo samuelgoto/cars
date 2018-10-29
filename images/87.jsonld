@@ -1,167 +1,177 @@
 {
-  "images": [
-    {
-      "url": "00108.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00224.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00401.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00502.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00737.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00781.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00868.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01040.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01113.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01171.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01311.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01440.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01541.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01788.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02383.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02483.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02557.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02732.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03056.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03328.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03363.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04062.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04074.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04225.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04467.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04728.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05041.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05243.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05342.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05476.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05937.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06134.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06271.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06297.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06320.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06360.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06448.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06554.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07342.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07781.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "88", 
-  "name": "Dodge Sprinter Cargo Van 2009"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00108.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00224.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00401.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00502.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00737.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00781.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00868.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01040.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01113.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01171.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01311.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01440.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01541.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01788.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02383.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02483.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02557.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02732.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03056.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03328.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03363.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04062.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04074.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04225.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04467.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04728.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05041.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05243.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05342.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05476.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05937.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06134.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06271.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06297.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06320.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06360.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06448.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06554.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07342.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07781.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "88", 
+    "@type": "Class", 
+    "name": "Dodge Sprinter Cargo Van 2009"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Dodge%20Sprinter%20Cargo%20Van%202009%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00108.jpg"
+  }
 }

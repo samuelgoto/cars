@@ -1,151 +1,161 @@
 {
-  "images": [
-    {
-      "url": "00678.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00798.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00966.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01036.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01423.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01663.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01838.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02042.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02152.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02241.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02451.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03162.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03199.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03457.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03525.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03990.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04086.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04152.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04548.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04644.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04946.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04957.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05586.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05616.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05634.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05878.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06078.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06089.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06557.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06703.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06752.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06894.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07144.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07524.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07689.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07805.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "27", 
-  "name": "BMW 1 Series Convertible 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00678.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00798.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00966.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01036.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01423.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01663.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01838.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02042.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02152.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02241.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02451.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03162.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03199.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03457.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03525.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03990.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04086.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04152.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04548.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04644.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04946.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04957.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05586.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05616.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05634.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05878.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06078.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06089.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06557.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06703.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06752.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06894.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07144.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07524.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07689.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07805.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "27", 
+    "@type": "Class", 
+    "name": "BMW 1 Series Convertible 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=BMW%201%20Series%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00678.jpg"
+  }
 }

@@ -1,183 +1,193 @@
 {
-  "images": [
-    {
-      "url": "00016.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00373.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00537.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00762.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00799.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00953.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01310.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01571.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01859.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02143.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02190.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02315.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02527.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02660.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02699.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02714.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02982.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03334.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03485.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03711.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03986.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04028.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04206.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04286.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04304.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04649.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05165.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05206.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05354.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05364.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05475.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05522.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06045.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06144.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06365.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07399.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07438.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07448.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07456.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07489.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07601.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07821.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07859.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07926.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "172", 
-  "name": "Plymouth Neon Coupe 1999"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00016.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00373.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00537.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00762.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00799.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00953.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01310.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01571.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01859.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02143.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02190.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02315.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02527.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02660.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02699.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02714.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02982.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03334.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03485.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03711.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03986.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04028.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04206.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04286.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04304.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04649.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05165.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05206.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05354.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05364.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05475.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05522.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06045.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06144.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06365.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07399.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07438.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07448.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07456.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07489.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07601.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07821.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07859.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07926.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "172", 
+    "@type": "Class", 
+    "name": "Plymouth Neon Coupe 1999"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Plymouth%20Neon%20Coupe%201999%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00016.jpg"
+  }
 }

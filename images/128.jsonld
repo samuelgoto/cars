@@ -1,163 +1,173 @@
 {
-  "images": [
-    {
-      "url": "00474.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00504.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00505.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00699.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "00729.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "01025.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02666.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02944.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02978.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "02986.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03100.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03495.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03876.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "03885.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04112.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04400.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04561.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04605.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04764.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04843.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04960.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "04984.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05406.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05712.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05828.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05853.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "05958.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06090.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06582.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "06724.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07230.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07443.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07517.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07521.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07687.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07695.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07755.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "07962.jpg", 
-      "@type": "Image"
-    }, 
-    {
-      "url": "08089.jpg", 
-      "@type": "Image"
-    }
-  ], 
-  "@context": "https://code.sgo.to/datasets", 
-  "@id": "129", 
-  "name": "Honda Accord Sedan 2012"
+  "@context": "https://schema.org", 
+  "target": {
+    "images": [
+      {
+        "url": "00474.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00504.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00505.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00699.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "00729.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "01025.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02666.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02944.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02978.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "02986.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03100.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03495.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03876.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "03885.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04112.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04400.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04561.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04605.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04764.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04843.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04960.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "04984.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05406.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05712.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05828.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05853.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "05958.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06090.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06582.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "06724.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07230.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07443.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07517.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07521.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07687.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07695.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07755.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "07962.jpg", 
+        "@type": "Image"
+      }, 
+      {
+        "url": "08089.jpg", 
+        "@type": "Image"
+      }
+    ], 
+    "@context": "https://code.sgo.to/datasets", 
+    "@id": "129", 
+    "@type": "Class", 
+    "name": "Honda Accord Sedan 2012"
+  }, 
+  "@type": "ARArtifact", 
+  "asset": {
+    "url": "https://www.google.com/search?q=Honda%20Accord%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "@type": "WebPage", 
+    "thumbnail": "00474.jpg"
+  }
 }
