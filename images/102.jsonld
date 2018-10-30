@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Ferrari%20458%20Italia%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00262.jpg", 
+    "@type": "WebPage", 
+    "title": "Ferrari 458 Italia Convertible 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -167,12 +174,5 @@
     "@id": "103", 
     "@type": "VisualDescription", 
     "name": "Ferrari 458 Italia Convertible 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Ferrari%20458%20Italia%20Convertible%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00262.jpg", 
-    "@type": "WebPage", 
-    "title": "Ferrari 458 Italia Convertible 2012"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Buick%20Regal%20GS%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00152.jpg", 
+    "@type": "WebPage", 
+    "title": "Buick Regal GS 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -147,12 +154,5 @@
     "@id": "47", 
     "@type": "VisualDescription", 
     "name": "Buick Regal GS 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Buick%20Regal%20GS%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00152.jpg", 
-    "@type": "WebPage", 
-    "title": "Buick Regal GS 2012"
   }
 }

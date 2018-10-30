@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Rolls-Royce%20Phantom%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00048.jpg", 
+    "@type": "WebPage", 
+    "title": "Rolls-Royce Phantom Sedan 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -183,12 +190,5 @@
     "@id": "177", 
     "@type": "VisualDescription", 
     "name": "Rolls-Royce Phantom Sedan 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Rolls-Royce%20Phantom%20Sedan%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00048.jpg", 
-    "@type": "WebPage", 
-    "title": "Rolls-Royce Phantom Sedan 2012"
   }
 }

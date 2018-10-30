@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Hyundai%20Accent%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00129.jpg", 
+    "@type": "WebPage", 
+    "title": "Hyundai Accent Sedan 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -103,12 +110,5 @@
     "@id": "136", 
     "@type": "VisualDescription", 
     "name": "Hyundai Accent Sedan 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Hyundai%20Accent%20Sedan%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00129.jpg", 
-    "@type": "WebPage", 
-    "title": "Hyundai Accent Sedan 2012"
   }
 }

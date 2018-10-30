@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Audi%20100%20Sedan%201994%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00066.jpg", 
+    "@type": "WebPage", 
+    "title": "Audi 100 Sedan 1994"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -171,12 +178,5 @@
     "@id": "17", 
     "@type": "VisualDescription", 
     "name": "Audi 100 Sedan 1994"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Audi%20100%20Sedan%201994%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00066.jpg", 
-    "@type": "WebPage", 
-    "title": "Audi 100 Sedan 1994"
   }
 }

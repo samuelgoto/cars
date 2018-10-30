@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Isuzu%20Ascender%20SUV%202008%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00130.jpg", 
+    "@type": "WebPage", 
+    "title": "Isuzu Ascender SUV 2008"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -167,12 +174,5 @@
     "@id": "143", 
     "@type": "VisualDescription", 
     "name": "Isuzu Ascender SUV 2008"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Isuzu%20Ascender%20SUV%202008%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00130.jpg", 
-    "@type": "WebPage", 
-    "title": "Isuzu Ascender SUV 2008"
   }
 }

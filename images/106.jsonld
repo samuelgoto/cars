@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Ford%20Mustang%20Convertible%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00220.jpg", 
+    "@type": "WebPage", 
+    "title": "Ford Mustang Convertible 2007"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -187,12 +194,5 @@
     "@id": "107", 
     "@type": "VisualDescription", 
     "name": "Ford Mustang Convertible 2007"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Ford%20Mustang%20Convertible%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00220.jpg", 
-    "@type": "WebPage", 
-    "title": "Ford Mustang Convertible 2007"
   }
 }

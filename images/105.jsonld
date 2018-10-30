@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Ford%20F-450%20Super%20Duty%20Crew%20Cab%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00005.jpg", 
+    "@type": "WebPage", 
+    "title": "Ford F-450 Super Duty Crew Cab 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -175,12 +182,5 @@
     "@id": "106", 
     "@type": "VisualDescription", 
     "name": "Ford F-450 Super Duty Crew Cab 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Ford%20F-450%20Super%20Duty%20Crew%20Cab%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00005.jpg", 
-    "@type": "WebPage", 
-    "title": "Ford F-450 Super Duty Crew Cab 2012"
   }
 }

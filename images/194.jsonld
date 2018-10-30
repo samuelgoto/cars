@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Volvo%20XC90%20SUV%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00213.jpg", 
+    "@type": "WebPage", 
+    "title": "Volvo XC90 SUV 2007"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -179,12 +186,5 @@
     "@id": "195", 
     "@type": "VisualDescription", 
     "name": "Volvo XC90 SUV 2007"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Volvo%20XC90%20SUV%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00213.jpg", 
-    "@type": "WebPage", 
-    "title": "Volvo XC90 SUV 2007"
   }
 }

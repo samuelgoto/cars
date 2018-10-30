@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Spyker%20C8%20Coupe%202009%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00029.jpg", 
+    "@type": "WebPage", 
+    "title": "Spyker C8 Coupe 2009"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -179,12 +186,5 @@
     "@id": "180", 
     "@type": "VisualDescription", 
     "name": "Spyker C8 Coupe 2009"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Spyker%20C8%20Coupe%202009%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00029.jpg", 
-    "@type": "WebPage", 
-    "title": "Spyker C8 Coupe 2009"
   }
 }

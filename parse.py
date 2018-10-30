@@ -36,7 +36,7 @@ for i in dataset.keys():
         data = {
           "@context": "http://code.sgo.to/arpub",
           "@type": "ARArtifact",
-          "asset": {
+          "content": {
             "@type": "WebPage",
             "url": asset,
             "title": str(name),

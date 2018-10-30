@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Audi%20V8%20Sedan%201994%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00200.jpg", 
+    "@type": "WebPage", 
+    "title": "Audi V8 Sedan 1994"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -183,12 +190,5 @@
     "@id": "16", 
     "@type": "VisualDescription", 
     "name": "Audi V8 Sedan 1994"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Audi%20V8%20Sedan%201994%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00200.jpg", 
-    "@type": "WebPage", 
-    "title": "Audi V8 Sedan 1994"
   }
 }

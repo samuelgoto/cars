@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Tahoe%20Hybrid%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00328.jpg", 
+    "@type": "WebPage", 
+    "title": "Chevrolet Tahoe Hybrid SUV 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -155,12 +162,5 @@
     "@id": "62", 
     "@type": "VisualDescription", 
     "name": "Chevrolet Tahoe Hybrid SUV 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Chevrolet%20Tahoe%20Hybrid%20SUV%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00328.jpg", 
-    "@type": "WebPage", 
-    "title": "Chevrolet Tahoe Hybrid SUV 2012"
   }
 }

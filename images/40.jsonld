@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Bentley%20Mulsanne%20Sedan%202011%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00167.jpg", 
+    "@type": "WebPage", 
+    "title": "Bentley Mulsanne Sedan 2011"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -151,12 +158,5 @@
     "@id": "41", 
     "@type": "VisualDescription", 
     "name": "Bentley Mulsanne Sedan 2011"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Bentley%20Mulsanne%20Sedan%202011%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00167.jpg", 
-    "@type": "WebPage", 
-    "title": "Bentley Mulsanne Sedan 2011"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Nissan%20Juke%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00024.jpg", 
+    "@type": "WebPage", 
+    "title": "Nissan Juke Hatchback 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -183,12 +190,5 @@
     "@id": "170", 
     "@type": "VisualDescription", 
     "name": "Nissan Juke Hatchback 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Nissan%20Juke%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00024.jpg", 
-    "@type": "WebPage", 
-    "title": "Nissan Juke Hatchback 2012"
   }
 }

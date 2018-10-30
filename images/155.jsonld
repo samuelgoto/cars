@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Lincoln%20Town%20Car%20Sedan%202011%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00278.jpg", 
+    "@type": "WebPage", 
+    "title": "Lincoln Town Car Sedan 2011"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -163,12 +170,5 @@
     "@id": "156", 
     "@type": "VisualDescription", 
     "name": "Lincoln Town Car Sedan 2011"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Lincoln%20Town%20Car%20Sedan%202011%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00278.jpg", 
-    "@type": "WebPage", 
-    "title": "Lincoln Town Car Sedan 2011"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Chrysler%20300%20SRT-8%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00021.jpg", 
+    "@type": "WebPage", 
+    "title": "Chrysler 300 SRT-8 2010"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -203,12 +210,5 @@
     "@id": "79", 
     "@type": "VisualDescription", 
     "name": "Chrysler 300 SRT-8 2010"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Chrysler%20300%20SRT-8%202010%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00021.jpg", 
-    "@type": "WebPage", 
-    "title": "Chrysler 300 SRT-8 2010"
   }
 }

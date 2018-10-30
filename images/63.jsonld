@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Express%20Cargo%20Van%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00435.jpg", 
+    "@type": "WebPage", 
+    "title": "Chevrolet Express Cargo Van 2007"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -127,12 +134,5 @@
     "@id": "64", 
     "@type": "VisualDescription", 
     "name": "Chevrolet Express Cargo Van 2007"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Chevrolet%20Express%20Cargo%20Van%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00435.jpg", 
-    "@type": "WebPage", 
-    "title": "Chevrolet Express Cargo Van 2007"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=smart%20fortwo%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00222.jpg", 
+    "@type": "WebPage", 
+    "title": "smart fortwo Convertible 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -167,12 +174,5 @@
     "@id": "196", 
     "@type": "VisualDescription", 
     "name": "smart fortwo Convertible 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=smart%20fortwo%20Convertible%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00222.jpg", 
-    "@type": "WebPage", 
-    "title": "smart fortwo Convertible 2012"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Volvo%20240%20Sedan%201993%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00025.jpg", 
+    "@type": "WebPage", 
+    "title": "Volvo 240 Sedan 1993"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -191,12 +198,5 @@
     "@id": "194", 
     "@type": "VisualDescription", 
     "name": "Volvo 240 Sedan 1993"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Volvo%20240%20Sedan%201993%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00025.jpg", 
-    "@type": "WebPage", 
-    "title": "Volvo 240 Sedan 1993"
   }
 }

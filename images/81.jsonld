@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Daewoo%20Nubira%20Wagon%202002%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00558.jpg", 
+    "@type": "WebPage", 
+    "title": "Daewoo Nubira Wagon 2002"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -187,12 +194,5 @@
     "@id": "82", 
     "@type": "VisualDescription", 
     "name": "Daewoo Nubira Wagon 2002"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Daewoo%20Nubira%20Wagon%202002%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00558.jpg", 
-    "@type": "WebPage", 
-    "title": "Daewoo Nubira Wagon 2002"
   }
 }

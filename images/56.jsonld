@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Corvette%20Ron%20Fellows%20Edition%20Z06%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00020.jpg", 
+    "@type": "WebPage", 
+    "title": "Chevrolet Corvette Ron Fellows Edition Z06 2007"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -159,12 +166,5 @@
     "@id": "57", 
     "@type": "VisualDescription", 
     "name": "Chevrolet Corvette Ron Fellows Edition Z06 2007"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Chevrolet%20Corvette%20Ron%20Fellows%20Edition%20Z06%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00020.jpg", 
-    "@type": "WebPage", 
-    "title": "Chevrolet Corvette Ron Fellows Edition Z06 2007"
   }
 }

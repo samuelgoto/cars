@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Dodge%20Sprinter%20Cargo%20Van%202009%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00108.jpg", 
+    "@type": "WebPage", 
+    "title": "Dodge Sprinter Cargo Van 2009"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -167,12 +174,5 @@
     "@id": "88", 
     "@type": "VisualDescription", 
     "name": "Dodge Sprinter Cargo Van 2009"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Dodge%20Sprinter%20Cargo%20Van%202009%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00108.jpg", 
-    "@type": "WebPage", 
-    "title": "Dodge Sprinter Cargo Van 2009"
   }
 }

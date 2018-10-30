@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Chrysler%20Town%20and%20Country%20Minivan%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00821.jpg", 
+    "@type": "WebPage", 
+    "title": "Chrysler Town and Country Minivan 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -159,12 +166,5 @@
     "@id": "78", 
     "@type": "VisualDescription", 
     "name": "Chrysler Town and Country Minivan 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Chrysler%20Town%20and%20Country%20Minivan%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00821.jpg", 
-    "@type": "WebPage", 
-    "title": "Chrysler Town and Country Minivan 2012"
   }
 }

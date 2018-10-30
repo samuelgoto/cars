@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Audi%20S4%20Sedan%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00159.jpg", 
+    "@type": "WebPage", 
+    "title": "Audi S4 Sedan 2007"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -187,12 +194,5 @@
     "@id": "24", 
     "@type": "VisualDescription", 
     "name": "Audi S4 Sedan 2007"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Audi%20S4%20Sedan%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00159.jpg", 
-    "@type": "WebPage", 
-    "title": "Audi S4 Sedan 2007"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Dodge%20Magnum%20Wagon%202008%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00470.jpg", 
+    "@type": "WebPage", 
+    "title": "Dodge Magnum Wagon 2008"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -167,12 +174,5 @@
     "@id": "92", 
     "@type": "VisualDescription", 
     "name": "Dodge Magnum Wagon 2008"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Dodge%20Magnum%20Wagon%202008%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00470.jpg", 
-    "@type": "WebPage", 
-    "title": "Dodge Magnum Wagon 2008"
   }
 }

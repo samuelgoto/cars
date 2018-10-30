@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Malibu%20Hybrid%20Sedan%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00341.jpg", 
+    "@type": "WebPage", 
+    "title": "Chevrolet Malibu Hybrid Sedan 2010"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -163,12 +170,5 @@
     "@id": "67", 
     "@type": "VisualDescription", 
     "name": "Chevrolet Malibu Hybrid Sedan 2010"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Chevrolet%20Malibu%20Hybrid%20Sedan%202010%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00341.jpg", 
-    "@type": "WebPage", 
-    "title": "Chevrolet Malibu Hybrid Sedan 2010"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=GMC%20Savana%20Van%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00043.jpg", 
+    "@type": "WebPage", 
+    "title": "GMC Savana Van 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -279,12 +286,5 @@
     "@id": "119", 
     "@type": "VisualDescription", 
     "name": "GMC Savana Van 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=GMC%20Savana%20Van%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00043.jpg", 
-    "@type": "WebPage", 
-    "title": "GMC Savana Van 2012"
   }
 }

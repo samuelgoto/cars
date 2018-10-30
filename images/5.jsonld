@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Acura%20Integra%20Type%20R%202001%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00198.jpg", 
+    "@type": "WebPage", 
+    "title": "Acura Integra Type R 2001"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -187,12 +194,5 @@
     "@id": "6", 
     "@type": "VisualDescription", 
     "name": "Acura Integra Type R 2001"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Acura%20Integra%20Type%20R%202001%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00198.jpg", 
-    "@type": "WebPage", 
-    "title": "Acura Integra Type R 2001"
   }
 }

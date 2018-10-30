@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Ford%20Ranger%20SuperCab%202011%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00067.jpg", 
+    "@type": "WebPage", 
+    "title": "Ford Ranger SuperCab 2011"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -175,12 +182,5 @@
     "@id": "111", 
     "@type": "VisualDescription", 
     "name": "Ford Ranger SuperCab 2011"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Ford%20Ranger%20SuperCab%202011%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00067.jpg", 
-    "@type": "WebPage", 
-    "title": "Ford Ranger SuperCab 2011"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Bugatti%20Veyron%2016.4%20Convertible%202009%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00190.jpg", 
+    "@type": "WebPage", 
+    "title": "Bugatti Veyron 16.4 Convertible 2009"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -139,12 +146,5 @@
     "@id": "45", 
     "@type": "VisualDescription", 
     "name": "Bugatti Veyron 16.4 Convertible 2009"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Bugatti%20Veyron%2016.4%20Convertible%202009%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00190.jpg", 
-    "@type": "WebPage", 
-    "title": "Bugatti Veyron 16.4 Convertible 2009"
   }
 }

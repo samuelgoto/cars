@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Chevrolet%20Monte%20Carlo%20Coupe%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00212.jpg", 
+    "@type": "WebPage", 
+    "title": "Chevrolet Monte Carlo Coupe 2007"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -187,12 +194,5 @@
     "@id": "72", 
     "@type": "VisualDescription", 
     "name": "Chevrolet Monte Carlo Coupe 2007"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Chevrolet%20Monte%20Carlo%20Coupe%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00212.jpg", 
-    "@type": "WebPage", 
-    "title": "Chevrolet Monte Carlo Coupe 2007"
   }
 }

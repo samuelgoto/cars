@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Dodge%20Dakota%20Crew%20Cab%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00059.jpg", 
+    "@type": "WebPage", 
+    "title": "Dodge Dakota Crew Cab 2010"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -171,12 +178,5 @@
     "@id": "90", 
     "@type": "VisualDescription", 
     "name": "Dodge Dakota Crew Cab 2010"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Dodge%20Dakota%20Crew%20Cab%202010%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00059.jpg", 
-    "@type": "WebPage", 
-    "title": "Dodge Dakota Crew Cab 2010"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Volkswagen%20Golf%20Hatchback%201991%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00042.jpg", 
+    "@type": "WebPage", 
+    "title": "Volkswagen Golf Hatchback 1991"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -191,12 +198,5 @@
     "@id": "191", 
     "@type": "VisualDescription", 
     "name": "Volkswagen Golf Hatchback 1991"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Volkswagen%20Golf%20Hatchback%201991%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00042.jpg", 
-    "@type": "WebPage", 
-    "title": "Volkswagen Golf Hatchback 1991"
   }
 }

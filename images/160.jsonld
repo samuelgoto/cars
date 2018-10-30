@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Mercedes-Benz%20300-Class%20Convertible%201993%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00120.jpg", 
+    "@type": "WebPage", 
+    "title": "Mercedes-Benz 300-Class Convertible 1993"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -199,12 +206,5 @@
     "@id": "161", 
     "@type": "VisualDescription", 
     "name": "Mercedes-Benz 300-Class Convertible 1993"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Mercedes-Benz%20300-Class%20Convertible%201993%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00120.jpg", 
-    "@type": "WebPage", 
-    "title": "Mercedes-Benz 300-Class Convertible 1993"
   }
 }

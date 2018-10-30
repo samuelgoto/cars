@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Chrysler%20Crossfire%20Convertible%202008%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00413.jpg", 
+    "@type": "WebPage", 
+    "title": "Chrysler Crossfire Convertible 2008"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -179,12 +186,5 @@
     "@id": "80", 
     "@type": "VisualDescription", 
     "name": "Chrysler Crossfire Convertible 2008"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Chrysler%20Crossfire%20Convertible%202008%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00413.jpg", 
-    "@type": "WebPage", 
-    "title": "Chrysler Crossfire Convertible 2008"
   }
 }

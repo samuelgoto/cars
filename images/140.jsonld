@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Infiniti%20G%20Coupe%20IPL%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00228.jpg", 
+    "@type": "WebPage", 
+    "title": "Infiniti G Coupe IPL 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -143,12 +150,5 @@
     "@id": "141", 
     "@type": "VisualDescription", 
     "name": "Infiniti G Coupe IPL 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Infiniti%20G%20Coupe%20IPL%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00228.jpg", 
-    "@type": "WebPage", 
-    "title": "Infiniti G Coupe IPL 2012"
   }
 }

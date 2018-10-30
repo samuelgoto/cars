@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Mercedes-Benz%20SL-Class%20Coupe%202009%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00172.jpg", 
+    "@type": "WebPage", 
+    "title": "Mercedes-Benz SL-Class Coupe 2009"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -155,12 +162,5 @@
     "@id": "163", 
     "@type": "VisualDescription", 
     "name": "Mercedes-Benz SL-Class Coupe 2009"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Mercedes-Benz%20SL-Class%20Coupe%202009%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00172.jpg", 
-    "@type": "WebPage", 
-    "title": "Mercedes-Benz SL-Class Coupe 2009"
   }
 }

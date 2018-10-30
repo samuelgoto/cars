@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Audi%20TT%20Hatchback%202011%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00171.jpg", 
+    "@type": "WebPage", 
+    "title": "Audi TT Hatchback 2011"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -171,12 +178,5 @@
     "@id": "19", 
     "@type": "VisualDescription", 
     "name": "Audi TT Hatchback 2011"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Audi%20TT%20Hatchback%202011%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00171.jpg", 
-    "@type": "WebPage", 
-    "title": "Audi TT Hatchback 2011"
   }
 }

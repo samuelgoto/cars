@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Cadillac%20Escalade%20EXT%20Crew%20Cab%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00056.jpg", 
+    "@type": "WebPage", 
+    "title": "Cadillac Escalade EXT Crew Cab 2007"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -187,12 +194,5 @@
     "@id": "53", 
     "@type": "VisualDescription", 
     "name": "Cadillac Escalade EXT Crew Cab 2007"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Cadillac%20Escalade%20EXT%20Crew%20Cab%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00056.jpg", 
-    "@type": "WebPage", 
-    "title": "Cadillac Escalade EXT Crew Cab 2007"
   }
 }

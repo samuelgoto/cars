@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=BMW%206%20Series%20Convertible%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00257.jpg", 
+    "@type": "WebPage", 
+    "title": "BMW 6 Series Convertible 2007"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -183,12 +190,5 @@
     "@id": "31", 
     "@type": "VisualDescription", 
     "name": "BMW 6 Series Convertible 2007"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=BMW%206%20Series%20Convertible%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00257.jpg", 
-    "@type": "WebPage", 
-    "title": "BMW 6 Series Convertible 2007"
   }
 }

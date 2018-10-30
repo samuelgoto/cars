@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Eagle%20Talon%20Hatchback%201998%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00550.jpg", 
+    "@type": "WebPage", 
+    "title": "Eagle Talon Hatchback 1998"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -191,12 +198,5 @@
     "@id": "98", 
     "@type": "VisualDescription", 
     "name": "Eagle Talon Hatchback 1998"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Eagle%20Talon%20Hatchback%201998%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00550.jpg", 
-    "@type": "WebPage", 
-    "title": "Eagle Talon Hatchback 1998"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Chrysler%20Aspen%20SUV%202009%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00147.jpg", 
+    "@type": "WebPage", 
+    "title": "Chrysler Aspen SUV 2009"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -183,12 +190,5 @@
     "@id": "76", 
     "@type": "VisualDescription", 
     "name": "Chrysler Aspen SUV 2009"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Chrysler%20Aspen%20SUV%202009%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00147.jpg", 
-    "@type": "WebPage", 
-    "title": "Chrysler Aspen SUV 2009"
   }
 }

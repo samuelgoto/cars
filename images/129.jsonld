@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Hyundai%20Veloster%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00275.jpg", 
+    "@type": "WebPage", 
+    "title": "Hyundai Veloster Hatchback 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -171,12 +178,5 @@
     "@id": "130", 
     "@type": "VisualDescription", 
     "name": "Hyundai Veloster Hatchback 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Hyundai%20Veloster%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00275.jpg", 
-    "@type": "WebPage", 
-    "title": "Hyundai Veloster Hatchback 2012"
   }
 }

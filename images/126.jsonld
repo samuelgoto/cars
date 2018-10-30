@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Honda%20Odyssey%20Minivan%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00309.jpg", 
+    "@type": "WebPage", 
+    "title": "Honda Odyssey Minivan 2007"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -171,12 +178,5 @@
     "@id": "127", 
     "@type": "VisualDescription", 
     "name": "Honda Odyssey Minivan 2007"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Honda%20Odyssey%20Minivan%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00309.jpg", 
-    "@type": "WebPage", 
-    "title": "Honda Odyssey Minivan 2007"
   }
 }

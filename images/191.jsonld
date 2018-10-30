@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Volkswagen%20Beetle%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00019.jpg", 
+    "@type": "WebPage", 
+    "title": "Volkswagen Beetle Hatchback 2012"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -179,12 +186,5 @@
     "@id": "192", 
     "@type": "VisualDescription", 
     "name": "Volkswagen Beetle Hatchback 2012"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Volkswagen%20Beetle%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00019.jpg", 
-    "@type": "WebPage", 
-    "title": "Volkswagen Beetle Hatchback 2012"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Geo%20Metro%20Convertible%201993%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00006.jpg", 
+    "@type": "WebPage", 
+    "title": "Geo Metro Convertible 1993"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -187,12 +194,5 @@
     "@id": "123", 
     "@type": "VisualDescription", 
     "name": "Geo Metro Convertible 1993"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Geo%20Metro%20Convertible%201993%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00006.jpg", 
-    "@type": "WebPage", 
-    "title": "Geo Metro Convertible 1993"
   }
 }

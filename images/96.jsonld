@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Dodge%20Charger%20SRT-8%202009%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00038.jpg", 
+    "@type": "WebPage", 
+    "title": "Dodge Charger SRT-8 2009"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -175,12 +182,5 @@
     "@id": "97", 
     "@type": "VisualDescription", 
     "name": "Dodge Charger SRT-8 2009"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Dodge%20Charger%20SRT-8%202009%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00038.jpg", 
-    "@type": "WebPage", 
-    "title": "Dodge Charger SRT-8 2009"
   }
 }

@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Lamborghini%20Reventon%20Coupe%202008%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00608.jpg", 
+    "@type": "WebPage", 
+    "title": "Lamborghini Reventon Coupe 2008"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -151,12 +158,5 @@
     "@id": "150", 
     "@type": "VisualDescription", 
     "name": "Lamborghini Reventon Coupe 2008"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Lamborghini%20Reventon%20Coupe%202008%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00608.jpg", 
-    "@type": "WebPage", 
-    "title": "Lamborghini Reventon Coupe 2008"
   }
 }

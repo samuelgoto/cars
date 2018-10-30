@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Ford%20Focus%20Sedan%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00356.jpg", 
+    "@type": "WebPage", 
+    "title": "Ford Focus Sedan 2007"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -187,12 +194,5 @@
     "@id": "115", 
     "@type": "VisualDescription", 
     "name": "Ford Focus Sedan 2007"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Ford%20Focus%20Sedan%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00356.jpg", 
-    "@type": "WebPage", 
-    "title": "Ford Focus Sedan 2007"
   }
 }

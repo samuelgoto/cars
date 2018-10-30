@@ -1,5 +1,12 @@
 {
+  "content": {
+    "url": "https://www.google.com/search?q=Chrysler%20PT%20Cruiser%20Convertible%202008%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00496.jpg", 
+    "@type": "WebPage", 
+    "title": "Chrysler PT Cruiser Convertible 2008"
+  }, 
   "@context": "http://code.sgo.to/arpub", 
+  "@type": "ARArtifact", 
   "target": {
     "examples": [
       {
@@ -187,12 +194,5 @@
     "@id": "81", 
     "@type": "VisualDescription", 
     "name": "Chrysler PT Cruiser Convertible 2008"
-  }, 
-  "@type": "ARArtifact", 
-  "asset": {
-    "url": "https://www.google.com/search?q=Chrysler%20PT%20Cruiser%20Convertible%202008%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00496.jpg", 
-    "@type": "WebPage", 
-    "title": "Chrysler PT Cruiser Convertible 2008"
   }
 }
