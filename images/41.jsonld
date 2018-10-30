@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00050.jpg", 
         "@type": "Image"
@@ -143,9 +143,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "42", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Bentley Continental GT Coupe 2012"
   }, 
   "@type": "ARArtifact", 

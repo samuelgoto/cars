@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00053.jpg", 
         "@type": "Image"
@@ -175,9 +175,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "15", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Audi R8 Coupe 2012"
   }, 
   "@type": "ARArtifact", 

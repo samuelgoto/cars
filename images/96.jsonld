@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00038.jpg", 
         "@type": "Image"
@@ -171,9 +171,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "97", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Dodge Charger SRT-8 2009"
   }, 
   "@type": "ARArtifact", 

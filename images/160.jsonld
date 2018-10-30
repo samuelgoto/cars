@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00120.jpg", 
         "@type": "Image"
@@ -195,9 +195,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "161", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Mercedes-Benz 300-Class Convertible 1993"
   }, 
   "@type": "ARArtifact", 

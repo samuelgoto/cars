@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00031.jpg", 
         "@type": "Image"
@@ -175,9 +175,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "154", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Land Rover Range Rover SUV 2012"
   }, 
   "@type": "ARArtifact", 

@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00138.jpg", 
         "@type": "Image"
@@ -191,9 +191,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "56", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Chevrolet Corvette ZR1 2012"
   }, 
   "@type": "ARArtifact", 

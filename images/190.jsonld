@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00042.jpg", 
         "@type": "Image"
@@ -187,9 +187,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "191", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Volkswagen Golf Hatchback 1991"
   }, 
   "@type": "ARArtifact", 

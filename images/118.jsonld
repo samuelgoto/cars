@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00043.jpg", 
         "@type": "Image"
@@ -275,9 +275,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "119", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "GMC Savana Van 2012"
   }, 
   "@type": "ARArtifact", 

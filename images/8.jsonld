@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00340.jpg", 
         "@type": "Image"
@@ -167,9 +167,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "9", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Aston Martin V8 Vantage Coupe 2012"
   }, 
   "@type": "ARArtifact", 

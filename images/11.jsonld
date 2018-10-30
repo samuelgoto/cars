@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00201.jpg", 
         "@type": "Image"
@@ -151,9 +151,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "12", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Audi RS 4 Convertible 2008"
   }, 
   "@type": "ARArtifact", 

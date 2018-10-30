@@ -34,7 +34,7 @@ for i in dataset.keys():
     thumbnail = dataset[i][0]
     with open("images/" + str(i - 1) + ".jsonld", "w") as f:
         data = {
-          "@context": "https://schema.org",
+          "@context": "http://code.sgo.to/arpub",
           "@type": "ARArtifact",
           "asset": {
             "@type": "WebPage",
@@ -43,11 +43,11 @@ for i in dataset.keys():
             "thumbnail": thumbnail
           },
           "target": {
-            "@context": "https://code.sgo.to/datasets",
-            "@type": "Class",
+            "@context": "https://code.sgo.to/vod",
+            "@type": "VisualDescription",
             "@id": str(i),
             "name": str(name),
-            "images": map(lambda url: {"@type": "Image", "url": url}, dataset[i])
+            "examples": map(lambda url: {"@type": "Image", "url": url}, dataset[i])
           }
         }
         # json[] = 

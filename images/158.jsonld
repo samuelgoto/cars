@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00499.jpg", 
         "@type": "Image"
@@ -147,9 +147,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "159", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Mazda Tribute SUV 2011"
   }, 
   "@type": "ARArtifact", 

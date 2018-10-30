@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00006.jpg", 
         "@type": "Image"
@@ -183,9 +183,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "123", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Geo Metro Convertible 1993"
   }, 
   "@type": "ARArtifact", 

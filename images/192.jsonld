@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00015.jpg", 
         "@type": "Image"
@@ -171,9 +171,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "193", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Volvo C30 Hatchback 2012"
   }, 
   "@type": "ARArtifact", 

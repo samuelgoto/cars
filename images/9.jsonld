@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00221.jpg", 
         "@type": "Image"
@@ -135,9 +135,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "10", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Aston Martin Virage Convertible 2012"
   }, 
   "@type": "ARArtifact", 

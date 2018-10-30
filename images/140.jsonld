@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00228.jpg", 
         "@type": "Image"
@@ -139,9 +139,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "141", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Infiniti G Coupe IPL 2012"
   }, 
   "@type": "ARArtifact", 

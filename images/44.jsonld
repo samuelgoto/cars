@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00190.jpg", 
         "@type": "Image"
@@ -135,9 +135,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "45", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Bugatti Veyron 16.4 Convertible 2009"
   }, 
   "@type": "ARArtifact", 

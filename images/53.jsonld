@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00174.jpg", 
         "@type": "Image"
@@ -163,9 +163,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "54", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Chevrolet Silverado 1500 Hybrid Crew Cab 2012"
   }, 
   "@type": "ARArtifact", 

@@ -1,7 +1,7 @@
 {
-  "@context": "https://schema.org", 
+  "@context": "http://code.sgo.to/arpub", 
   "target": {
-    "images": [
+    "examples": [
       {
         "url": "00317.jpg", 
         "@type": "Image"
@@ -119,9 +119,9 @@
         "@type": "Image"
       }
     ], 
-    "@context": "https://code.sgo.to/datasets", 
+    "@context": "https://code.sgo.to/vod", 
     "@id": "158", 
-    "@type": "Class", 
+    "@type": "VisualDescription", 
     "name": "Maybach Landaulet Convertible 2012"
   }, 
   "@type": "ARArtifact", 
