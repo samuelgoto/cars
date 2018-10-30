@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Aston%20Martin%20V8%20Vantage%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00065.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00065.jpg"
+    "title": "Aston Martin V8 Vantage Convertible 2012"
   }
 }

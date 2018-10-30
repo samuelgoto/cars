@@ -207,7 +207,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chrysler%20300%20SRT-8%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00021.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00021.jpg"
+    "title": "Chrysler 300 SRT-8 2010"
   }
 }

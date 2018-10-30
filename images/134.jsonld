@@ -179,7 +179,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Hyundai%20Elantra%20Sedan%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00013.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00013.jpg"
+    "title": "Hyundai Elantra Sedan 2007"
   }
 }

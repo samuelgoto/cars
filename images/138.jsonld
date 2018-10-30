@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Hyundai%20Elantra%20Touring%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00032.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00032.jpg"
+    "title": "Hyundai Elantra Touring Hatchback 2012"
   }
 }

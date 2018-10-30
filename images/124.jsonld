@@ -187,7 +187,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=HUMMER%20H2%20SUT%20Crew%20Cab%202009%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00186.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00186.jpg"
+    "title": "HUMMER H2 SUT Crew Cab 2009"
   }
 }

@@ -187,7 +187,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chevrolet%20Sonic%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00209.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00209.jpg"
+    "title": "Chevrolet Sonic Sedan 2012"
   }
 }

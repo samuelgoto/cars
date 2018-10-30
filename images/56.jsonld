@@ -163,7 +163,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chevrolet%20Corvette%20Ron%20Fellows%20Edition%20Z06%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00020.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00020.jpg"
+    "title": "Chevrolet Corvette Ron Fellows Edition Z06 2007"
   }
 }

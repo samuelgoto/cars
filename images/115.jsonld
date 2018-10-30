@@ -163,7 +163,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Ford%20E-Series%20Wagon%20Van%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00084.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00084.jpg"
+    "title": "Ford E-Series Wagon Van 2012"
   }
 }

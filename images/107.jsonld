@@ -187,7 +187,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Ford%20Freestar%20Minivan%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00166.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00166.jpg"
+    "title": "Ford Freestar Minivan 2007"
   }
 }

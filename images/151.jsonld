@@ -155,7 +155,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Lamborghini%20Gallardo%20LP%20570-4%20Superleggera%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00421.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00421.jpg"
+    "title": "Lamborghini Gallardo LP 570-4 Superleggera 2012"
   }
 }

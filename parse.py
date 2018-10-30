@@ -39,6 +39,7 @@ for i in dataset.keys():
           "asset": {
             "@type": "WebPage",
             "url": asset,
+            "title": str(name),
             "thumbnail": thumbnail
           },
           "target": {

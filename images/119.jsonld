@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=GMC%20Yukon%20Hybrid%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00023.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00023.jpg"
+    "title": "GMC Yukon Hybrid SUV 2012"
   }
 }

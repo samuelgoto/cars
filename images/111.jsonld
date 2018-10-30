@@ -195,7 +195,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Ford%20GT%20Coupe%202006%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00094.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00094.jpg"
+    "title": "Ford GT Coupe 2006"
   }
 }

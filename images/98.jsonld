@@ -123,7 +123,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=FIAT%20500%20Abarth%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00223.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00223.jpg"
+    "title": "FIAT 500 Abarth 2012"
   }
 }

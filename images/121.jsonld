@@ -171,7 +171,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=GMC%20Canyon%20Extended%20Cab%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00068.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00068.jpg"
+    "title": "GMC Canyon Extended Cab 2012"
   }
 }

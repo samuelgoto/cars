@@ -167,7 +167,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Toyota%20Sequoia%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00012.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00012.jpg"
+    "title": "Toyota Sequoia SUV 2012"
   }
 }

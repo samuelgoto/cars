@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Volvo%20XC90%20SUV%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00213.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00213.jpg"
+    "title": "Volvo XC90 SUV 2007"
   }
 }

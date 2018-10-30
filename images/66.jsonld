@@ -167,7 +167,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chevrolet%20Malibu%20Hybrid%20Sedan%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00341.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00341.jpg"
+    "title": "Chevrolet Malibu Hybrid Sedan 2010"
   }
 }

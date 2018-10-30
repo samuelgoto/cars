@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Audi%20S4%20Sedan%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00159.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00159.jpg"
+    "title": "Audi S4 Sedan 2007"
   }
 }

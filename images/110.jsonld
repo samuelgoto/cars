@@ -179,7 +179,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Ford%20Ranger%20SuperCab%202011%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00067.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00067.jpg"
+    "title": "Ford Ranger SuperCab 2011"
   }
 }

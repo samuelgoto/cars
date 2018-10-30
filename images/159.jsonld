@@ -187,7 +187,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=McLaren%20MP4-12C%20Coupe%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00187.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00187.jpg"
+    "title": "McLaren MP4-12C Coupe 2012"
   }
 }

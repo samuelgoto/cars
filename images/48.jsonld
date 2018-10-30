@@ -163,7 +163,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Buick%20Verano%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00011.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00011.jpg"
+    "title": "Buick Verano Sedan 2012"
   }
 }

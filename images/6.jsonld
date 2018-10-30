@@ -167,7 +167,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Acura%20ZDX%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00236.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00236.jpg"
+    "title": "Acura ZDX Hatchback 2012"
   }
 }

@@ -175,7 +175,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Audi%20100%20Sedan%201994%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00066.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00066.jpg"
+    "title": "Audi 100 Sedan 1994"
   }
 }

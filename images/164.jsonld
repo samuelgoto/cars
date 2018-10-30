@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Mercedes-Benz%20S-Class%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00091.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00091.jpg"
+    "title": "Mercedes-Benz S-Class Sedan 2012"
   }
 }

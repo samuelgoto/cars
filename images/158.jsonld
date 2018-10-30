@@ -155,7 +155,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Mazda%20Tribute%20SUV%202011%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00499.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00499.jpg"
+    "title": "Mazda Tribute SUV 2011"
   }
 }

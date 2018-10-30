@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Dodge%20Ram%20Pickup%203500%20Crew%20Cab%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00028.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00028.jpg"
+    "title": "Dodge Ram Pickup 3500 Crew Cab 2010"
   }
 }

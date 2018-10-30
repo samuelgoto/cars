@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Ford%20Mustang%20Convertible%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00220.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00220.jpg"
+    "title": "Ford Mustang Convertible 2007"
   }
 }

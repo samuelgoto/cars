@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Ford%20F-150%20Regular%20Cab%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00061.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00061.jpg"
+    "title": "Ford F-150 Regular Cab 2007"
   }
 }

@@ -151,7 +151,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chevrolet%20Express%20Van%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00100.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00100.jpg"
+    "title": "Chevrolet Express Van 2007"
   }
 }

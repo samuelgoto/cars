@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Jeep%20Liberty%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00119.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00119.jpg"
+    "title": "Jeep Liberty SUV 2012"
   }
 }

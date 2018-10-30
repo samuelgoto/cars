@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Ford%20Fiesta%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00353.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00353.jpg"
+    "title": "Ford Fiesta Sedan 2012"
   }
 }

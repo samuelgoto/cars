@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=AM%20General%20Hummer%20SUV%202000%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00163.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00163.jpg"
+    "title": "AM General Hummer SUV 2000"
   }
 }

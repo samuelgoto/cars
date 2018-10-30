@@ -175,7 +175,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=BMW%20M5%20Sedan%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00792.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00792.jpg"
+    "title": "BMW M5 Sedan 2010"
   }
 }

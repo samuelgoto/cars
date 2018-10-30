@@ -175,7 +175,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Audi%20TT%20Hatchback%202011%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00171.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00171.jpg"
+    "title": "Audi TT Hatchback 2011"
   }
 }

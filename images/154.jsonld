@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Land%20Rover%20LR2%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00143.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00143.jpg"
+    "title": "Land Rover LR2 SUV 2012"
   }
 }

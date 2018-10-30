@@ -179,7 +179,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Ferrari%20FF%20Coupe%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00063.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00063.jpg"
+    "title": "Ferrari FF Coupe 2012"
   }
 }

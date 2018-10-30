@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Audi%20100%20Wagon%201994%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00083.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00083.jpg"
+    "title": "Audi 100 Wagon 1994"
   }
 }

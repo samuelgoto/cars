@@ -179,7 +179,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Dodge%20Caliber%20Wagon%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00232.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00232.jpg"
+    "title": "Dodge Caliber Wagon 2007"
   }
 }

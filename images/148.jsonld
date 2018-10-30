@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Jeep%20Compass%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00155.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00155.jpg"
+    "title": "Jeep Compass SUV 2012"
   }
 }

@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Land%20Rover%20Range%20Rover%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00031.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00031.jpg"
+    "title": "Land Rover Range Rover SUV 2012"
   }
 }

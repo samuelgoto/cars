@@ -167,7 +167,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=HUMMER%20H3T%20Crew%20Cab%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00060.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00060.jpg"
+    "title": "HUMMER H3T Crew Cab 2010"
   }
 }

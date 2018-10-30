@@ -163,7 +163,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chrysler%20Town%20and%20Country%20Minivan%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00821.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00821.jpg"
+    "title": "Chrysler Town and Country Minivan 2012"
   }
 }

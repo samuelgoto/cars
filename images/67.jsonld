@@ -171,7 +171,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chevrolet%20TrailBlazer%20SS%202009%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00181.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00181.jpg"
+    "title": "Chevrolet TrailBlazer SS 2009"
   }
 }

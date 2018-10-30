@@ -175,7 +175,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Ram%20C/V%20Cargo%20Van%20Minivan%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00156.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00156.jpg"
+    "title": "Ram C/V Cargo Van Minivan 2012"
   }
 }

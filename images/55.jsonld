@@ -199,7 +199,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chevrolet%20Corvette%20ZR1%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00138.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00138.jpg"
+    "title": "Chevrolet Corvette ZR1 2012"
   }
 }

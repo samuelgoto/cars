@@ -167,7 +167,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Honda%20Accord%20Sedan%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00474.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00474.jpg"
+    "title": "Honda Accord Sedan 2012"
   }
 }

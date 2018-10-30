@@ -167,7 +167,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Nissan%20NV%20Passenger%20Van%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00300.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00300.jpg"
+    "title": "Nissan NV Passenger Van 2012"
   }
 }

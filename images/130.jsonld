@@ -179,7 +179,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Hyundai%20Santa%20Fe%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00107.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00107.jpg"
+    "title": "Hyundai Santa Fe SUV 2012"
   }
 }

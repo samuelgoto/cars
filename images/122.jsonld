@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Geo%20Metro%20Convertible%201993%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00006.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00006.jpg"
+    "title": "Geo Metro Convertible 1993"
   }
 }

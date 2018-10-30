@@ -159,7 +159,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Bentley%20Continental%20Supersports%20Conv.%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00357.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00357.jpg"
+    "title": "Bentley Continental Supersports Conv. Convertible 2012"
   }
 }

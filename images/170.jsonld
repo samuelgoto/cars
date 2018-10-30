@@ -195,7 +195,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Nissan%20240SX%20Coupe%201998%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00131.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00131.jpg"
+    "title": "Nissan 240SX Coupe 1998"
   }
 }

@@ -195,7 +195,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Volkswagen%20Golf%20Hatchback%201991%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00042.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00042.jpg"
+    "title": "Volkswagen Golf Hatchback 1991"
   }
 }

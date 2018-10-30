@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Jeep%20Wrangler%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00382.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00382.jpg"
+    "title": "Jeep Wrangler SUV 2012"
   }
 }

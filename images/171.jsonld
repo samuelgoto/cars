@@ -187,7 +187,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Plymouth%20Neon%20Coupe%201999%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00016.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00016.jpg"
+    "title": "Plymouth Neon Coupe 1999"
   }
 }

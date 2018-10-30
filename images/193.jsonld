@@ -195,7 +195,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Volvo%20240%20Sedan%201993%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00025.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00025.jpg"
+    "title": "Volvo 240 Sedan 1993"
   }
 }

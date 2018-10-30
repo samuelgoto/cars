@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chevrolet%20Malibu%20Sedan%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00018.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00018.jpg"
+    "title": "Chevrolet Malibu Sedan 2007"
   }
 }

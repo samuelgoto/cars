@@ -171,7 +171,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Audi%20TT%20RS%20Coupe%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00046.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00046.jpg"
+    "title": "Audi TT RS Coupe 2012"
   }
 }

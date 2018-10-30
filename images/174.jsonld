@@ -135,7 +135,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Rolls-Royce%20Phantom%20Drophead%20Coupe%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00093.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00093.jpg"
+    "title": "Rolls-Royce Phantom Drophead Coupe Convertible 2012"
   }
 }

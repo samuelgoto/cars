@@ -159,7 +159,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=MINI%20Cooper%20Roadster%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00633.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00633.jpg"
+    "title": "MINI Cooper Roadster Convertible 2012"
   }
 }

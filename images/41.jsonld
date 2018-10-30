@@ -151,7 +151,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Bentley%20Continental%20GT%20Coupe%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00050.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00050.jpg"
+    "title": "Bentley Continental GT Coupe 2012"
   }
 }

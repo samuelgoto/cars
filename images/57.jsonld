@@ -187,7 +187,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chevrolet%20Traverse%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00010.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00010.jpg"
+    "title": "Chevrolet Traverse SUV 2012"
   }
 }

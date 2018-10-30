@@ -175,7 +175,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Dodge%20Dakota%20Crew%20Cab%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00059.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00059.jpg"
+    "title": "Dodge Dakota Crew Cab 2010"
   }
 }

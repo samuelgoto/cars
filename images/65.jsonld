@@ -179,7 +179,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chevrolet%20Cobalt%20SS%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00033.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00033.jpg"
+    "title": "Chevrolet Cobalt SS 2010"
   }
 }

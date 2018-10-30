@@ -187,7 +187,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chevrolet%20Silverado%201500%20Extended%20Cab%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00104.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00104.jpg"
+    "title": "Chevrolet Silverado 1500 Extended Cab 2012"
   }
 }

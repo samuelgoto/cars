@@ -167,7 +167,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Dodge%20Challenger%20SRT8%202011%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00188.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00188.jpg"
+    "title": "Dodge Challenger SRT8 2011"
   }
 }

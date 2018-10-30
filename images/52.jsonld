@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Cadillac%20Escalade%20EXT%20Crew%20Cab%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00056.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00056.jpg"
+    "title": "Cadillac Escalade EXT Crew Cab 2007"
   }
 }

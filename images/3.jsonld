@@ -179,7 +179,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Acura%20TL%20Type-S%202008%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00392.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00392.jpg"
+    "title": "Acura TL Type-S 2008"
   }
 }

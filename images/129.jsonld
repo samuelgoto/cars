@@ -175,7 +175,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Hyundai%20Veloster%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00275.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00275.jpg"
+    "title": "Hyundai Veloster Hatchback 2012"
   }
 }

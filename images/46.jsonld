@@ -151,7 +151,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Buick%20Regal%20GS%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00152.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00152.jpg"
+    "title": "Buick Regal GS 2012"
   }
 }

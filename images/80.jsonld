@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chrysler%20PT%20Cruiser%20Convertible%202008%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00496.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00496.jpg"
+    "title": "Chrysler PT Cruiser Convertible 2008"
   }
 }

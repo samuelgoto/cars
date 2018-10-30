@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Buick%20Rainier%20SUV%202007%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00193.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00193.jpg"
+    "title": "Buick Rainier SUV 2007"
   }
 }

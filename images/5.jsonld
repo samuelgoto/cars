@@ -191,7 +191,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Acura%20Integra%20Type%20R%202001%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00198.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00198.jpg"
+    "title": "Acura Integra Type R 2001"
   }
 }

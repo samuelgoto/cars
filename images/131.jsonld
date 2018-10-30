@@ -187,7 +187,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Hyundai%20Tucson%20SUV%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00234.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00234.jpg"
+    "title": "Hyundai Tucson SUV 2012"
   }
 }

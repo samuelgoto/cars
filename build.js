@@ -3,7 +3,8 @@ const fs = require("fs");
 let dataset = {
  "@context": "https://code.sgo.to/feeds",
  "@type": "Feed",
- "name": "The Stanford car dataset ported to JSON-LD",
+ "name": "A car model overlay, based on the Stanford car dataset ported to JSON-LD",
+ "description": "With this overlay you can get information about over 200 different car models!",
  "items": [
  ]
 };

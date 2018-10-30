@@ -183,7 +183,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Audi%20R8%20Coupe%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00053.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00053.jpg"
+    "title": "Audi R8 Coupe 2012"
   }
 }

@@ -147,7 +147,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=FIAT%20500%20Convertible%202012%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00272.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00272.jpg"
+    "title": "FIAT 500 Convertible 2012"
   }
 }

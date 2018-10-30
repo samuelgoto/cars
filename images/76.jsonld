@@ -175,7 +175,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Chrysler%20Sebring%20Convertible%202010%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00195.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00195.jpg"
+    "title": "Chrysler Sebring Convertible 2010"
   }
 }

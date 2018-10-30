@@ -187,7 +187,8 @@
   "@type": "ARArtifact", 
   "asset": {
     "url": "https://www.google.com/search?q=Dodge%20Ram%20Pickup%203500%20Quad%20Cab%202009%20site:wikipedia.org&btnI=true", 
+    "thumbnail": "00297.jpg", 
     "@type": "WebPage", 
-    "thumbnail": "00297.jpg"
+    "title": "Dodge Ram Pickup 3500 Quad Cab 2009"
   }
 }
