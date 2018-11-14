@@ -1,194 +1,184 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Chrysler%20Aspen%20SUV%202009%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00147.jpg", 
-    "@type": "WebPage", 
-    "title": "Chrysler Aspen SUV 2009"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00147.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00525.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00588.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00630.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01651.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01802.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01895.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01904.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01906.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02048.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02106.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02369.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02608.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02661.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02697.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02879.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02881.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03198.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03371.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03669.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03696.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03792.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04175.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04258.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04300.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04381.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04688.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04772.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05544.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05728.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05860.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06146.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06157.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06332.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06441.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06447.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06590.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06650.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06742.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06770.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06940.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07320.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07554.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07998.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "76", 
-    "@type": "VisualDescription", 
-    "name": "Chrysler Aspen SUV 2009"
-  }
+  "images": [
+    {
+      "url": "00147.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00525.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00588.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00630.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01651.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01802.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01895.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01904.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01906.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02048.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02106.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02369.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02608.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02661.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02697.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02879.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02881.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03198.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03371.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03669.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03696.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03792.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04175.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04258.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04300.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04381.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04688.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04772.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05544.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05728.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05860.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06146.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06157.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06332.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06441.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06447.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06590.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06650.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06742.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06770.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06940.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07320.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07554.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07998.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "76", 
+  "@type": "Class", 
+  "name": "Chrysler Aspen SUV 2009"
 }

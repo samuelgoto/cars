@@ -1,214 +1,204 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Chrysler%20300%20SRT-8%202010%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00021.jpg", 
-    "@type": "WebPage", 
-    "title": "Chrysler 300 SRT-8 2010"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00021.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00127.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00444.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00612.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00783.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01057.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01487.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01538.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01746.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02248.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02415.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02675.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02849.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03282.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03784.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03962.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04027.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04050.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04275.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04309.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04346.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04409.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04429.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04786.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05015.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05080.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05178.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05214.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05516.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05559.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05628.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05745.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06140.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06666.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06690.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06882.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06938.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06944.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07334.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07411.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07416.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07502.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07519.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07561.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07643.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07714.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07734.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08047.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08107.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "79", 
-    "@type": "VisualDescription", 
-    "name": "Chrysler 300 SRT-8 2010"
-  }
+  "images": [
+    {
+      "url": "00021.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00127.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00444.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00612.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00783.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01057.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01487.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01538.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01746.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02248.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02415.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02675.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02849.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03282.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03784.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03962.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04027.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04050.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04275.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04309.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04346.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04409.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04429.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04786.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05015.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05080.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05178.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05214.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05516.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05559.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05628.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05745.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06140.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06666.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06690.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06882.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06938.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06944.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07334.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07411.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07416.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07502.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07519.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07561.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07643.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07714.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07734.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08047.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08107.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "79", 
+  "@type": "Class", 
+  "name": "Chrysler 300 SRT-8 2010"
 }

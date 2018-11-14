@@ -1,194 +1,184 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Chevrolet%20Silverado%201500%20Regular%20Cab%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00322.jpg", 
-    "@type": "WebPage", 
-    "title": "Chevrolet Silverado 1500 Regular Cab 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00322.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00406.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00597.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00615.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00876.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00957.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01546.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01808.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02079.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02097.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02265.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02640.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02775.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02808.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02842.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02871.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02903.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02934.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02946.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03516.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03614.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03695.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04408.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04638.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04711.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04993.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05213.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05305.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05416.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05571.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05984.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06055.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06091.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06176.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06466.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06864.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07035.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07212.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07387.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07534.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07626.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07871.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08080.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08117.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "75", 
-    "@type": "VisualDescription", 
-    "name": "Chevrolet Silverado 1500 Regular Cab 2012"
-  }
+  "images": [
+    {
+      "url": "00322.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00406.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00597.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00615.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00876.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00957.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01546.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01808.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02079.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02097.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02265.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02640.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02775.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02808.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02842.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02871.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02903.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02934.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02946.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03516.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03614.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03695.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04408.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04638.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04711.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04993.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05213.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05305.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05416.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05571.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05984.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06055.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06091.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06176.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06466.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06864.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07035.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07212.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07387.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07534.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07626.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07871.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08080.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08117.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "75", 
+  "@type": "Class", 
+  "name": "Chevrolet Silverado 1500 Regular Cab 2012"
 }

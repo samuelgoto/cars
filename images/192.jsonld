@@ -1,186 +1,176 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Volvo%20C30%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00015.jpg", 
-    "@type": "WebPage", 
-    "title": "Volvo C30 Hatchback 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00015.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00101.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00326.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00583.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00838.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00885.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01046.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01112.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01464.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02262.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02401.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02424.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02989.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03077.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03114.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03177.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03188.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03224.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03555.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03668.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03759.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03880.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04070.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04355.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04976.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04982.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05367.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05438.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05890.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06111.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06286.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06340.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06442.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06743.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06935.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07177.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07373.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07402.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07441.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07454.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07808.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08071.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "193", 
-    "@type": "VisualDescription", 
-    "name": "Volvo C30 Hatchback 2012"
-  }
+  "images": [
+    {
+      "url": "00015.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00101.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00326.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00583.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00838.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00885.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01046.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01112.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01464.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02262.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02401.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02424.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02989.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03077.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03114.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03177.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03188.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03224.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03555.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03668.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03759.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03880.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04070.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04355.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04976.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04982.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05367.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05438.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05890.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06111.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06286.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06340.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06442.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06743.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06935.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07177.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07373.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07402.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07441.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07454.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07808.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08071.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "193", 
+  "@type": "Class", 
+  "name": "Volvo C30 Hatchback 2012"
 }

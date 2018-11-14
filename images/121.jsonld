@@ -1,178 +1,168 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=GMC%20Canyon%20Extended%20Cab%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00068.jpg", 
-    "@type": "WebPage", 
-    "title": "GMC Canyon Extended Cab 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00068.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00095.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00136.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00178.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00270.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00541.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00696.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00907.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01172.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01174.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01266.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01454.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01655.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01869.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01902.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02196.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02288.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02466.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03166.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03309.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03473.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03789.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03924.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04147.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04387.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04504.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04574.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05166.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05532.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05704.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05714.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05925.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06160.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06256.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06337.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06446.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06584.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07183.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07300.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07776.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "122", 
-    "@type": "VisualDescription", 
-    "name": "GMC Canyon Extended Cab 2012"
-  }
+  "images": [
+    {
+      "url": "00068.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00095.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00136.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00178.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00270.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00541.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00696.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00907.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01172.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01174.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01266.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01454.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01655.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01869.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01902.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02196.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02288.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02466.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03166.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03309.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03473.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03789.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03924.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04147.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04387.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04504.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04574.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05166.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05532.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05704.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05714.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05925.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06160.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06256.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06337.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06446.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06584.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07183.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07300.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07776.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "122", 
+  "@type": "Class", 
+  "name": "GMC Canyon Extended Cab 2012"
 }

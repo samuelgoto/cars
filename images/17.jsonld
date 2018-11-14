@@ -1,190 +1,180 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Audi%20100%20Wagon%201994%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00083.jpg", 
-    "@type": "WebPage", 
-    "title": "Audi 100 Wagon 1994"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00083.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00154.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00217.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00219.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00471.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00780.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01097.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01591.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01609.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01700.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02171.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02214.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02292.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02341.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02400.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02505.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02796.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03435.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03439.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03498.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04176.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04567.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04744.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05271.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05576.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05645.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05713.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05787.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05869.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06291.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06362.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06610.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06664.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06871.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06873.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07002.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07028.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07195.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07213.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07383.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07384.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07493.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07649.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "18", 
-    "@type": "VisualDescription", 
-    "name": "Audi 100 Wagon 1994"
-  }
+  "images": [
+    {
+      "url": "00083.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00154.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00217.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00219.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00471.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00780.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01097.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01591.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01609.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01700.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02171.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02214.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02292.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02341.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02400.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02505.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02796.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03435.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03439.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03498.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04176.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04567.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04744.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05271.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05576.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05645.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05713.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05787.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05869.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06291.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06362.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06610.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06664.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06871.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06873.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07002.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07028.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07195.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07213.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07383.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07384.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07493.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07649.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "18", 
+  "@type": "Class", 
+  "name": "Audi 100 Wagon 1994"
 }

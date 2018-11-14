@@ -1,182 +1,172 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Dodge%20Dakota%20Crew%20Cab%202010%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00059.jpg", 
-    "@type": "WebPage", 
-    "title": "Dodge Dakota Crew Cab 2010"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00059.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00202.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00483.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00682.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01137.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01212.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01766.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01837.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02012.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02622.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02761.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02790.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03078.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03132.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03420.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03577.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03984.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04157.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04420.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04598.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04888.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05003.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05046.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05496.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05575.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05653.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05723.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05960.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05989.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06019.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06248.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06564.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06691.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06711.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06796.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07044.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07260.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07552.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07556.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07660.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08090.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "90", 
-    "@type": "VisualDescription", 
-    "name": "Dodge Dakota Crew Cab 2010"
-  }
+  "images": [
+    {
+      "url": "00059.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00202.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00483.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00682.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01137.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01212.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01766.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01837.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02012.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02622.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02761.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02790.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03078.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03132.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03420.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03577.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03984.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04157.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04420.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04598.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04888.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05003.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05046.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05496.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05575.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05653.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05723.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05960.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05989.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06019.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06248.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06564.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06691.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06711.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06796.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07044.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07260.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07552.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07556.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07660.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08090.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "90", 
+  "@type": "Class", 
+  "name": "Dodge Dakota Crew Cab 2010"
 }

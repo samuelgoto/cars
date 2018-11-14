@@ -1,198 +1,188 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Ford%20F-150%20Regular%20Cab%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00061.jpg", 
-    "@type": "WebPage", 
-    "title": "Ford F-150 Regular Cab 2007"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00061.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00090.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00214.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00329.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00493.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00510.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00715.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00824.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00842.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01067.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01215.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01323.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01555.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01758.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01897.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02112.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02170.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02247.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02578.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02588.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03061.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03428.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03725.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03997.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04063.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04618.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04648.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04785.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04863.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05038.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05159.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05186.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05495.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05574.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05649.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06036.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06057.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06445.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06499.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06825.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06878.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06905.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07143.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07543.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08079.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "114", 
-    "@type": "VisualDescription", 
-    "name": "Ford F-150 Regular Cab 2007"
-  }
+  "images": [
+    {
+      "url": "00061.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00090.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00214.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00329.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00493.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00510.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00715.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00824.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00842.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01067.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01215.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01323.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01555.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01758.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01897.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02112.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02170.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02247.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02578.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02588.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03061.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03428.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03725.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03997.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04063.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04618.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04648.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04785.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04863.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05038.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05159.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05186.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05495.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05574.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05649.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06036.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06057.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06445.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06499.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06825.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06878.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06905.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07143.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07543.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08079.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "114", 
+  "@type": "Class", 
+  "name": "Ford F-150 Regular Cab 2007"
 }

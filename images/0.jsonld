@@ -1,198 +1,188 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=AM%20General%20Hummer%20SUV%202000%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00163.jpg", 
-    "@type": "WebPage", 
-    "title": "AM General Hummer SUV 2000"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00163.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00462.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00522.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00707.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00773.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00887.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00946.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01277.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01661.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01832.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01918.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01952.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02050.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02145.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02311.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02363.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02848.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03008.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03393.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03943.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04056.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04544.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04578.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04669.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04827.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04874.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05030.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05224.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05657.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05754.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05804.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05921.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06052.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06159.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06174.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06262.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06833.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07025.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07279.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07290.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07487.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07684.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07966.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08011.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08031.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "1", 
-    "@type": "VisualDescription", 
-    "name": "AM General Hummer SUV 2000"
-  }
+  "images": [
+    {
+      "url": "00163.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00462.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00522.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00707.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00773.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00887.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00946.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01277.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01661.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01832.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01918.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01952.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02050.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02145.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02311.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02363.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02848.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03008.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03393.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03943.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04056.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04544.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04578.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04669.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04827.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04874.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05030.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05224.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05657.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05754.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05804.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05921.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06052.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06159.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06174.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06262.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06833.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07025.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07279.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07290.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07487.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07684.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07966.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08011.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08031.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "1", 
+  "@type": "Class", 
+  "name": "AM General Hummer SUV 2000"
 }

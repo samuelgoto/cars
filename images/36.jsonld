@@ -1,174 +1,164 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=BMW%20X3%20SUV%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00099.jpg", 
-    "@type": "WebPage", 
-    "title": "BMW X3 SUV 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00099.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00164.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00639.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00985.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01064.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01079.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01227.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01253.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01348.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01568.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01579.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01892.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02010.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02336.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02391.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02702.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02901.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03022.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03339.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03361.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03558.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04018.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04375.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04527.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04714.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04973.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05006.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05402.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05772.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05897.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06075.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06214.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06278.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06308.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06997.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07480.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07511.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08068.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08082.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "37", 
-    "@type": "VisualDescription", 
-    "name": "BMW X3 SUV 2012"
-  }
+  "images": [
+    {
+      "url": "00099.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00164.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00639.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00985.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01064.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01079.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01227.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01253.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01348.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01568.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01579.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01892.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02010.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02336.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02391.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02702.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02901.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03022.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03339.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03361.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03558.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04018.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04375.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04527.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04714.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04973.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05006.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05402.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05772.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05897.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06075.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06214.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06278.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06308.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06997.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07480.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07511.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08068.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08082.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "37", 
+  "@type": "Class", 
+  "name": "BMW X3 SUV 2012"
 }

@@ -1,190 +1,180 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Ford%20Fiesta%20Sedan%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00353.jpg", 
-    "@type": "WebPage", 
-    "title": "Ford Fiesta Sedan 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00353.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00427.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00721.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00811.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01781.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02133.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02166.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02226.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02834.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03018.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03225.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03229.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03631.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04036.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04068.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04290.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04311.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04419.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04536.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04571.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04759.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04985.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05323.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05362.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05487.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05697.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05906.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05980.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06223.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06382.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07041.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07117.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07298.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07327.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07427.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07446.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07612.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07705.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07843.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07955.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08054.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08113.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08126.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "117", 
-    "@type": "VisualDescription", 
-    "name": "Ford Fiesta Sedan 2012"
-  }
+  "images": [
+    {
+      "url": "00353.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00427.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00721.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00811.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01781.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02133.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02166.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02226.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02834.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03018.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03225.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03229.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03631.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04036.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04068.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04290.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04311.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04419.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04536.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04571.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04759.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04985.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05323.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05362.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05487.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05697.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05906.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05980.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06223.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06382.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07041.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07117.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07298.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07327.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07427.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07446.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07612.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07705.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07843.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07955.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08054.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08113.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08126.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "117", 
+  "@type": "Class", 
+  "name": "Ford Fiesta Sedan 2012"
 }

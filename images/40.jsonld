@@ -1,162 +1,152 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Bentley%20Mulsanne%20Sedan%202011%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00167.jpg", 
-    "@type": "WebPage", 
-    "title": "Bentley Mulsanne Sedan 2011"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00167.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00589.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00732.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00746.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00856.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01039.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01205.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01552.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02386.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02718.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02789.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03285.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03299.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03404.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03455.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03506.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03928.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04690.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04771.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04783.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05548.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05722.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05763.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05803.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05928.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05971.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06110.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06181.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06217.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06233.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06326.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06636.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06729.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06952.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07285.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07433.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "41", 
-    "@type": "VisualDescription", 
-    "name": "Bentley Mulsanne Sedan 2011"
-  }
+  "images": [
+    {
+      "url": "00167.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00589.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00732.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00746.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00856.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01039.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01205.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01552.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02386.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02718.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02789.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03285.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03299.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03404.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03455.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03506.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03928.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04690.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04771.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04783.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05548.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05722.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05763.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05803.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05928.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05971.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06110.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06181.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06217.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06233.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06326.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06636.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06729.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06952.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07285.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07433.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "41", 
+  "@type": "Class", 
+  "name": "Bentley Mulsanne Sedan 2011"
 }

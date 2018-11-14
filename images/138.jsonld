@@ -1,190 +1,180 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Hyundai%20Elantra%20Touring%20Hatchback%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00032.jpg", 
-    "@type": "WebPage", 
-    "title": "Hyundai Elantra Touring Hatchback 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00032.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00534.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00539.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00794.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00813.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01475.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01741.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01822.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01829.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02217.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02356.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02467.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02469.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02665.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02754.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03021.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03912.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04010.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04251.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04390.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04474.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04530.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04855.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04937.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05093.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05134.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05356.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05798.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06056.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06070.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06117.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06408.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06436.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06483.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06507.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06773.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06877.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06918.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07033.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07093.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07470.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07620.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08045.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "139", 
-    "@type": "VisualDescription", 
-    "name": "Hyundai Elantra Touring Hatchback 2012"
-  }
+  "images": [
+    {
+      "url": "00032.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00534.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00539.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00794.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00813.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01475.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01741.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01822.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01829.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02217.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02356.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02467.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02469.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02665.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02754.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03021.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03912.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04010.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04251.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04390.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04474.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04530.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04855.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04937.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05093.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05134.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05356.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05798.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06056.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06070.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06117.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06408.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06436.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06483.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06507.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06773.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06877.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06918.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07033.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07093.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07470.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07620.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08045.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "139", 
+  "@type": "Class", 
+  "name": "Hyundai Elantra Touring Hatchback 2012"
 }

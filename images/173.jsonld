@@ -1,182 +1,172 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Ram%20C/V%20Cargo%20Van%20Minivan%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00156.jpg", 
-    "@type": "WebPage", 
-    "title": "Ram C/V Cargo Van Minivan 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00156.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00271.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00478.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00594.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00763.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00766.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00927.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01162.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01209.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01385.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01460.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02062.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02102.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02193.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02285.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02447.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02563.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02685.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02711.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02815.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02916.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03532.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03611.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03853.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04306.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04859.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05167.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05350.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05418.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06338.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06634.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06697.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06981.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06988.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07210.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07343.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07356.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07558.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07607.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07608.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07839.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "174", 
-    "@type": "VisualDescription", 
-    "name": "Ram C/V Cargo Van Minivan 2012"
-  }
+  "images": [
+    {
+      "url": "00156.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00271.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00478.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00594.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00763.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00766.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00927.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01162.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01209.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01385.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01460.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02062.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02102.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02193.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02285.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02447.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02563.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02685.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02711.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02815.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02916.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03532.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03611.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03853.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04306.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04859.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05167.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05350.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05418.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06338.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06634.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06697.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06981.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06988.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07210.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07343.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07356.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07558.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07607.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07608.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07839.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "174", 
+  "@type": "Class", 
+  "name": "Ram C/V Cargo Van Minivan 2012"
 }

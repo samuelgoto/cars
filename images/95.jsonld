@@ -1,182 +1,172 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Dodge%20Charger%20Sedan%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00008.jpg", 
-    "@type": "WebPage", 
-    "title": "Dodge Charger Sedan 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00008.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00875.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00969.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01155.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01461.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01527.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01709.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01721.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02038.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02078.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02110.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02472.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02523.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03340.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03397.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03592.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03610.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03745.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04209.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04211.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04283.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04541.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04543.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04776.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04878.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04948.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05123.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05228.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05431.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05450.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05611.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05662.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05815.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05953.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06190.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06687.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06970.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07012.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07621.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07832.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07912.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "96", 
-    "@type": "VisualDescription", 
-    "name": "Dodge Charger Sedan 2012"
-  }
+  "images": [
+    {
+      "url": "00008.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00875.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00969.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01155.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01461.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01527.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01709.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01721.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02038.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02078.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02110.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02472.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02523.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03340.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03397.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03592.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03610.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03745.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04209.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04211.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04283.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04541.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04543.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04776.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04878.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04948.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05123.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05228.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05431.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05450.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05611.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05662.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05815.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05953.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06190.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06687.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06970.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07012.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07621.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07832.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07912.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "96", 
+  "@type": "Class", 
+  "name": "Dodge Charger Sedan 2012"
 }

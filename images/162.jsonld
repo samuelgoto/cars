@@ -1,166 +1,156 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Mercedes-Benz%20SL-Class%20Coupe%202009%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00172.jpg", 
-    "@type": "WebPage", 
-    "title": "Mercedes-Benz SL-Class Coupe 2009"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00172.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00432.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00556.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00802.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00828.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00873.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00889.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01404.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01551.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01596.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01842.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01950.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02189.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02723.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02839.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02979.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03031.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03069.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03213.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03973.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04006.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04281.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04675.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05321.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05430.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05469.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05481.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06232.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06257.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06294.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06329.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07096.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07359.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07505.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07694.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08116.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08142.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "163", 
-    "@type": "VisualDescription", 
-    "name": "Mercedes-Benz SL-Class Coupe 2009"
-  }
+  "images": [
+    {
+      "url": "00172.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00432.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00556.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00802.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00828.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00873.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00889.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01404.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01551.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01596.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01842.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01950.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02189.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02723.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02839.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02979.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03031.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03069.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03213.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03973.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04006.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04281.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04675.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05321.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05430.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05469.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05481.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06232.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06257.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06294.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06329.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07096.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07359.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07505.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07694.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08116.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08142.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "163", 
+  "@type": "Class", 
+  "name": "Mercedes-Benz SL-Class Coupe 2009"
 }

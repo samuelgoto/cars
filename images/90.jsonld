@@ -1,174 +1,164 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Dodge%20Dakota%20Club%20Cab%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00003.jpg", 
-    "@type": "WebPage", 
-    "title": "Dodge Dakota Club Cab 2007"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00003.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00051.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00287.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00628.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00774.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00879.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00884.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01044.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01414.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01452.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01835.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02132.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02225.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02448.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02455.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02877.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03000.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03040.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03072.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03295.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03683.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03691.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03730.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03851.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04025.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04026.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04037.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04340.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04341.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04373.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04837.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05348.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05813.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05826.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06359.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06913.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06937.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07539.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07818.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "91", 
-    "@type": "VisualDescription", 
-    "name": "Dodge Dakota Club Cab 2007"
-  }
+  "images": [
+    {
+      "url": "00003.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00051.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00287.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00628.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00774.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00879.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00884.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01044.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01414.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01452.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01835.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02132.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02225.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02448.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02455.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02877.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03000.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03040.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03072.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03295.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03683.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03691.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03730.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03851.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04025.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04026.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04037.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04340.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04341.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04373.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04837.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05348.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05813.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05826.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06359.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06913.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06937.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07539.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07818.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "91", 
+  "@type": "Class", 
+  "name": "Dodge Dakota Club Cab 2007"
 }

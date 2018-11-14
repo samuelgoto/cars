@@ -1,182 +1,172 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Dodge%20Caliber%20Wagon%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00115.jpg", 
-    "@type": "WebPage", 
-    "title": "Dodge Caliber Wagon 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00115.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00306.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00371.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00646.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01020.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01616.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01645.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01682.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02340.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02372.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02479.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02689.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02716.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02929.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02991.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03012.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03205.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03432.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03460.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03769.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03899.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04079.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04118.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04127.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04442.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05184.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05412.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05961.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06172.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06316.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06353.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06477.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06551.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06595.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06596.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06731.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07216.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07247.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07397.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07478.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07604.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "83", 
-    "@type": "VisualDescription", 
-    "name": "Dodge Caliber Wagon 2012"
-  }
+  "images": [
+    {
+      "url": "00115.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00306.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00371.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00646.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01020.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01616.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01645.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01682.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02340.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02372.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02479.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02689.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02716.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02929.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02991.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03012.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03205.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03432.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03460.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03769.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03899.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04079.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04118.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04127.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04442.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05184.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05412.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05961.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06172.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06316.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06353.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06477.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06551.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06595.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06596.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06731.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07216.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07247.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07397.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07478.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07604.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "83", 
+  "@type": "Class", 
+  "name": "Dodge Caliber Wagon 2012"
 }

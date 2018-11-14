@@ -1,166 +1,156 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=MINI%20Cooper%20Roadster%20Convertible%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00633.jpg", 
-    "@type": "WebPage", 
-    "title": "MINI Cooper Roadster Convertible 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00633.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01187.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01306.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01350.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01633.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01749.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02777.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02799.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02817.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02902.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03016.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03043.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03369.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03713.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04039.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04099.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04301.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04674.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04745.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04781.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04867.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04935.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05133.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05204.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05230.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05505.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05560.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05652.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06046.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06085.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06198.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07100.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07365.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07717.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07835.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07941.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07959.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "157", 
-    "@type": "VisualDescription", 
-    "name": "MINI Cooper Roadster Convertible 2012"
-  }
+  "images": [
+    {
+      "url": "00633.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01187.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01306.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01350.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01633.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01749.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02777.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02799.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02817.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02902.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03016.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03043.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03369.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03713.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04039.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04099.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04301.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04674.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04745.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04781.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04867.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04935.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05133.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05204.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05230.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05505.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05560.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05652.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06046.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06085.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06198.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07100.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07365.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07717.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07835.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07941.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07959.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "157", 
+  "@type": "Class", 
+  "name": "MINI Cooper Roadster Convertible 2012"
 }

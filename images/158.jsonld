@@ -1,162 +1,152 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Mazda%20Tribute%20SUV%202011%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00499.jpg", 
-    "@type": "WebPage", 
-    "title": "Mazda Tribute SUV 2011"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00499.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00730.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00843.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00847.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01088.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01096.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01217.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01231.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01374.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01924.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02421.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02954.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03927.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04125.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04168.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04254.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04383.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04516.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04694.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04808.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04866.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04968.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04969.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05079.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05778.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05790.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05823.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05999.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06276.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07106.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07127.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07255.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07527.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07903.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07928.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08024.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "159", 
-    "@type": "VisualDescription", 
-    "name": "Mazda Tribute SUV 2011"
-  }
+  "images": [
+    {
+      "url": "00499.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00730.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00843.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00847.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01088.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01096.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01217.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01231.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01374.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01924.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02421.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02954.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03927.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04125.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04168.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04254.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04383.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04516.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04694.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04808.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04866.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04968.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04969.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05079.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05778.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05790.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05823.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05999.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06276.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07106.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07127.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07255.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07527.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07903.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07928.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08024.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "159", 
+  "@type": "Class", 
+  "name": "Mazda Tribute SUV 2011"
 }

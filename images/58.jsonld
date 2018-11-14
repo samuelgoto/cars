@@ -1,198 +1,188 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Chevrolet%20Camaro%20Convertible%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00076.jpg", 
-    "@type": "WebPage", 
-    "title": "Chevrolet Camaro Convertible 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00076.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00368.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00384.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00407.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00562.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00607.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00932.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01328.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01342.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01358.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01360.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01428.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01812.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02113.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02222.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02458.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02673.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02928.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03006.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03324.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03499.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04003.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04218.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04280.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04560.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04761.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05152.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05191.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05340.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05726.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05811.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05837.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05983.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06026.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06567.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06628.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06801.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06883.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07052.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07089.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07276.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07388.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07419.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07670.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07850.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "59", 
-    "@type": "VisualDescription", 
-    "name": "Chevrolet Camaro Convertible 2012"
-  }
+  "images": [
+    {
+      "url": "00076.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00368.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00384.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00407.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00562.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00607.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00932.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01328.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01342.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01358.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01360.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01428.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01812.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02113.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02222.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02458.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02673.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02928.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03006.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03324.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03499.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04003.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04218.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04280.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04560.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04761.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05152.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05191.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05340.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05726.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05811.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05837.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05983.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06026.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06567.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06628.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06801.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06883.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07052.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07089.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07276.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07388.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07419.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07670.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07850.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "59", 
+  "@type": "Class", 
+  "name": "Chevrolet Camaro Convertible 2012"
 }

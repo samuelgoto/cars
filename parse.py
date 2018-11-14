@@ -30,25 +30,15 @@ for i in dataset.keys():
     name = classes[i - 1][0]
     images = len(dataset[i])
     term = urllib.quote(name.encode("utf-8"))
-    asset = "https://www.google.com/search?q=" + term + "%20site:wikipedia.org&btnI=true"
-    thumbnail = dataset[i][0]
+    # asset = "https://www.google.com/search?q=" + term + "%20site:wikipedia.org&btnI=true"
+    # thumbnail = dataset[i][0]
     with open("images/" + str(i - 1) + ".jsonld", "w") as f:
         data = {
-          "@context": "http://code.sgo.to/arpub",
-          "@type": "ARArtifact",
-          "content": {
-            "@type": "WebPage",
-            "url": asset,
-            "title": str(name),
-            "thumbnail": thumbnail
-          },
-          "target": {
-            "@context": "https://code.sgo.to/vod",
-            "@type": "VisualDescription",
-            "@id": str(i),
-            "name": str(name),
-            "examples": map(lambda url: {"@type": "Image", "url": url}, dataset[i])
-          }
+          "@context": "http://code.sgo.to/datasets",
+          "@type": "Class",
+          "@id": str(i),
+          "name": str(name),
+          "images": map(lambda url: {"@type": "Image", "url": url}, dataset[i])
         }
         # json[] = 
         # f.write(name + "\n")

@@ -1,190 +1,180 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Chevrolet%20Silverado%201500%20Classic%20Extended%20Cab%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00360.jpg", 
-    "@type": "WebPage", 
-    "title": "Chevrolet Silverado 1500 Classic Extended Cab 2007"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00360.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00669.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00874.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01009.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01029.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01325.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01419.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01432.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01477.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01690.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01874.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01921.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01938.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01967.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02034.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02142.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02295.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02597.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02976.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03261.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03632.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03685.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04104.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04163.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04610.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04625.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04678.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04845.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05174.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05449.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05451.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05479.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05810.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06029.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06116.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06502.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06547.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06592.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06946.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07406.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07680.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07980.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07999.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "70", 
-    "@type": "VisualDescription", 
-    "name": "Chevrolet Silverado 1500 Classic Extended Cab 2007"
-  }
+  "images": [
+    {
+      "url": "00360.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00669.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00874.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01009.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01029.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01325.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01419.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01432.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01477.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01690.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01874.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01921.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01938.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01967.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02034.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02142.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02295.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02597.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02976.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03261.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03632.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03685.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04104.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04163.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04610.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04625.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04678.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04845.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05174.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05449.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05451.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05479.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05810.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06029.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06116.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06502.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06547.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06592.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06946.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07406.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07680.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07980.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07999.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "70", 
+  "@type": "Class", 
+  "name": "Chevrolet Silverado 1500 Classic Extended Cab 2007"
 }

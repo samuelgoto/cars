@@ -1,186 +1,176 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Buick%20Enclave%20SUV%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00177.jpg", 
-    "@type": "WebPage", 
-    "title": "Buick Enclave SUV 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00177.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00253.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00295.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00362.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00417.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00591.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00943.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00981.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01027.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01201.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01557.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01691.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02303.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02606.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03553.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03660.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04020.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04642.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04817.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05124.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05396.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05605.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05758.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05840.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05997.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06049.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06124.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06197.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06215.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06702.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06863.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07112.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07341.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07529.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07547.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07585.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07600.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07625.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07848.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07892.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07894.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08042.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "50", 
-    "@type": "VisualDescription", 
-    "name": "Buick Enclave SUV 2012"
-  }
+  "images": [
+    {
+      "url": "00177.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00253.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00295.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00362.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00417.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00591.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00943.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00981.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01027.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01201.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01557.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01691.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02303.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02606.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03553.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03660.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04020.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04642.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04817.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05124.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05396.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05605.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05758.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05840.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05997.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06049.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06124.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06197.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06215.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06702.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06863.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07112.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07341.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07529.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07547.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07585.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07600.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07625.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07848.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07892.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07894.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08042.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "50", 
+  "@type": "Class", 
+  "name": "Buick Enclave SUV 2012"
 }

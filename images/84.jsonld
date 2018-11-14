@@ -1,194 +1,184 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Dodge%20Caravan%20Minivan%201997%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00014.jpg", 
-    "@type": "WebPage", 
-    "title": "Dodge Caravan Minivan 1997"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00014.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00423.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01261.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01384.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01826.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01903.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01958.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02223.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02389.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02409.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02956.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03252.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03336.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03384.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03529.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03557.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03646.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03681.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04170.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04389.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04462.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04793.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04847.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04903.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05102.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05500.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05686.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05721.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05752.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05871.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05888.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06119.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06333.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06804.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06966.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07170.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07226.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07355.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07378.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07474.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07565.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07782.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08105.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08135.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "85", 
-    "@type": "VisualDescription", 
-    "name": "Dodge Caravan Minivan 1997"
-  }
+  "images": [
+    {
+      "url": "00014.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00423.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01261.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01384.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01826.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01903.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01958.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02223.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02389.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02409.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02956.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03252.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03336.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03384.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03529.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03557.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03646.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03681.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04170.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04389.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04462.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04793.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04847.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04903.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05102.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05500.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05686.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05721.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05752.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05871.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05888.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06119.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06333.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06804.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06966.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07170.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07226.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07355.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07378.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07474.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07565.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07782.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08105.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08135.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "85", 
+  "@type": "Class", 
+  "name": "Dodge Caravan Minivan 1997"
 }

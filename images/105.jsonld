@@ -1,186 +1,176 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Ford%20F-450%20Super%20Duty%20Crew%20Cab%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00005.jpg", 
-    "@type": "WebPage", 
-    "title": "Ford F-450 Super Duty Crew Cab 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00005.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00073.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00074.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00231.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00338.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00717.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00753.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01280.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01630.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01688.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02360.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02551.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02634.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02644.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02966.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03176.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03240.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03672.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03799.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04207.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04293.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04597.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04607.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04864.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05062.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05113.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05187.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05491.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05512.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05910.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05919.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06228.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06591.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06670.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06775.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06809.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06811.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06814.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06817.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07083.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07775.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08029.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "106", 
-    "@type": "VisualDescription", 
-    "name": "Ford F-450 Super Duty Crew Cab 2012"
-  }
+  "images": [
+    {
+      "url": "00005.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00073.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00074.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00231.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00338.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00717.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00753.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01280.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01630.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01688.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02360.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02551.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02634.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02644.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02966.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03176.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03240.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03672.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03799.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04207.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04293.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04597.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04607.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04864.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05062.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05113.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05187.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05491.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05512.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05910.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05919.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06228.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06591.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06670.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06775.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06809.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06811.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06814.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06817.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07083.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07775.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08029.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "106", 
+  "@type": "Class", 
+  "name": "Ford F-450 Super Duty Crew Cab 2012"
 }

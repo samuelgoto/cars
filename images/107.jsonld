@@ -1,194 +1,184 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Ford%20Freestar%20Minivan%202007%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00166.jpg", 
-    "@type": "WebPage", 
-    "title": "Ford Freestar Minivan 2007"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00166.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00452.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00458.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00526.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00945.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00960.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01211.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01773.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01998.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02498.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02506.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02615.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02698.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02724.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02863.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03380.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03735.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03744.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03819.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04000.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04095.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04179.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04342.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04670.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04894.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05108.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05135.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05655.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06054.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06106.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06324.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06428.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06597.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06649.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06788.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06890.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06964.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07079.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07156.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07162.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07197.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07589.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07933.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07995.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "108", 
-    "@type": "VisualDescription", 
-    "name": "Ford Freestar Minivan 2007"
-  }
+  "images": [
+    {
+      "url": "00166.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00452.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00458.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00526.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00945.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00960.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01211.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01773.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01998.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02498.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02506.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02615.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02698.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02724.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02863.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03380.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03735.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03744.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03819.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04000.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04095.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04179.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04342.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04670.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04894.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05108.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05135.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05655.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06054.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06106.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06324.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06428.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06597.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06649.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06788.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06890.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06964.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07079.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07156.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07162.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07197.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07589.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07933.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07995.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "108", 
+  "@type": "Class", 
+  "name": "Ford Freestar Minivan 2007"
 }

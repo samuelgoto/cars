@@ -1,186 +1,176 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=Chevrolet%20Cobalt%20SS%202010%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00033.jpg", 
-    "@type": "WebPage", 
-    "title": "Chevrolet Cobalt SS 2010"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00033.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00126.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00176.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00929.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01107.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01959.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02203.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02235.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02368.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02941.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02947.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03144.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03163.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03242.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03251.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03638.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03994.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04246.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04452.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04502.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04565.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04596.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04606.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04629.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05082.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05112.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05525.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05578.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05691.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06129.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06361.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06726.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06898.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07161.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07186.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07254.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07379.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07437.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07726.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07745.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08008.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08077.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "66", 
-    "@type": "VisualDescription", 
-    "name": "Chevrolet Cobalt SS 2010"
-  }
+  "images": [
+    {
+      "url": "00033.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00126.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00176.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00929.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01107.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01959.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02203.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02235.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02368.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02941.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02947.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03144.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03163.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03242.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03251.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03638.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03994.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04246.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04452.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04502.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04565.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04596.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04606.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04629.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05082.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05112.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05525.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05578.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05691.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06129.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06361.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06726.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06898.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07161.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07186.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07254.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07379.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07437.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07726.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07745.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08008.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08077.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "66", 
+  "@type": "Class", 
+  "name": "Chevrolet Cobalt SS 2010"
 }

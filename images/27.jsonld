@@ -1,182 +1,172 @@
 {
-  "content": {
-    "url": "https://www.google.com/search?q=BMW%201%20Series%20Coupe%202012%20site:wikipedia.org&btnI=true", 
-    "thumbnail": "00122.jpg", 
-    "@type": "WebPage", 
-    "title": "BMW 1 Series Coupe 2012"
-  }, 
-  "@context": "http://code.sgo.to/arpub", 
-  "@type": "ARArtifact", 
-  "target": {
-    "examples": [
-      {
-        "url": "00122.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00598.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "00870.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01206.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01239.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01292.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01500.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "01553.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02027.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02233.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02338.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02416.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02504.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02627.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02649.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02758.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "02772.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03634.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03665.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "03874.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04030.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04505.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04551.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04832.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "04865.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05028.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05404.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05445.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05541.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05654.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05794.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05947.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "05985.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06202.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06387.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "06574.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07022.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07031.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07155.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "07262.jpg", 
-        "@type": "Image"
-      }, 
-      {
-        "url": "08021.jpg", 
-        "@type": "Image"
-      }
-    ], 
-    "@context": "https://code.sgo.to/vod", 
-    "@id": "28", 
-    "@type": "VisualDescription", 
-    "name": "BMW 1 Series Coupe 2012"
-  }
+  "images": [
+    {
+      "url": "00122.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00598.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00870.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01206.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01239.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01292.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01500.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01553.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02027.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02233.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02338.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02416.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02504.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02627.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02649.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02758.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02772.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03634.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03665.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03874.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04030.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04505.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04551.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04832.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04865.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05028.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05404.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05445.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05541.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05654.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05794.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05947.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05985.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06202.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06387.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06574.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07022.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07031.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07155.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07262.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08021.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@context": "http://code.sgo.to/datasets", 
+  "@id": "28", 
+  "@type": "Class", 
+  "name": "BMW 1 Series Coupe 2012"
 }
