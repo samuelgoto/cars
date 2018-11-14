@@ -32,7 +32,7 @@ for i in dataset.keys():
     term = urllib.quote(name.encode("utf-8"))
     # asset = "https://www.google.com/search?q=" + term + "%20site:wikipedia.org&btnI=true"
     # thumbnail = dataset[i][0]
-    with open("images/" + str(i - 1) + ".json", "w") as f:
+    with open("images/" + str(i - 1) + ".jsonld", "w") as f:
         data = {
           "@type": "Class",
           "@id": str(i),
