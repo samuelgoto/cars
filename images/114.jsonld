@@ -1,0 +1,188 @@
+{
+  "images": [
+    {
+      "url": "00356.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00441.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00523.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00614.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00703.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00788.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00974.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00993.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01296.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01366.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01465.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01724.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01855.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01900.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02008.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02119.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02581.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02707.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02757.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02810.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04064.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04123.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04507.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04586.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04722.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04798.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05005.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05064.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05065.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05091.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05377.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05428.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05474.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05970.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06164.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06184.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06619.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06627.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06760.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06893.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06912.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07054.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07240.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07772.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08066.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "115", 
+  "@type": "Class", 
+  "name": "Ford Focus Sedan 2007", 
+  "dataset": "../manifest.json"
+}

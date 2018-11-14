@@ -1,0 +1,164 @@
+{
+  "images": [
+    {
+      "url": "00341.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00520.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00924.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01318.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01326.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01397.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01731.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01881.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01961.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02308.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02442.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02502.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02590.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02603.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03085.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03352.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03355.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03411.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03484.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03656.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03998.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04124.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04350.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04591.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04626.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04879.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05034.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06032.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06165.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06444.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06469.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06512.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06802.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06834.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07432.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07563.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07713.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07780.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08119.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "67", 
+  "@type": "Class", 
+  "name": "Chevrolet Malibu Hybrid Sedan 2010", 
+  "dataset": "../manifest.json"
+}

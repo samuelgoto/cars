@@ -1,0 +1,184 @@
+{
+  "images": [
+    {
+      "url": "00039.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00102.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00252.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00283.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00489.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01722.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01934.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01988.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02173.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02300.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02552.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02626.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02972.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03013.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03563.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03714.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04262.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04367.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04575.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04612.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04697.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04939.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04994.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05136.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05182.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05424.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05486.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05651.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05669.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05922.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05934.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06017.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06182.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06237.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06264.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06303.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06594.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06625.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06707.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07060.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07674.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07724.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07840.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08076.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "105", 
+  "@type": "Class", 
+  "name": "Fisker Karma Sedan 2012", 
+  "dataset": "../manifest.json"
+}

@@ -1,0 +1,144 @@
+{
+  "images": [
+    {
+      "url": "00004.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00026.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00260.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00850.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01213.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01738.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02128.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02351.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02353.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02560.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02595.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03266.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03400.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03664.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03793.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03893.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04424.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04815.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04877.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04907.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05819.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06095.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06138.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06143.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06347.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06368.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06669.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06733.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06942.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07323.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07329.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07459.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07887.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07988.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "134", 
+  "@type": "Class", 
+  "name": "Hyundai Sonata Hybrid Sedan 2012", 
+  "dataset": "../manifest.json"
+}

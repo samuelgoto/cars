@@ -1,0 +1,188 @@
+{
+  "images": [
+    {
+      "url": "00496.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00955.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01069.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01219.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01307.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01556.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01673.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01823.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02559.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02596.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02624.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02709.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02856.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02981.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03249.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03331.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03657.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04015.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04043.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04053.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04167.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04238.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04602.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04620.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04643.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04695.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05335.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05524.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05658.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05667.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05762.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06084.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06103.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06137.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06657.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07120.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07264.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07267.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07429.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07700.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07735.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07787.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07801.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07913.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08100.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "81", 
+  "@type": "Class", 
+  "name": "Chrysler PT Cruiser Convertible 2008", 
+  "dataset": "../manifest.json"
+}

@@ -1,0 +1,192 @@
+{
+  "images": [
+    {
+      "url": "00106.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00422.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00447.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00515.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00519.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00559.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00789.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01018.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01021.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01247.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01338.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01543.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01564.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01653.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01726.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01845.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02252.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02330.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02530.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02736.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02914.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02980.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03107.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03374.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03446.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03535.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03768.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03771.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04347.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04423.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04636.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04795.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04824.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04836.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05371.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05962.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06130.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06418.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06543.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06861.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06897.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07140.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07825.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07893.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08000.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08009.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "162", 
+  "@type": "Class", 
+  "name": "Mercedes-Benz C-Class Sedan 2012", 
+  "dataset": "../manifest.json"
+}

@@ -1,0 +1,160 @@
+{
+  "images": [
+    {
+      "url": "00020.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00097.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00354.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00418.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00816.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00928.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01316.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01975.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01984.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02047.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02134.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02257.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02276.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02544.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02654.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02667.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02713.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02891.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03606.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03733.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04302.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04407.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04437.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04476.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04875.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05555.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05969.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06048.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06284.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06366.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06684.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06886.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07068.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07116.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07425.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07469.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07831.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08040.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "57", 
+  "@type": "Class", 
+  "name": "Chevrolet Corvette Ron Fellows Edition Z06 2007", 
+  "dataset": "../manifest.json"
+}

@@ -1,0 +1,184 @@
+{
+  "images": [
+    {
+      "url": "00112.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00247.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00627.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00671.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00685.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00704.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00744.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00815.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00855.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01007.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01291.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01304.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01894.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02123.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02137.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02213.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02228.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02277.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02342.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02463.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03026.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03068.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03290.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03388.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03403.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03663.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03814.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03840.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03974.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04593.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04930.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05026.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05299.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05915.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05940.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06102.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06745.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06764.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06957.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07319.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07368.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07512.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07886.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07992.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "137", 
+  "@type": "Class", 
+  "name": "Hyundai Genesis Sedan 2012", 
+  "dataset": "../manifest.json"
+}

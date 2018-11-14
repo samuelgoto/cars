@@ -1,0 +1,188 @@
+{
+  "images": [
+    {
+      "url": "00159.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00313.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00446.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00632.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00689.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00733.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00750.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00770.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00793.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00803.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00835.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01073.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01195.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01600.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02056.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02165.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02561.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02680.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02715.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03087.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03119.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03269.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03842.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03855.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03886.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03892.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04480.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04580.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04841.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05429.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05688.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05887.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05908.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06565.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06852.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07258.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07339.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07553.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07562.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07590.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07878.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07889.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07938.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08026.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08053.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "24", 
+  "@type": "Class", 
+  "name": "Audi S4 Sedan 2007", 
+  "dataset": "../manifest.json"
+}

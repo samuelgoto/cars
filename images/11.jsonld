@@ -1,0 +1,156 @@
+{
+  "images": [
+    {
+      "url": "00201.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00578.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00690.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00755.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01297.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01313.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01640.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01762.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02584.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02620.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02773.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02797.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02873.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02885.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03167.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03723.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04379.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04497.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04533.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04818.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05002.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05263.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06008.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06020.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06088.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06163.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06515.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06708.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06859.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06904.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07008.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07206.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07241.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07307.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07439.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08014.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08086.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "12", 
+  "@type": "Class", 
+  "name": "Audi RS 4 Convertible 2008", 
+  "dataset": "../manifest.json"
+}

@@ -1,0 +1,148 @@
+{
+  "images": [
+    {
+      "url": "00152.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00279.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00319.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00547.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00759.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00886.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01281.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01433.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01614.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01671.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01770.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01933.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01968.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02052.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02988.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03372.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03507.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04658.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04794.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04870.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05374.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05540.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06225.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06254.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06575.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06701.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06719.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06787.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06794.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07233.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07236.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07338.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07530.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07921.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07940.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "47", 
+  "@type": "Class", 
+  "name": "Buick Regal GS 2012", 
+  "dataset": "../manifest.json"
+}

@@ -1,0 +1,180 @@
+{
+  "images": [
+    {
+      "url": "00029.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00110.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00111.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00327.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00404.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00445.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00449.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00778.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01028.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01236.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01269.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01510.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01629.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02105.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02184.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02477.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02904.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02915.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03259.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03406.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03419.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03594.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03808.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04098.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04210.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04333.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04388.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04562.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04712.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04871.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05053.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05211.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05485.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05502.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05954.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06785.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06858.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07204.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07304.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07376.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07642.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07668.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07698.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "180", 
+  "@type": "Class", 
+  "name": "Spyker C8 Coupe 2009", 
+  "dataset": "../manifest.json"
+}
