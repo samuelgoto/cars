@@ -172,5 +172,5 @@
   "@id": "140", 
   "@type": "Class", 
   "name": "Hyundai Azera Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -200,5 +200,5 @@
   "@id": "79", 
   "@type": "Class", 
   "name": "Chrysler 300 SRT-8 2010", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

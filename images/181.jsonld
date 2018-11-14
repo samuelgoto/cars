@@ -188,5 +188,5 @@
   "@id": "182", 
   "@type": "Class", 
   "name": "Suzuki Kizashi Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

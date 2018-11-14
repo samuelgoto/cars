@@ -180,5 +180,5 @@
   "@id": "87", 
   "@type": "Class", 
   "name": "Dodge Ram Pickup 3500 Quad Cab 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

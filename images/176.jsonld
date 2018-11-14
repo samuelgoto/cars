@@ -180,5 +180,5 @@
   "@id": "177", 
   "@type": "Class", 
   "name": "Rolls-Royce Phantom Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

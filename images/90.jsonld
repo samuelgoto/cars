@@ -160,5 +160,5 @@
   "@id": "91", 
   "@type": "Class", 
   "name": "Dodge Dakota Club Cab 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

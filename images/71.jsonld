@@ -184,5 +184,5 @@
   "@id": "72", 
   "@type": "Class", 
   "name": "Chevrolet Monte Carlo Coupe 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

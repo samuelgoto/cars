@@ -156,5 +156,5 @@
   "@id": "69", 
   "@type": "Class", 
   "name": "Chevrolet Silverado 2500HD Regular Cab 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

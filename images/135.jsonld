@@ -100,5 +100,5 @@
   "@id": "136", 
   "@type": "Class", 
   "name": "Hyundai Accent Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

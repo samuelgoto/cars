@@ -140,5 +140,5 @@
   "@id": "100", 
   "@type": "Class", 
   "name": "FIAT 500 Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

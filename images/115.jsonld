@@ -156,5 +156,5 @@
   "@id": "116", 
   "@type": "Class", 
   "name": "Ford E-Series Wagon Van 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

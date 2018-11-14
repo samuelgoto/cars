@@ -144,5 +144,5 @@
   "@id": "42", 
   "@type": "Class", 
   "name": "Bentley Continental GT Coupe 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

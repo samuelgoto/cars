@@ -188,5 +188,5 @@
   "@id": "112", 
   "@type": "Class", 
   "name": "Ford GT Coupe 2006", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

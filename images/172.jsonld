@@ -180,5 +180,5 @@
   "@id": "173", 
   "@type": "Class", 
   "name": "Porsche Panamera Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

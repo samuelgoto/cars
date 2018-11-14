@@ -184,5 +184,5 @@
   "@id": "34", 
   "@type": "Class", 
   "name": "BMW M3 Coupe 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

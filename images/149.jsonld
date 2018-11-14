@@ -148,5 +148,5 @@
   "@id": "150", 
   "@type": "Class", 
   "name": "Lamborghini Reventon Coupe 2008", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

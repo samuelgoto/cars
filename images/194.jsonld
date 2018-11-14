@@ -176,5 +176,5 @@
   "@id": "195", 
   "@type": "Class", 
   "name": "Volvo XC90 SUV 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

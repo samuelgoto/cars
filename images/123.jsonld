@@ -160,5 +160,5 @@
   "@id": "124", 
   "@type": "Class", 
   "name": "HUMMER H3T Crew Cab 2010", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -184,5 +184,5 @@
   "@id": "73", 
   "@type": "Class", 
   "name": "Chevrolet Malibu Sedan 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -152,5 +152,5 @@
   "@id": "62", 
   "@type": "Class", 
   "name": "Chevrolet Tahoe Hybrid SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

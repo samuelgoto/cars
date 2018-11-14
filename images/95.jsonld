@@ -168,5 +168,5 @@
   "@id": "96", 
   "@type": "Class", 
   "name": "Dodge Charger Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

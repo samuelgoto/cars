@@ -136,5 +136,5 @@
   "@id": "142", 
   "@type": "Class", 
   "name": "Infiniti QX56 SUV 2011", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

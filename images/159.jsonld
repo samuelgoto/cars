@@ -180,5 +180,5 @@
   "@id": "160", 
   "@type": "Class", 
   "name": "McLaren MP4-12C Coupe 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

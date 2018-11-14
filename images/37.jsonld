@@ -168,5 +168,5 @@
   "@id": "38", 
   "@type": "Class", 
   "name": "BMW Z4 Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

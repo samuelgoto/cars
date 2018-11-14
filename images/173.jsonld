@@ -168,5 +168,5 @@
   "@id": "174", 
   "@type": "Class", 
   "name": "Ram C/V Cargo Van Minivan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

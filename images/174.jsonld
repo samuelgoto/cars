@@ -128,5 +128,5 @@
   "@id": "175", 
   "@type": "Class", 
   "name": "Rolls-Royce Phantom Drophead Coupe Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

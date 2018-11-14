@@ -168,5 +168,5 @@
   "@id": "127", 
   "@type": "Class", 
   "name": "Honda Odyssey Minivan 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -172,5 +172,5 @@
   "@id": "4", 
   "@type": "Class", 
   "name": "Acura TL Type-S 2008", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

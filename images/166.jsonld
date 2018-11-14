@@ -196,5 +196,5 @@
   "@id": "167", 
   "@type": "Class", 
   "name": "Mitsubishi Lancer Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

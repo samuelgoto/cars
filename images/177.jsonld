@@ -172,5 +172,5 @@
   "@id": "178", 
   "@type": "Class", 
   "name": "Scion xD Hatchback 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

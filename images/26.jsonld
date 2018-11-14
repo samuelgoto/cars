@@ -148,5 +148,5 @@
   "@id": "27", 
   "@type": "Class", 
   "name": "BMW 1 Series Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

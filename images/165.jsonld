@@ -168,5 +168,5 @@
   "@id": "166", 
   "@type": "Class", 
   "name": "Mercedes-Benz Sprinter Van 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

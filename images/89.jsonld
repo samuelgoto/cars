@@ -168,5 +168,5 @@
   "@id": "90", 
   "@type": "Class", 
   "name": "Dodge Dakota Crew Cab 2010", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

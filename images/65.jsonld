@@ -172,5 +172,5 @@
   "@id": "66", 
   "@type": "Class", 
   "name": "Chevrolet Cobalt SS 2010", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

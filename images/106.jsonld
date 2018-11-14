@@ -184,5 +184,5 @@
   "@id": "107", 
   "@type": "Class", 
   "name": "Ford Mustang Convertible 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -152,5 +152,5 @@
   "@id": "12", 
   "@type": "Class", 
   "name": "Audi RS 4 Convertible 2008", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

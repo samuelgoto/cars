@@ -164,5 +164,5 @@
   "@id": "54", 
   "@type": "Class", 
   "name": "Chevrolet Silverado 1500 Hybrid Crew Cab 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

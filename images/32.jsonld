@@ -172,5 +172,5 @@
   "@id": "33", 
   "@type": "Class", 
   "name": "BMW X6 SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

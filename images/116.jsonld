@@ -176,5 +176,5 @@
   "@id": "117", 
   "@type": "Class", 
   "name": "Ford Fiesta Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -160,5 +160,5 @@
   "@id": "7", 
   "@type": "Class", 
   "name": "Acura ZDX Hatchback 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

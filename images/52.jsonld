@@ -184,5 +184,5 @@
   "@id": "53", 
   "@type": "Class", 
   "name": "Cadillac Escalade EXT Crew Cab 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

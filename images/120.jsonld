@@ -184,5 +184,5 @@
   "@id": "121", 
   "@type": "Class", 
   "name": "GMC Acadia SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

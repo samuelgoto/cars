@@ -160,5 +160,5 @@
   "@id": "37", 
   "@type": "Class", 
   "name": "BMW X3 SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

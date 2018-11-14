@@ -176,5 +176,5 @@
   "@id": "61", 
   "@type": "Class", 
   "name": "Chevrolet Impala Sedan 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

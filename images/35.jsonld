@@ -168,5 +168,5 @@
   "@id": "36", 
   "@type": "Class", 
   "name": "BMW M6 Convertible 2010", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

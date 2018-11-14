@@ -160,5 +160,5 @@
   "@id": "67", 
   "@type": "Class", 
   "name": "Chevrolet Malibu Hybrid Sedan 2010", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

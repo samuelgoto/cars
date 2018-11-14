@@ -176,5 +176,5 @@
   "@id": "70", 
   "@type": "Class", 
   "name": "Chevrolet Silverado 1500 Classic Extended Cab 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

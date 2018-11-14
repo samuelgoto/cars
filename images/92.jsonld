@@ -160,5 +160,5 @@
   "@id": "93", 
   "@type": "Class", 
   "name": "Dodge Challenger SRT8 2011", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

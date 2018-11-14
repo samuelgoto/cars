@@ -180,5 +180,5 @@
   "@id": "85", 
   "@type": "Class", 
   "name": "Dodge Caravan Minivan 1997", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

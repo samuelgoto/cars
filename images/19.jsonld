@@ -188,5 +188,5 @@
   "@id": "20", 
   "@type": "Class", 
   "name": "Audi S6 Sedan 2011", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

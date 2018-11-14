@@ -156,5 +156,5 @@
   "@id": "11", 
   "@type": "Class", 
   "name": "Aston Martin Virage Coupe 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

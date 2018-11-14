@@ -172,5 +172,5 @@
   "@id": "193", 
   "@type": "Class", 
   "name": "Volvo C30 Hatchback 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

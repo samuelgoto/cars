@@ -180,5 +180,5 @@
   "@id": "132", 
   "@type": "Class", 
   "name": "Hyundai Tucson SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

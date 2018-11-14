@@ -164,5 +164,5 @@
   "@id": "196", 
   "@type": "Class", 
   "name": "smart fortwo Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

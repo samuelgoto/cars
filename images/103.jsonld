@@ -176,5 +176,5 @@
   "@id": "104", 
   "@type": "Class", 
   "name": "Ferrari 458 Italia Coupe 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

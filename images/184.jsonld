@@ -160,5 +160,5 @@
   "@id": "185", 
   "@type": "Class", 
   "name": "Tesla Model S Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

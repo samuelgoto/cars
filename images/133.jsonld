@@ -140,5 +140,5 @@
   "@id": "134", 
   "@type": "Class", 
   "name": "Hyundai Sonata Hybrid Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

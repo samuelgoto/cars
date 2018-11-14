@@ -184,5 +184,5 @@
   "@id": "165", 
   "@type": "Class", 
   "name": "Mercedes-Benz S-Class Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -152,5 +152,5 @@
   "@id": "157", 
   "@type": "Class", 
   "name": "MINI Cooper Roadster Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

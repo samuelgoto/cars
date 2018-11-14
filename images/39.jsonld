@@ -160,5 +160,5 @@
   "@id": "40", 
   "@type": "Class", 
   "name": "Bentley Arnage Sedan 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

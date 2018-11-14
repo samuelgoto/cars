@@ -176,5 +176,5 @@
   "@id": "48", 
   "@type": "Class", 
   "name": "Buick Rainier SUV 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

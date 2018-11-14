@@ -160,5 +160,5 @@
   "@id": "128", 
   "@type": "Class", 
   "name": "Honda Accord Coupe 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

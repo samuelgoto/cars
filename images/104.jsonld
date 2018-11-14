@@ -180,5 +180,5 @@
   "@id": "105", 
   "@type": "Class", 
   "name": "Fisker Karma Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

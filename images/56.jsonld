@@ -156,5 +156,5 @@
   "@id": "57", 
   "@type": "Class", 
   "name": "Chevrolet Corvette Ron Fellows Edition Z06 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

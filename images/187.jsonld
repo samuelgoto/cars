@@ -180,5 +180,5 @@
   "@id": "188", 
   "@type": "Class", 
   "name": "Toyota Corolla Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

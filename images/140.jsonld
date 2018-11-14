@@ -140,5 +140,5 @@
   "@id": "141", 
   "@type": "Class", 
   "name": "Infiniti G Coupe IPL 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -136,5 +136,5 @@
   "@id": "45", 
   "@type": "Class", 
   "name": "Bugatti Veyron 16.4 Convertible 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

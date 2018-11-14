@@ -172,5 +172,5 @@
   "@id": "111", 
   "@type": "Class", 
   "name": "Ford Ranger SuperCab 2011", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

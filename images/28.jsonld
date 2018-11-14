@@ -176,5 +176,5 @@
   "@id": "29", 
   "@type": "Class", 
   "name": "BMW 3 Series Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

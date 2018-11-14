@@ -172,5 +172,5 @@
   "@id": "135", 
   "@type": "Class", 
   "name": "Hyundai Elantra Sedan 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

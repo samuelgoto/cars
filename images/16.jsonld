@@ -168,5 +168,5 @@
   "@id": "17", 
   "@type": "Class", 
   "name": "Audi 100 Sedan 1994", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

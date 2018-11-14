@@ -180,5 +180,5 @@
   "@id": "58", 
   "@type": "Class", 
   "name": "Chevrolet Traverse SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

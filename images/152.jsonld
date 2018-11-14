@@ -184,5 +184,5 @@
   "@id": "153", 
   "@type": "Class", 
   "name": "Lamborghini Diablo Coupe 2001", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -156,5 +156,5 @@
   "@id": "78", 
   "@type": "Class", 
   "name": "Chrysler Town and Country Minivan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

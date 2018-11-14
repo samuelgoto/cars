@@ -176,5 +176,5 @@
   "@id": "146", 
   "@type": "Class", 
   "name": "Jeep Wrangler SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -164,5 +164,5 @@
   "@id": "103", 
   "@type": "Class", 
   "name": "Ferrari 458 Italia Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

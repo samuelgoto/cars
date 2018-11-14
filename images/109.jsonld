@@ -176,5 +176,5 @@
   "@id": "110", 
   "@type": "Class", 
   "name": "Ford Edge SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

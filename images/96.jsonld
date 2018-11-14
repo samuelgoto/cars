@@ -172,5 +172,5 @@
   "@id": "97", 
   "@type": "Class", 
   "name": "Dodge Charger SRT-8 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

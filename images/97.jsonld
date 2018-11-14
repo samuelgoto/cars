@@ -188,5 +188,5 @@
   "@id": "98", 
   "@type": "Class", 
   "name": "Eagle Talon Hatchback 1998", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

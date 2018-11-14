@@ -164,5 +164,5 @@
   "@id": "92", 
   "@type": "Class", 
   "name": "Dodge Magnum Wagon 2008", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

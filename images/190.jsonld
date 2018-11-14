@@ -188,5 +188,5 @@
   "@id": "191", 
   "@type": "Class", 
   "name": "Volkswagen Golf Hatchback 1991", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

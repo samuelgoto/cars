@@ -176,5 +176,5 @@
   "@id": "139", 
   "@type": "Class", 
   "name": "Hyundai Elantra Touring Hatchback 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

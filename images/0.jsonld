@@ -184,5 +184,5 @@
   "@id": "1", 
   "@type": "Class", 
   "name": "AM General Hummer SUV 2000", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

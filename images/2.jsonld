@@ -176,5 +176,5 @@
   "@id": "3", 
   "@type": "Class", 
   "name": "Acura TL Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

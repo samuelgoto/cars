@@ -180,5 +180,5 @@
   "@id": "31", 
   "@type": "Class", 
   "name": "BMW 6 Series Convertible 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

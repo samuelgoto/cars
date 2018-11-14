@@ -156,5 +156,5 @@
   "@id": "181", 
   "@type": "Class", 
   "name": "Suzuki Aerio Sedan 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

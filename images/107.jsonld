@@ -180,5 +180,5 @@
   "@id": "108", 
   "@type": "Class", 
   "name": "Ford Freestar Minivan 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

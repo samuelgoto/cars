@@ -188,5 +188,5 @@
   "@id": "171", 
   "@type": "Class", 
   "name": "Nissan 240SX Coupe 1998", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

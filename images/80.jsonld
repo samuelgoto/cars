@@ -184,5 +184,5 @@
   "@id": "81", 
   "@type": "Class", 
   "name": "Chrysler PT Cruiser Convertible 2008", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

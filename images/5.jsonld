@@ -184,5 +184,5 @@
   "@id": "6", 
   "@type": "Class", 
   "name": "Acura Integra Type R 2001", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

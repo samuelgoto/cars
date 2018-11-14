@@ -188,5 +188,5 @@
   "@id": "194", 
   "@type": "Class", 
   "name": "Volvo 240 Sedan 1993", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

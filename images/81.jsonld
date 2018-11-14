@@ -184,5 +184,5 @@
   "@id": "82", 
   "@type": "Class", 
   "name": "Daewoo Nubira Wagon 2002", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

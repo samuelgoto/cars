@@ -184,5 +184,5 @@
   "@id": "114", 
   "@type": "Class", 
   "name": "Ford F-150 Regular Cab 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

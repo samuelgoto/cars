@@ -180,5 +180,5 @@
   "@id": "151", 
   "@type": "Class", 
   "name": "Lamborghini Aventador Coupe 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

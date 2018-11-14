@@ -176,5 +176,5 @@
   "@id": "180", 
   "@type": "Class", 
   "name": "Spyker C8 Coupe 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

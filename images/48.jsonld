@@ -156,5 +156,5 @@
   "@id": "49", 
   "@type": "Class", 
   "name": "Buick Verano Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

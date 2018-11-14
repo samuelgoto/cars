@@ -36,7 +36,7 @@ for i in dataset.keys():
         data = {
           "@type": "Class",
           "@id": str(i),
-          "dataset": "../manifest.json",
+          "dataset": "../manifest.jsonld",
           "name": str(name),
           "images": map(lambda url: {"@type": "Image", "url": url}, dataset[i])
         }

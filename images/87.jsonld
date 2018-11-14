@@ -164,5 +164,5 @@
   "@id": "88", 
   "@type": "Class", 
   "name": "Dodge Sprinter Cargo Van 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

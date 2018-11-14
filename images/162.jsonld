@@ -152,5 +152,5 @@
   "@id": "163", 
   "@type": "Class", 
   "name": "Mercedes-Benz SL-Class Coupe 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

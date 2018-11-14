@@ -180,5 +180,5 @@
   "@id": "172", 
   "@type": "Class", 
   "name": "Plymouth Neon Coupe 1999", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

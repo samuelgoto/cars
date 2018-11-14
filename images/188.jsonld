@@ -168,5 +168,5 @@
   "@id": "189", 
   "@type": "Class", 
   "name": "Toyota 4Runner SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

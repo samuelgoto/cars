@@ -184,5 +184,5 @@
   "@id": "115", 
   "@type": "Class", 
   "name": "Ford Focus Sedan 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

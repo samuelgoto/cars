@@ -168,5 +168,5 @@
   "@id": "5", 
   "@type": "Class", 
   "name": "Acura TSX Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

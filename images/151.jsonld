@@ -148,5 +148,5 @@
   "@id": "152", 
   "@type": "Class", 
   "name": "Lamborghini Gallardo LP 570-4 Superleggera 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

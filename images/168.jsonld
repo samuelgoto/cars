@@ -160,5 +160,5 @@
   "@id": "169", 
   "@type": "Class", 
   "name": "Nissan NV Passenger Van 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

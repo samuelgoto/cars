@@ -180,5 +180,5 @@
   "@id": "89", 
   "@type": "Class", 
   "name": "Dodge Journey SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

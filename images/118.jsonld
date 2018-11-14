@@ -276,5 +276,5 @@
   "@id": "119", 
   "@type": "Class", 
   "name": "GMC Savana Van 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -192,5 +192,5 @@
   "@id": "56", 
   "@type": "Class", 
   "name": "Chevrolet Corvette ZR1 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

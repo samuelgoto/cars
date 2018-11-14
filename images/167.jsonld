@@ -172,5 +172,5 @@
   "@id": "168", 
   "@type": "Class", 
   "name": "Nissan Leaf Hatchback 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

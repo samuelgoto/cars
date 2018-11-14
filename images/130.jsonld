@@ -172,5 +172,5 @@
   "@id": "131", 
   "@type": "Class", 
   "name": "Hyundai Santa Fe SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

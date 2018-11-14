@@ -168,5 +168,5 @@
   "@id": "35", 
   "@type": "Class", 
   "name": "BMW M5 Sedan 2010", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

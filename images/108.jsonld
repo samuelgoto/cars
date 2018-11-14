@@ -184,5 +184,5 @@
   "@id": "109", 
   "@type": "Class", 
   "name": "Ford Expedition EL SUV 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

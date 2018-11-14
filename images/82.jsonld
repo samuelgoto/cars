@@ -168,5 +168,5 @@
   "@id": "83", 
   "@type": "Class", 
   "name": "Dodge Caliber Wagon 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

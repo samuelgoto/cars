@@ -176,5 +176,5 @@
   "@id": "155", 
   "@type": "Class", 
   "name": "Land Rover LR2 SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

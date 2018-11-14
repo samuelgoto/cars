@@ -152,5 +152,5 @@
   "@id": "60", 
   "@type": "Class", 
   "name": "Chevrolet HHR SS 2010", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

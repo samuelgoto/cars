@@ -132,5 +132,5 @@
   "@id": "2", 
   "@type": "Class", 
   "name": "Acura RL Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -180,5 +180,5 @@
   "@id": "145", 
   "@type": "Class", 
   "name": "Jeep Patriot SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

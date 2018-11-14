@@ -176,5 +176,5 @@
   "@id": "18", 
   "@type": "Class", 
   "name": "Audi 100 Wagon 1994", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -8,7 +8,7 @@ async function main() {
   "items": []
  };
 
- let index = JSON.parse(new String(fs.readFileSync("manifest.json")));
+ let index = JSON.parse(new String(fs.readFileSync("manifest.jsonld")));
  // console.log(index.classes);
  for (let file of index.classes) {
   // console.log(file);
@@ -19,6 +19,7 @@ async function main() {
    + encodeURIComponent(clazz.name)
    + "%20site:wikipedia.org&btnI=true";
   let base = "https://code.sgo.to/cars/";
+  // let base = "../";
   let thumbnail = new URL(clazz.images[0].url, base + file);
   result.items.push({
     "@type": "ARArtifact",

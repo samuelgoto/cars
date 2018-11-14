@@ -184,5 +184,5 @@
   "@id": "24", 
   "@type": "Class", 
   "name": "Audi S4 Sedan 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

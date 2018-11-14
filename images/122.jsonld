@@ -184,5 +184,5 @@
   "@id": "123", 
   "@type": "Class", 
   "name": "Geo Metro Convertible 1993", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

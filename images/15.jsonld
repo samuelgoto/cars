@@ -180,5 +180,5 @@
   "@id": "16", 
   "@type": "Class", 
   "name": "Audi V8 Sedan 1994", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

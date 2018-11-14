@@ -192,5 +192,5 @@
   "@id": "144", 
   "@type": "Class", 
   "name": "Jaguar XK XKR 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

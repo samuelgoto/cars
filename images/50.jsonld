@@ -176,5 +176,5 @@
   "@id": "51", 
   "@type": "Class", 
   "name": "Cadillac CTS-V Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -184,5 +184,5 @@
   "@id": "148", 
   "@type": "Class", 
   "name": "Jeep Grand Cherokee SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

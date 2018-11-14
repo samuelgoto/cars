@@ -172,5 +172,5 @@
   "@id": "50", 
   "@type": "Class", 
   "name": "Buick Enclave SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

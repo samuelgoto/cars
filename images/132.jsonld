@@ -172,5 +172,5 @@
   "@id": "133", 
   "@type": "Class", 
   "name": "Hyundai Veracruz SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

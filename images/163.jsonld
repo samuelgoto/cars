@@ -180,5 +180,5 @@
   "@id": "164", 
   "@type": "Class", 
   "name": "Mercedes-Benz E-Class Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

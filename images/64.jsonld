@@ -184,5 +184,5 @@
   "@id": "65", 
   "@type": "Class", 
   "name": "Chevrolet Avalanche Crew Cab 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

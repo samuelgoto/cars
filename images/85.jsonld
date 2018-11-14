@@ -176,5 +176,5 @@
   "@id": "86", 
   "@type": "Class", 
   "name": "Dodge Ram Pickup 3500 Crew Cab 2010", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

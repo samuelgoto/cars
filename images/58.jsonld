@@ -184,5 +184,5 @@
   "@id": "59", 
   "@type": "Class", 
   "name": "Chevrolet Camaro Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

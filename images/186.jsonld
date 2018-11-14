@@ -180,5 +180,5 @@
   "@id": "187", 
   "@type": "Class", 
   "name": "Toyota Camry Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

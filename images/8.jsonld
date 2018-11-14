@@ -168,5 +168,5 @@
   "@id": "9", 
   "@type": "Class", 
   "name": "Aston Martin V8 Vantage Coupe 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

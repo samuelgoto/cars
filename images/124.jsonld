@@ -180,5 +180,5 @@
   "@id": "125", 
   "@type": "Class", 
   "name": "HUMMER H2 SUT Crew Cab 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

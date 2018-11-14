@@ -176,5 +176,5 @@
   "@id": "149", 
   "@type": "Class", 
   "name": "Jeep Compass SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -164,5 +164,5 @@
   "@id": "68", 
   "@type": "Class", 
   "name": "Chevrolet TrailBlazer SS 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -160,5 +160,5 @@
   "@id": "176", 
   "@type": "Class", 
   "name": "Rolls-Royce Ghost Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

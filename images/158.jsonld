@@ -148,5 +148,5 @@
   "@id": "159", 
   "@type": "Class", 
   "name": "Mazda Tribute SUV 2011", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

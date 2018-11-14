@@ -180,5 +180,5 @@
   "@id": "76", 
   "@type": "Class", 
   "name": "Chrysler Aspen SUV 2009", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

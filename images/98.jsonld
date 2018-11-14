@@ -116,5 +116,5 @@
   "@id": "99", 
   "@type": "Class", 
   "name": "FIAT 500 Abarth 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

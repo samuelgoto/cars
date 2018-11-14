@@ -160,5 +160,5 @@
   "@id": "102", 
   "@type": "Class", 
   "name": "Ferrari California Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

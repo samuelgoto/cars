@@ -172,5 +172,5 @@
   "@id": "21", 
   "@type": "Class", 
   "name": "Audi S5 Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

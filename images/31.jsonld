@@ -172,5 +172,5 @@
   "@id": "32", 
   "@type": "Class", 
   "name": "BMW X5 SUV 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

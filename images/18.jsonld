@@ -168,5 +168,5 @@
   "@id": "19", 
   "@type": "Class", 
   "name": "Audi TT Hatchback 2011", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

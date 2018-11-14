@@ -180,5 +180,5 @@
   "@id": "137", 
   "@type": "Class", 
   "name": "Hyundai Genesis Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

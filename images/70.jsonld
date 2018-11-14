@@ -144,5 +144,5 @@
   "@id": "71", 
   "@type": "Class", 
   "name": "Chevrolet Express Van 2007", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

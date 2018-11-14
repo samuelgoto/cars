@@ -176,5 +176,5 @@
   "@id": "14", 
   "@type": "Class", 
   "name": "Audi TTS Coupe 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -176,5 +176,5 @@
   "@id": "190", 
   "@type": "Class", 
   "name": "Volkswagen Golf Hatchback 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

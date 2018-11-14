@@ -172,5 +172,5 @@
   "@id": "30", 
   "@type": "Class", 
   "name": "BMW 3 Series Wagon 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -172,5 +172,5 @@
   "@id": "183", 
   "@type": "Class", 
   "name": "Suzuki SX4 Hatchback 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -152,5 +152,5 @@
   "@id": "39", 
   "@type": "Class", 
   "name": "Bentley Continental Supersports Conv. Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

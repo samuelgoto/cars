@@ -188,5 +188,5 @@
   "@id": "162", 
   "@type": "Class", 
   "name": "Mercedes-Benz C-Class Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

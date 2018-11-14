@@ -160,5 +160,5 @@
   "@id": "186", 
   "@type": "Class", 
   "name": "Toyota Sequoia SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

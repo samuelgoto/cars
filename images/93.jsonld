@@ -180,5 +180,5 @@
   "@id": "94", 
   "@type": "Class", 
   "name": "Dodge Durango SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -196,5 +196,5 @@
   "@id": "161", 
   "@type": "Class", 
   "name": "Mercedes-Benz 300-Class Convertible 1993", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

@@ -120,5 +120,5 @@
   "@id": "158", 
   "@type": "Class", 
   "name": "Maybach Landaulet Convertible 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

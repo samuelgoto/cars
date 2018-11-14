@@ -184,5 +184,5 @@
   "@id": "147", 
   "@type": "Class", 
   "name": "Jeep Liberty SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

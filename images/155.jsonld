@@ -160,5 +160,5 @@
   "@id": "156", 
   "@type": "Class", 
   "name": "Lincoln Town Car Sedan 2011", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

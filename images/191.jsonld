@@ -176,5 +176,5 @@
   "@id": "192", 
   "@type": "Class", 
   "name": "Volkswagen Beetle Hatchback 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

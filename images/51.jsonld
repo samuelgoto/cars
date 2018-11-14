@@ -168,5 +168,5 @@
   "@id": "52", 
   "@type": "Class", 
   "name": "Cadillac SRX SUV 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

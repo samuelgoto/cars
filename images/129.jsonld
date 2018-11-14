@@ -168,5 +168,5 @@
   "@id": "130", 
   "@type": "Class", 
   "name": "Hyundai Veloster Hatchback 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }

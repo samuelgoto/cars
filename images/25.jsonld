@@ -140,5 +140,5 @@
   "@id": "26", 
   "@type": "Class", 
   "name": "BMW ActiveHybrid 5 Sedan 2012", 
-  "dataset": "../manifest.json"
+  "dataset": "../manifest.jsonld"
 }
