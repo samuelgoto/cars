@@ -1,0 +1,2751 @@
+{
+  "@context": "https://schema.org",
+  "@type": "DataFeed",
+  "name": "A car overlay",
+  "items": [
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/0.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=AM%20General%20Hummer%20SUV%202000%20site:wikipedia.org&btnI=true",
+        "title": "AM General Hummer SUV 2000",
+        "thumbnail": "https://code.sgo.to/cars/images/00163.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/1.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Acura%20RL%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Acura RL Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00670.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/2.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Acura%20TL%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Acura TL Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00002.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/3.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Acura%20TL%20Type-S%202008%20site:wikipedia.org&btnI=true",
+        "title": "Acura TL Type-S 2008",
+        "thumbnail": "https://code.sgo.to/cars/images/00392.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/4.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Acura%20TSX%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Acura TSX Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00069.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/5.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Acura%20Integra%20Type%20R%202001%20site:wikipedia.org&btnI=true",
+        "title": "Acura Integra Type R 2001",
+        "thumbnail": "https://code.sgo.to/cars/images/00198.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/6.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Acura%20ZDX%20Hatchback%202012%20site:wikipedia.org&btnI=true",
+        "title": "Acura ZDX Hatchback 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00236.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/7.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Aston%20Martin%20V8%20Vantage%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "Aston Martin V8 Vantage Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00065.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/8.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Aston%20Martin%20V8%20Vantage%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Aston Martin V8 Vantage Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00340.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/9.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Aston%20Martin%20Virage%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "Aston Martin Virage Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00221.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/10.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Aston%20Martin%20Virage%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Aston Martin Virage Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00206.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/11.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20RS%204%20Convertible%202008%20site:wikipedia.org&btnI=true",
+        "title": "Audi RS 4 Convertible 2008",
+        "thumbnail": "https://code.sgo.to/cars/images/00201.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/12.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20A5%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Audi A5 Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00041.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/13.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20TTS%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Audi TTS Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00001.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/14.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20R8%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Audi R8 Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00053.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/15.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20V8%20Sedan%201994%20site:wikipedia.org&btnI=true",
+        "title": "Audi V8 Sedan 1994",
+        "thumbnail": "https://code.sgo.to/cars/images/00200.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/16.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20100%20Sedan%201994%20site:wikipedia.org&btnI=true",
+        "title": "Audi 100 Sedan 1994",
+        "thumbnail": "https://code.sgo.to/cars/images/00066.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/17.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20100%20Wagon%201994%20site:wikipedia.org&btnI=true",
+        "title": "Audi 100 Wagon 1994",
+        "thumbnail": "https://code.sgo.to/cars/images/00083.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/18.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20TT%20Hatchback%202011%20site:wikipedia.org&btnI=true",
+        "title": "Audi TT Hatchback 2011",
+        "thumbnail": "https://code.sgo.to/cars/images/00171.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/19.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20S6%20Sedan%202011%20site:wikipedia.org&btnI=true",
+        "title": "Audi S6 Sedan 2011",
+        "thumbnail": "https://code.sgo.to/cars/images/00089.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/20.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20S5%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "Audi S5 Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00256.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/21.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20S5%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Audi S5 Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00334.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/22.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20S4%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Audi S4 Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00205.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/23.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20S4%20Sedan%202007%20site:wikipedia.org&btnI=true",
+        "title": "Audi S4 Sedan 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00159.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/24.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Audi%20TT%20RS%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Audi TT RS Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00046.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/25.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%20ActiveHybrid%205%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "BMW ActiveHybrid 5 Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00238.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/26.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%201%20Series%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "BMW 1 Series Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00678.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/27.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%201%20Series%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "BMW 1 Series Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00122.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/28.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%203%20Series%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "BMW 3 Series Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00070.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/29.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%203%20Series%20Wagon%202012%20site:wikipedia.org&btnI=true",
+        "title": "BMW 3 Series Wagon 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00153.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/30.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%206%20Series%20Convertible%202007%20site:wikipedia.org&btnI=true",
+        "title": "BMW 6 Series Convertible 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00257.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/31.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%20X5%20SUV%202007%20site:wikipedia.org&btnI=true",
+        "title": "BMW X5 SUV 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00366.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/32.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%20X6%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "BMW X6 SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00579.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/33.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%20M3%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "BMW M3 Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00546.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/34.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%20M5%20Sedan%202010%20site:wikipedia.org&btnI=true",
+        "title": "BMW M5 Sedan 2010",
+        "thumbnail": "https://code.sgo.to/cars/images/00792.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/35.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%20M6%20Convertible%202010%20site:wikipedia.org&btnI=true",
+        "title": "BMW M6 Convertible 2010",
+        "thumbnail": "https://code.sgo.to/cars/images/00022.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/36.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%20X3%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "BMW X3 SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00099.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/37.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=BMW%20Z4%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "BMW Z4 Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00037.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/38.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Bentley%20Continental%20Supersports%20Conv.%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "Bentley Continental Supersports Conv. Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00357.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/39.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Bentley%20Arnage%20Sedan%202009%20site:wikipedia.org&btnI=true",
+        "title": "Bentley Arnage Sedan 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00141.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/40.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Bentley%20Mulsanne%20Sedan%202011%20site:wikipedia.org&btnI=true",
+        "title": "Bentley Mulsanne Sedan 2011",
+        "thumbnail": "https://code.sgo.to/cars/images/00167.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/41.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Bentley%20Continental%20GT%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Bentley Continental GT Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00050.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/42.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Bentley%20Continental%20GT%20Coupe%202007%20site:wikipedia.org&btnI=true",
+        "title": "Bentley Continental GT Coupe 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00078.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/43.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Bentley%20Continental%20Flying%20Spur%20Sedan%202007%20site:wikipedia.org&btnI=true",
+        "title": "Bentley Continental Flying Spur Sedan 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00057.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/44.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Bugatti%20Veyron%2016.4%20Convertible%202009%20site:wikipedia.org&btnI=true",
+        "title": "Bugatti Veyron 16.4 Convertible 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00190.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/45.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Bugatti%20Veyron%2016.4%20Coupe%202009%20site:wikipedia.org&btnI=true",
+        "title": "Bugatti Veyron 16.4 Coupe 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00267.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/46.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Buick%20Regal%20GS%202012%20site:wikipedia.org&btnI=true",
+        "title": "Buick Regal GS 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00152.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/47.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Buick%20Rainier%20SUV%202007%20site:wikipedia.org&btnI=true",
+        "title": "Buick Rainier SUV 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00193.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/48.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Buick%20Verano%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Buick Verano Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00011.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/49.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Buick%20Enclave%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Buick Enclave SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00177.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/50.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Cadillac%20CTS-V%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Cadillac CTS-V Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00098.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/51.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Cadillac%20SRX%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Cadillac SRX SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00622.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/52.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Cadillac%20Escalade%20EXT%20Crew%20Cab%202007%20site:wikipedia.org&btnI=true",
+        "title": "Cadillac Escalade EXT Crew Cab 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00056.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/53.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Silverado%201500%20Hybrid%20Crew%20Cab%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Silverado 1500 Hybrid Crew Cab 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00174.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/54.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Corvette%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Corvette Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00265.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/55.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Corvette%20ZR1%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Corvette ZR1 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00138.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/56.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Corvette%20Ron%20Fellows%20Edition%20Z06%202007%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Corvette Ron Fellows Edition Z06 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00020.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/57.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Traverse%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Traverse SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00010.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/58.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Camaro%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Camaro Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00076.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/59.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20HHR%20SS%202010%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet HHR SS 2010",
+        "thumbnail": "https://code.sgo.to/cars/images/00142.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/60.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Impala%20Sedan%202007%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Impala Sedan 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00103.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/61.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Tahoe%20Hybrid%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Tahoe Hybrid SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00328.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/62.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Sonic%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Sonic Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00209.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/63.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Express%20Cargo%20Van%202007%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Express Cargo Van 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00435.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/64.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Avalanche%20Crew%20Cab%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Avalanche Crew Cab 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00058.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/65.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Cobalt%20SS%202010%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Cobalt SS 2010",
+        "thumbnail": "https://code.sgo.to/cars/images/00033.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/66.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Malibu%20Hybrid%20Sedan%202010%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Malibu Hybrid Sedan 2010",
+        "thumbnail": "https://code.sgo.to/cars/images/00341.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/67.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20TrailBlazer%20SS%202009%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet TrailBlazer SS 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00181.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/68.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Silverado%202500HD%20Regular%20Cab%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Silverado 2500HD Regular Cab 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00264.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/69.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Silverado%201500%20Classic%20Extended%20Cab%202007%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Silverado 1500 Classic Extended Cab 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00360.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/70.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Express%20Van%202007%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Express Van 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00100.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/71.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Monte%20Carlo%20Coupe%202007%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Monte Carlo Coupe 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00212.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/72.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Malibu%20Sedan%202007%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Malibu Sedan 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00018.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/73.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Silverado%201500%20Extended%20Cab%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Silverado 1500 Extended Cab 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00104.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/74.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chevrolet%20Silverado%201500%20Regular%20Cab%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chevrolet Silverado 1500 Regular Cab 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00322.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/75.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chrysler%20Aspen%20SUV%202009%20site:wikipedia.org&btnI=true",
+        "title": "Chrysler Aspen SUV 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00147.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/76.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chrysler%20Sebring%20Convertible%202010%20site:wikipedia.org&btnI=true",
+        "title": "Chrysler Sebring Convertible 2010",
+        "thumbnail": "https://code.sgo.to/cars/images/00195.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/77.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chrysler%20Town%20and%20Country%20Minivan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Chrysler Town and Country Minivan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00821.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/78.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chrysler%20300%20SRT-8%202010%20site:wikipedia.org&btnI=true",
+        "title": "Chrysler 300 SRT-8 2010",
+        "thumbnail": "https://code.sgo.to/cars/images/00021.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/79.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chrysler%20Crossfire%20Convertible%202008%20site:wikipedia.org&btnI=true",
+        "title": "Chrysler Crossfire Convertible 2008",
+        "thumbnail": "https://code.sgo.to/cars/images/00413.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/80.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Chrysler%20PT%20Cruiser%20Convertible%202008%20site:wikipedia.org&btnI=true",
+        "title": "Chrysler PT Cruiser Convertible 2008",
+        "thumbnail": "https://code.sgo.to/cars/images/00496.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/81.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Daewoo%20Nubira%20Wagon%202002%20site:wikipedia.org&btnI=true",
+        "title": "Daewoo Nubira Wagon 2002",
+        "thumbnail": "https://code.sgo.to/cars/images/00558.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/82.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Caliber%20Wagon%202012%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Caliber Wagon 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00115.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/83.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Caliber%20Wagon%202007%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Caliber Wagon 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00232.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/84.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Caravan%20Minivan%201997%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Caravan Minivan 1997",
+        "thumbnail": "https://code.sgo.to/cars/images/00014.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/85.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Ram%20Pickup%203500%20Crew%20Cab%202010%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Ram Pickup 3500 Crew Cab 2010",
+        "thumbnail": "https://code.sgo.to/cars/images/00028.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/86.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Ram%20Pickup%203500%20Quad%20Cab%202009%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Ram Pickup 3500 Quad Cab 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00297.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/87.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Sprinter%20Cargo%20Van%202009%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Sprinter Cargo Van 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00108.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/88.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Journey%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Journey SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00007.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/89.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Dakota%20Crew%20Cab%202010%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Dakota Crew Cab 2010",
+        "thumbnail": "https://code.sgo.to/cars/images/00059.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/90.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Dakota%20Club%20Cab%202007%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Dakota Club Cab 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00003.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/91.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Magnum%20Wagon%202008%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Magnum Wagon 2008",
+        "thumbnail": "https://code.sgo.to/cars/images/00470.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/92.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Challenger%20SRT8%202011%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Challenger SRT8 2011",
+        "thumbnail": "https://code.sgo.to/cars/images/00188.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/93.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Durango%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Durango SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00072.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/94.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Durango%20SUV%202007%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Durango SUV 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00705.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/95.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Charger%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Charger Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00008.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/96.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Dodge%20Charger%20SRT-8%202009%20site:wikipedia.org&btnI=true",
+        "title": "Dodge Charger SRT-8 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00038.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/97.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Eagle%20Talon%20Hatchback%201998%20site:wikipedia.org&btnI=true",
+        "title": "Eagle Talon Hatchback 1998",
+        "thumbnail": "https://code.sgo.to/cars/images/00550.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/98.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=FIAT%20500%20Abarth%202012%20site:wikipedia.org&btnI=true",
+        "title": "FIAT 500 Abarth 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00223.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/99.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=FIAT%20500%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "FIAT 500 Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00272.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/100.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ferrari%20FF%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Ferrari FF Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00063.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/101.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ferrari%20California%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "Ferrari California Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00242.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/102.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ferrari%20458%20Italia%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "Ferrari 458 Italia Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00262.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/103.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ferrari%20458%20Italia%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Ferrari 458 Italia Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00036.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/104.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Fisker%20Karma%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Fisker Karma Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00039.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/105.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20F-450%20Super%20Duty%20Crew%20Cab%202012%20site:wikipedia.org&btnI=true",
+        "title": "Ford F-450 Super Duty Crew Cab 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00005.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/106.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20Mustang%20Convertible%202007%20site:wikipedia.org&btnI=true",
+        "title": "Ford Mustang Convertible 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00220.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/107.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20Freestar%20Minivan%202007%20site:wikipedia.org&btnI=true",
+        "title": "Ford Freestar Minivan 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00166.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/108.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20Expedition%20EL%20SUV%202009%20site:wikipedia.org&btnI=true",
+        "title": "Ford Expedition EL SUV 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00121.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/109.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20Edge%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Ford Edge SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00077.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/110.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20Ranger%20SuperCab%202011%20site:wikipedia.org&btnI=true",
+        "title": "Ford Ranger SuperCab 2011",
+        "thumbnail": "https://code.sgo.to/cars/images/00067.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/111.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20GT%20Coupe%202006%20site:wikipedia.org&btnI=true",
+        "title": "Ford GT Coupe 2006",
+        "thumbnail": "https://code.sgo.to/cars/images/00094.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/112.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20F-150%20Regular%20Cab%202012%20site:wikipedia.org&btnI=true",
+        "title": "Ford F-150 Regular Cab 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00345.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/113.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20F-150%20Regular%20Cab%202007%20site:wikipedia.org&btnI=true",
+        "title": "Ford F-150 Regular Cab 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00061.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/114.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20Focus%20Sedan%202007%20site:wikipedia.org&btnI=true",
+        "title": "Ford Focus Sedan 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00356.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/115.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20E-Series%20Wagon%20Van%202012%20site:wikipedia.org&btnI=true",
+        "title": "Ford E-Series Wagon Van 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00084.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/116.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ford%20Fiesta%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Ford Fiesta Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00353.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/117.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=GMC%20Terrain%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "GMC Terrain SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00457.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/118.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=GMC%20Savana%20Van%202012%20site:wikipedia.org&btnI=true",
+        "title": "GMC Savana Van 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00043.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/119.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=GMC%20Yukon%20Hybrid%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "GMC Yukon Hybrid SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00023.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/120.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=GMC%20Acadia%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "GMC Acadia SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00109.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/121.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=GMC%20Canyon%20Extended%20Cab%202012%20site:wikipedia.org&btnI=true",
+        "title": "GMC Canyon Extended Cab 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00068.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/122.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Geo%20Metro%20Convertible%201993%20site:wikipedia.org&btnI=true",
+        "title": "Geo Metro Convertible 1993",
+        "thumbnail": "https://code.sgo.to/cars/images/00006.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/123.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=HUMMER%20H3T%20Crew%20Cab%202010%20site:wikipedia.org&btnI=true",
+        "title": "HUMMER H3T Crew Cab 2010",
+        "thumbnail": "https://code.sgo.to/cars/images/00060.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/124.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=HUMMER%20H2%20SUT%20Crew%20Cab%202009%20site:wikipedia.org&btnI=true",
+        "title": "HUMMER H2 SUT Crew Cab 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00186.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/125.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Honda%20Odyssey%20Minivan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Honda Odyssey Minivan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00071.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/126.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Honda%20Odyssey%20Minivan%202007%20site:wikipedia.org&btnI=true",
+        "title": "Honda Odyssey Minivan 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00309.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/127.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Honda%20Accord%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Honda Accord Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00204.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/128.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Honda%20Accord%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Honda Accord Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00474.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/129.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Veloster%20Hatchback%202012%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Veloster Hatchback 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00275.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/130.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Santa%20Fe%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Santa Fe SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00107.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/131.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Tucson%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Tucson SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00234.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/132.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Veracruz%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Veracruz SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00034.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/133.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Sonata%20Hybrid%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Sonata Hybrid Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00004.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/134.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Elantra%20Sedan%202007%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Elantra Sedan 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00013.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/135.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Accent%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Accent Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00129.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/136.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Genesis%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Genesis Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00112.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/137.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Sonata%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Sonata Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00092.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/138.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Elantra%20Touring%20Hatchback%202012%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Elantra Touring Hatchback 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00032.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/139.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Hyundai%20Azera%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Hyundai Azera Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00145.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/140.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Infiniti%20G%20Coupe%20IPL%202012%20site:wikipedia.org&btnI=true",
+        "title": "Infiniti G Coupe IPL 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00228.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/141.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Infiniti%20QX56%20SUV%202011%20site:wikipedia.org&btnI=true",
+        "title": "Infiniti QX56 SUV 2011",
+        "thumbnail": "https://code.sgo.to/cars/images/00040.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/142.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Isuzu%20Ascender%20SUV%202008%20site:wikipedia.org&btnI=true",
+        "title": "Isuzu Ascender SUV 2008",
+        "thumbnail": "https://code.sgo.to/cars/images/00130.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/143.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Jaguar%20XK%20XKR%202012%20site:wikipedia.org&btnI=true",
+        "title": "Jaguar XK XKR 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00123.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/144.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Jeep%20Patriot%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Jeep Patriot SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00086.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/145.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Jeep%20Wrangler%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Jeep Wrangler SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00382.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/146.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Jeep%20Liberty%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Jeep Liberty SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00119.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/147.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Jeep%20Grand%20Cherokee%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Jeep Grand Cherokee SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00052.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/148.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Jeep%20Compass%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Jeep Compass SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00155.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/149.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Lamborghini%20Reventon%20Coupe%202008%20site:wikipedia.org&btnI=true",
+        "title": "Lamborghini Reventon Coupe 2008",
+        "thumbnail": "https://code.sgo.to/cars/images/00608.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/150.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Lamborghini%20Aventador%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "Lamborghini Aventador Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00281.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/151.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Lamborghini%20Gallardo%20LP%20570-4%20Superleggera%202012%20site:wikipedia.org&btnI=true",
+        "title": "Lamborghini Gallardo LP 570-4 Superleggera 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00421.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/152.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Lamborghini%20Diablo%20Coupe%202001%20site:wikipedia.org&btnI=true",
+        "title": "Lamborghini Diablo Coupe 2001",
+        "thumbnail": "https://code.sgo.to/cars/images/00249.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/153.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Land%20Rover%20Range%20Rover%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Land Rover Range Rover SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00031.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/154.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Land%20Rover%20LR2%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Land Rover LR2 SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00143.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/155.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Lincoln%20Town%20Car%20Sedan%202011%20site:wikipedia.org&btnI=true",
+        "title": "Lincoln Town Car Sedan 2011",
+        "thumbnail": "https://code.sgo.to/cars/images/00278.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/156.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=MINI%20Cooper%20Roadster%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "MINI Cooper Roadster Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00633.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/157.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Maybach%20Landaulet%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "Maybach Landaulet Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00317.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/158.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Mazda%20Tribute%20SUV%202011%20site:wikipedia.org&btnI=true",
+        "title": "Mazda Tribute SUV 2011",
+        "thumbnail": "https://code.sgo.to/cars/images/00499.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/159.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=McLaren%20MP4-12C%20Coupe%202012%20site:wikipedia.org&btnI=true",
+        "title": "McLaren MP4-12C Coupe 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00187.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/160.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Mercedes-Benz%20300-Class%20Convertible%201993%20site:wikipedia.org&btnI=true",
+        "title": "Mercedes-Benz 300-Class Convertible 1993",
+        "thumbnail": "https://code.sgo.to/cars/images/00120.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/161.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Mercedes-Benz%20C-Class%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Mercedes-Benz C-Class Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00106.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/162.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Mercedes-Benz%20SL-Class%20Coupe%202009%20site:wikipedia.org&btnI=true",
+        "title": "Mercedes-Benz SL-Class Coupe 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00172.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/163.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Mercedes-Benz%20E-Class%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Mercedes-Benz E-Class Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00433.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/164.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Mercedes-Benz%20S-Class%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Mercedes-Benz S-Class Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00091.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/165.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Mercedes-Benz%20Sprinter%20Van%202012%20site:wikipedia.org&btnI=true",
+        "title": "Mercedes-Benz Sprinter Van 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00330.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/166.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Mitsubishi%20Lancer%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Mitsubishi Lancer Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00009.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/167.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Nissan%20Leaf%20Hatchback%202012%20site:wikipedia.org&btnI=true",
+        "title": "Nissan Leaf Hatchback 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00243.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/168.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Nissan%20NV%20Passenger%20Van%202012%20site:wikipedia.org&btnI=true",
+        "title": "Nissan NV Passenger Van 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00300.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/169.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Nissan%20Juke%20Hatchback%202012%20site:wikipedia.org&btnI=true",
+        "title": "Nissan Juke Hatchback 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00024.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/170.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Nissan%20240SX%20Coupe%201998%20site:wikipedia.org&btnI=true",
+        "title": "Nissan 240SX Coupe 1998",
+        "thumbnail": "https://code.sgo.to/cars/images/00131.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/171.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Plymouth%20Neon%20Coupe%201999%20site:wikipedia.org&btnI=true",
+        "title": "Plymouth Neon Coupe 1999",
+        "thumbnail": "https://code.sgo.to/cars/images/00016.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/172.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Porsche%20Panamera%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Porsche Panamera Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00049.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/173.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Ram%20C%2FV%20Cargo%20Van%20Minivan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Ram C/V Cargo Van Minivan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00156.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/174.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Rolls-Royce%20Phantom%20Drophead%20Coupe%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "Rolls-Royce Phantom Drophead Coupe Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00093.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/175.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Rolls-Royce%20Ghost%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Rolls-Royce Ghost Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00162.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/176.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Rolls-Royce%20Phantom%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Rolls-Royce Phantom Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00048.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/177.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Scion%20xD%20Hatchback%202012%20site:wikipedia.org&btnI=true",
+        "title": "Scion xD Hatchback 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00137.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/178.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Spyker%20C8%20Convertible%202009%20site:wikipedia.org&btnI=true",
+        "title": "Spyker C8 Convertible 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00158.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/179.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Spyker%20C8%20Coupe%202009%20site:wikipedia.org&btnI=true",
+        "title": "Spyker C8 Coupe 2009",
+        "thumbnail": "https://code.sgo.to/cars/images/00029.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/180.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Suzuki%20Aerio%20Sedan%202007%20site:wikipedia.org&btnI=true",
+        "title": "Suzuki Aerio Sedan 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00331.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/181.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Suzuki%20Kizashi%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Suzuki Kizashi Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00323.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/182.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Suzuki%20SX4%20Hatchback%202012%20site:wikipedia.org&btnI=true",
+        "title": "Suzuki SX4 Hatchback 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00189.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/183.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Suzuki%20SX4%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Suzuki SX4 Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00027.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/184.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Tesla%20Model%20S%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Tesla Model S Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00269.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/185.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Toyota%20Sequoia%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Toyota Sequoia SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00012.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/186.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Toyota%20Camry%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Toyota Camry Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00064.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/187.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Toyota%20Corolla%20Sedan%202012%20site:wikipedia.org&btnI=true",
+        "title": "Toyota Corolla Sedan 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00075.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/188.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Toyota%204Runner%20SUV%202012%20site:wikipedia.org&btnI=true",
+        "title": "Toyota 4Runner SUV 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00192.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/189.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Volkswagen%20Golf%20Hatchback%202012%20site:wikipedia.org&btnI=true",
+        "title": "Volkswagen Golf Hatchback 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00062.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/190.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Volkswagen%20Golf%20Hatchback%201991%20site:wikipedia.org&btnI=true",
+        "title": "Volkswagen Golf Hatchback 1991",
+        "thumbnail": "https://code.sgo.to/cars/images/00042.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/191.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Volkswagen%20Beetle%20Hatchback%202012%20site:wikipedia.org&btnI=true",
+        "title": "Volkswagen Beetle Hatchback 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00019.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/192.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Volvo%20C30%20Hatchback%202012%20site:wikipedia.org&btnI=true",
+        "title": "Volvo C30 Hatchback 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00015.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/193.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Volvo%20240%20Sedan%201993%20site:wikipedia.org&btnI=true",
+        "title": "Volvo 240 Sedan 1993",
+        "thumbnail": "https://code.sgo.to/cars/images/00025.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/194.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=Volvo%20XC90%20SUV%202007%20site:wikipedia.org&btnI=true",
+        "title": "Volvo XC90 SUV 2007",
+        "thumbnail": "https://code.sgo.to/cars/images/00213.jpg"
+      }
+    },
+    {
+      "@type": "ARArtifact",
+      "arTarget": {
+        "@context": "https://code.sgo.to/datasets",
+        "@type": "Class",
+        "url": "https://code.sgo.to/cars/images/195.jsonld"
+      },
+      "arContent": {
+        "@type": "WebPage",
+        "url": "https://www.google.com/search?q=smart%20fortwo%20Convertible%202012%20site:wikipedia.org&btnI=true",
+        "title": "smart fortwo Convertible 2012",
+        "thumbnail": "https://code.sgo.to/cars/images/00222.jpg"
+      }
+    }
+  ]
+}

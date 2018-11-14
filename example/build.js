@@ -19,13 +19,16 @@ async function main() {
    + encodeURIComponent(clazz.name)
    + "%20site:wikipedia.org&btnI=true";
   let base = "https://code.sgo.to/cars/";
+  // let base = "";
   // let base = "../";
   let thumbnail = new URL(clazz.images[0].url, base + file);
+  // let thumbnail = "../images/";
   result.items.push({
     "@type": "ARArtifact",
     "arTarget": {
-      "@type": "VisualDescription",
-      "class": new URL(file, base)
+      "@context": "https://code.sgo.to/datasets",
+      "@type": "Class",
+      "url": new URL(file, base)
     },
     "arContent": {
       "@type": "WebPage",
@@ -34,15 +37,15 @@ async function main() {
       "thumbnail": thumbnail
     }
   });
-  break;
+  // break;
  }
  // console.log(index);
- console.log(JSON.stringify(result, undefined, 2));
+ // console.log(JSON.stringify(result, undefined, 2));
  // return result;
+ fs.writeFileSync("example/index.jsonld", 
+                  JSON.stringify(result, undefined, 2));
+
 }
 
 main();
 
-
-//fs.writeFileSync("index.jsonld", 
-//                 JSON.stringify(dataset, undefined, 2));
