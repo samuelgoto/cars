@@ -1,0 +1,164 @@
+{
+  "images": [
+    {
+      "url": "00269.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00430.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00497.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00584.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00656.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00683.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00891.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00921.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01104.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01216.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01265.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01490.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02261.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02349.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02495.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02525.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02583.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02642.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03864.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03873.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04335.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04583.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04905.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05327.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05420.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05459.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05666.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05795.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05982.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06058.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06149.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06168.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06367.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06409.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06689.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06867.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07102.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07435.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07728.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "185", 
+  "@type": "Class", 
+  "name": "Tesla Model S Sedan 2012", 
+  "dataset": "../manifest.json"
+}

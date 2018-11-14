@@ -1,0 +1,200 @@
+{
+  "images": [
+    {
+      "url": "00009.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00246.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00251.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00506.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00508.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00747.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01049.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01078.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01106.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01109.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01470.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01548.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01674.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01720.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01875.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02373.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02405.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02826.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03042.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03124.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03230.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03326.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03338.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03548.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03931.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04071.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04135.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04455.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04570.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04766.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04773.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04909.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05283.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05582.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05588.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05626.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05836.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06482.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06791.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06950.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06980.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07013.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07180.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07251.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07494.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07520.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07748.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07936.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "167", 
+  "@type": "Class", 
+  "name": "Mitsubishi Lancer Sedan 2012", 
+  "dataset": "../manifest.json"
+}

@@ -1,0 +1,192 @@
+{
+  "images": [
+    {
+      "url": "00094.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00336.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00416.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00994.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01098.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01351.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01549.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01779.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01887.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01923.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02282.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02380.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02573.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02591.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02704.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03053.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03151.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03192.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03219.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03524.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03584.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03622.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03816.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03867.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04343.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04496.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04521.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04617.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05185.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05313.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05415.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05846.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06034.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06074.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06391.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06544.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06613.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06615.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06799.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07239.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07460.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07613.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07820.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07837.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08128.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08143.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "112", 
+  "@type": "Class", 
+  "name": "Ford GT Coupe 2006", 
+  "dataset": "../manifest.json"
+}

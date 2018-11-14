@@ -1,0 +1,104 @@
+{
+  "images": [
+    {
+      "url": "00129.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00229.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00648.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00680.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01400.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01508.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01570.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01623.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01915.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01931.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02374.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03086.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03569.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03693.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04096.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04633.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05296.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05733.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05955.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06818.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06843.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06992.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07181.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07915.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "136", 
+  "@type": "Class", 
+  "name": "Hyundai Accent Sedan 2012", 
+  "dataset": "../manifest.json"
+}

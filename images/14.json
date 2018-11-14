@@ -1,0 +1,180 @@
+{
+  "images": [
+    {
+      "url": "00053.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00289.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00311.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00450.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00481.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00686.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00936.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01157.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01450.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01457.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01486.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01496.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01589.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01783.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01805.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01877.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02325.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02625.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02632.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03139.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03203.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03215.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03283.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03755.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03909.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03969.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04155.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04241.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04456.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04839.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04956.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05086.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05138.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05280.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06067.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06208.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06869.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06984.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07090.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07103.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07408.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07646.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07727.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "15", 
+  "@type": "Class", 
+  "name": "Audi R8 Coupe 2012", 
+  "dataset": "../manifest.json"
+}

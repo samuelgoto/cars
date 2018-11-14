@@ -5,8 +5,6 @@ import urllib
 mat = scipy.io.loadmat("devkit/cars_meta.mat")
 classes = mat["class_names"][0]
 size = classes.size
-#for i in range(0, size - 1):
-#	print(classes[i][0])
 
 images = scipy.io.loadmat("devkit/cars_train_annos.mat")
 annotations = images["annotations"][0]
@@ -32,11 +30,11 @@ for i in dataset.keys():
     term = urllib.quote(name.encode("utf-8"))
     # asset = "https://www.google.com/search?q=" + term + "%20site:wikipedia.org&btnI=true"
     # thumbnail = dataset[i][0]
-    with open("images/" + str(i - 1) + ".json", "w") as f:
+    with open("images/" + str(i - 1) + ".jsonld", "w") as f:
         data = {
+          "@context": "http://code.sgo.to/datasets",
           "@type": "Class",
           "@id": str(i),
-          "dataset": "../manifest.json",
           "name": str(name),
           "images": map(lambda url: {"@type": "Image", "url": url}, dataset[i])
         }

@@ -1,0 +1,176 @@
+{
+  "images": [
+    {
+      "url": "00243.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00372.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00752.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00771.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00992.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01019.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01356.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01780.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01910.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02013.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02069.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02180.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02814.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02890.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03112.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03200.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03263.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03346.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03582.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03817.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04229.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04382.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04645.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04710.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04869.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05414.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05467.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05504.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06092.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06259.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06348.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06656.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06722.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06776.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07113.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07225.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07289.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07409.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07421.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07510.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07977.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08101.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "168", 
+  "@type": "Class", 
+  "name": "Nissan Leaf Hatchback 2012", 
+  "dataset": "../manifest.json"
+}

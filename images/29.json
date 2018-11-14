@@ -1,0 +1,176 @@
+{
+  "images": [
+    {
+      "url": "00153.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00859.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01089.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01128.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01192.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01208.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01340.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01395.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01687.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02087.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02116.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02188.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02419.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02874.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02992.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03010.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03214.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03709.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04029.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04266.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04410.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04547.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04706.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04769.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04998.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05105.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05568.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05592.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05604.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05633.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06030.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06298.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06696.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06885.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06919.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06934.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06945.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07045.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07269.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07557.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07721.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08004.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "30", 
+  "@type": "Class", 
+  "name": "BMW 3 Series Wagon 2012", 
+  "dataset": "../manifest.json"
+}

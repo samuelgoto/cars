@@ -1,0 +1,180 @@
+{
+  "images": [
+    {
+      "url": "00062.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00196.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00250.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00442.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00586.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00805.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00976.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01144.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01408.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01540.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01670.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01974.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02705.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02742.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02959.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03678.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03922.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03930.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04004.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04600.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04640.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04959.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05027.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05043.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05251.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05492.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05519.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05642.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05679.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05766.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05848.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05903.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05931.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05941.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06104.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06285.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06561.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06585.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06821.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07345.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07823.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07989.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "08088.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "190", 
+  "@type": "Class", 
+  "name": "Volkswagen Golf Hatchback 2012", 
+  "dataset": "../manifest.json"
+}

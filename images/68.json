@@ -1,0 +1,160 @@
+{
+  "images": [
+    {
+      "url": "00264.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00273.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00595.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00645.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "00748.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01060.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01074.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01612.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01736.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01884.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "01905.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "02230.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03062.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03320.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03359.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03539.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03612.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03680.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "03959.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04307.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04439.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "04799.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05221.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05222.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05231.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05269.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "05447.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06064.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06456.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06537.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06541.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "06640.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07019.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07256.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07321.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07664.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07868.jpg", 
+      "@type": "Image"
+    }, 
+    {
+      "url": "07963.jpg", 
+      "@type": "Image"
+    }
+  ], 
+  "@id": "69", 
+  "@type": "Class", 
+  "name": "Chevrolet Silverado 2500HD Regular Cab 2012", 
+  "dataset": "../manifest.json"
+}
